@@ -54,11 +54,9 @@ hy2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243/?insecure=1&sni=bing.com#HK
 hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#Channel
 hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#🇭🇰HK
 hy2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060/?insecure=1&sni=bing.com#美国🇺🇸
-hy2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
 hy2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308/?insecure=1&sni=bing.com#Channel
 hy2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438/?insecure=1&sni=bing.com#🇺🇸US
 hy2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282/?insecure=1#🇭🇰香港
-hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AHK
 hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#Channel
 hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#香港
 hy2://XON4wZ0sXe1YaqFY2FeM7uZY4@122.248.205.111:15221/?insecure=1&sni=bing.com#SG
@@ -77,7 +75,6 @@ hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs
 hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel
 hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@hk1.1010991.xyz:3001/?insecure=1&sni=hk1.1010991.xyz#🇭🇰香港
 hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001/?insecure=1&sni=us2.1010991.xyz#🇺🇸美国
-hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#%3E%3E%40shadowproxy66%3A%3AUS
 hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel
 hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=🔒
 hy2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com
@@ -161,7 +158,6 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bi
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?sni=bing.com&insecure=1#GB
-hysteria2://7f1ad19e-2cc1-4eec-a583-d61f63165dea@dehub.xg-hub.icu:25784?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#US
 hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#NL
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#%40vmessprotocol%20%20%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86برای
@@ -215,7 +211,6 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#☞
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%3E%3E%40FreakConfig%3A%3ANL
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2RAYNG_1378
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL
