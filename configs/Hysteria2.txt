@@ -107,7 +107,6 @@ hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-hysteria2://287ca8c3-267f-4ba4-a48a-683c450d07f2@b3cc762f4cb7.anondns.net:27063?insecure=0#@meli_proxyy
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
