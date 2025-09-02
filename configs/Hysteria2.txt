@@ -152,7 +152,7 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=t
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bing.com&insecure=1#DE
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?sni=bing.com&insecure=1#GB
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#Telegram:@config_proxy
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#US
 hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander#RU
 hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel%20id%3A%20%40singbox1%F0%9F%87%BA%F0%9F%87%B8%20%232
