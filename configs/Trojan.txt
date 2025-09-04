@@ -5686,14 +5686,12 @@ trojan://bpb-trojan@104.18.86.0:443/?type=tcp&security=tls&sni=adagio....&allowI
 trojan://bpb-trojan@104.18.89.137:443/?type=tcp&security=tls&sni=fcspring.ggff.net#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.18.9.19:443/?type=tcp&security=tls&sni=adagio.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.18.94.159:443?allowInsecure=0&sni=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.18.94.159:443?allowInsecure=0&sni=🔒
 trojan://bpb-trojan@104.19.128.93:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.19.177.234:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.19.177.234:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.19.213.76:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.19.213.76:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.19.214.24:443?allowInsecure=0&sni=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram⚠️
-trojan://bpb-trojan@104.19.214.24:443?allowInsecure=0&sni=🔒
 trojan://bpb-trojan@104.19.222.79:443/?type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&security=tls&sni=qq.vvii.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.19.222.79:443/?type=ws&host=qq.vvii.us.kg&path=🔒
 trojan://bpb-trojan@104.19.32.112:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram
