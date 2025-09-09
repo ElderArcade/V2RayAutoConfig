@@ -1,4 +1,5 @@
 hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-in.mxtn.net:443?insecure=0#IN
+ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B56%5D
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 ss://9dd4eb58-1e4a-4024-abee-b5c9f727d9ce@139.59.82.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-0294
@@ -13,6 +14,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+167.71.235.238-47347+%7C+261.88ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0312
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0338
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-5091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvdGZjeGloVnpXcjFtajYyeUg1d1FL@45.79.125.161:443#%3E%3E%40free4allVPN%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvdGZjeGloVnpXcjFtajYyeUg1d1FL@45.79.125.161:443#India+Akamai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw==@103.125.147.48:51348#%F0%9F%87%AE%F0%9F%87%B3IN-103.125.147.48-9081
@@ -32,6 +34,7 @@ trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&secur
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0776
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-2985
 trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#%F0%9F%87%AE%F0%9F%87%B3IN-20.235.105.146-0711
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B56%5D
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 vless://9dd4eb58-1e4a-4024-abee-b5c9f727d9ce@139.59.82.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
