@@ -7667,7 +7667,6 @@ trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-9083
 trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@15.188.1.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@15.188.1.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842998111200480
 trojan://telegram-id-directvpn@15.188.1.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.153.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.198.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
