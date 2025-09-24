@@ -429,7 +429,6 @@ trojan://1sbtkLK7F3@195.22.157.104:37085/?type=httpupgrade&host=joon.arshiacompl
 trojan://1sbtkLK7F3@195.22.157.104:37085/?type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=🔒
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#trojan-ws-tls```
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=🔒
-trojan://1ukr4lk1-hh63-snog-i8sx-2f6gllfgn5zo@127.0.0.1:8080?security=tls&type=tcp#For
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=🔒
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@172.67.24.177:443?security=tls&sni=🔒
 trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443/?type=tcp&security=tls&sni=🔒
@@ -464,6 +463,7 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@15.168.35.88:443/?type=tcp&securit
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443/?type=tcp&security=tls&allowInsecure=1&fp=chrome
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=🔒
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none
+trojan://24523a7c-15ei-fvn2-wvkq-tv6v5fwoon5g@127.0.0.1:4080?security=tls&type=tcp#「
 trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
@@ -1628,6 +1628,7 @@ trojan://6gUCk7hlRJ@172.67.193.157:8443/?type=ws&host=MIKasA.drAgoNAllEy.iR.&pat
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=🔒
+trojan://6l2t9exo-zanx-7zm8-wt73-3gxu2zslnxk6@127.0.0.1:8081?security=tls&type=tcp#
 trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-5587
@@ -1849,7 +1850,6 @@ trojan://7f4e8527-79da-49c3-8ca8-64eef120882f@163.123.192.149:443?security=tls&s
 trojan://7f5e1438-0c8f-46d2-baf4-7025c264532e@91.195.240.12:443?security=tls&sni=🔒
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:20139/?type=tcp&security=tls&sni=🔒
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&security=tls&sni=🔒
-trojan://7hk7ij2k-2ukq-av7v-7n4a-aquspp9rf2tg@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-4334
 trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@brjs.stablize.top:443?type=tcp&allowInsecure=1
@@ -6536,6 +6536,7 @@ trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t5.qifei.app:54860?security=tls&he
 trojan://er668@104.21.32.1:443/?type=tcp&security=tls&sni=🔒
 trojan://er668@kfjdi.pages.dev:443/?type=ws&path=%2F&security=tls#%40v2ray_configs_pool
 trojan://er668@kfjdi.pages.dev:443/?type=ws&path=🔒
+trojan://ez6pkwxr-ktwp-9qrr-nf7a-0qslx6u2mwmu@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880/?type=ws&host=late-tooth.gra...&path=%2FTelegram%40Linkvws%3Fed%3D2560
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=late-tooth.granzinhannah.workers.dev#RELAY🚩
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=late-tooth.granzinhannah.workers.dev#RELAY🚩
@@ -6901,7 +6902,6 @@ trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#%F0%9F%8F%81RE
 trojan://psycho@104.21.80.1:443?security=tls&sni=🔒
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=🔒
-trojan://pv8xhnwx-5puq-dfdb-i3m9-gzm3kzxnzsrc@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443/?type=tcp&security=tls&sni=🔒
 trojan://q9870219@181.214.99.54:2035?security=tls&sni=ht.lljllj.buzz#%F0%9F%87%A9%F0%9F%87%AADE-181.214.99.54-2556
 trojan://q9870219@181.214.99.54:2035?security=tls&sni=🔒
@@ -6915,7 +6915,7 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1910
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=🔒
-trojan://r2nqp2ld-ocz3-gjz1-5acf-etnb7wsquhw9@127.0.0.1:4080?security=tls&type=tcp#「
+trojan://r3qkjpe5-9gz3-7bh0-8f43-rbmjmk3ui3yo@127.0.0.1:8080?security=tls&type=tcp#For
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443/?type=tcp&security=tls&sni=🔒
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443/?type=ws&path=%2Ftr4BCdusB84159lWnu&security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0627
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0641
@@ -6927,6 +6927,7 @@ trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=non
 trojan://redfree8@104.17.148.22:80?path=🔒
 trojan://redfree8@104.17.148.22:80?security=tls&sni=redfree8-p1.pooriashop.ir&type=ws&path=/trLwW5jwrnymnOdqki?ed=2560&Host=redfree8-p1.pooriashop.ir#%F0%9F%8F%81RELAY-104.17.148.22-0638
 trojan://redfree8@104.17.148.22:80?security=tls&sni=🔒
+trojan://rpiah1nt-84g4-wg2j-m04i-qm037xij9rpg@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://s42&umY(K5n*csP4@104.21.112.1:8443/?type=ws&host=joinmahdiserver-eeu.pages.dev&path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv#%40Hope_Net-join-us-on-Telegram
 trojan://s42&umY(K5n*csP4@104.21.112.1:8443/?type=ws&host=joinmahdiserver-eeu.pages.dev&path=🔒
 trojan://s8xwZ%5D%7C%3FV%3EcH@104.17.147.22:80/?type=tcp&security=tls
@@ -8038,7 +8039,6 @@ trojan://xxoo@us.blazeppn.info:443/?type=tcp&security=tls&sni=🔒
 trojan://xxoo@us.blazeppn.info:443?security=tls
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-8132
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=🔒
-trojan://y9et6ipj-q4y6-kn2u-ccba-jianxh8pn6si@127.0.0.1:8081?security=tls&type=tcp#
 trojan://yAcqvPOj@sgb.mdfg.tk:443?security=tls&sni=🔒
 trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=🔒
 trojan://yaml777@104.21.61.73:443/?type=ws&path=%2F&security=tls&sni=yaml7.ggff.net#%F0%9F%8F%81RELAY-104.21.61.73-0839
