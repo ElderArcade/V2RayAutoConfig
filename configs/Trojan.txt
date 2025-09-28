@@ -930,7 +930,6 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%B
 trojan://3r372@91.195.240.94:443/?type=tcp&security=tls&sni=🔒
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
 trojan://3r372@91.195.240.94:443?security=tls&sni=🔒
-trojan://3urxoiuk-2nuz-6c2j-f77w-5rpq1yy1jb7h@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443/?type=tcp&security=tls&sni=🔒
 trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443/?type=ws&path=%2FTelegram%40Li...&security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.71.131:443/?type=ws&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&security=tls&sni=m5rt.999854.xyz#%F0%9F%8F%81RELAY-104.21.71.131-1846
@@ -2027,6 +2026,8 @@ trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19239tj.matrixxx888.com:19239?type
 trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19242tj.matrixxx888.com:19242?type=tcp&sni=🔒
 trojan://8f97e6b0-4213-11f0-a9b4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@91947508-sy41s0-szj3jn-1qthu.cm5.cnkuaishou.com:27231?security=tls&sni=🔒
+trojan://8j27m7zw-z214-h189-8cim-l62nso652hp6@127.0.0.1:8081?security=tls&type=tcp#
+trojan://8kp5fz9w-rbd1-8qgh-7gp9-gxy3o1wri83q@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443/?type=ws&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0621
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443/?type=ws&path=🔒
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0586
@@ -6486,6 +6487,8 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=ai
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#I%20930%20%28%40Outline_Vpn%29%20free
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#RELAY🚩
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇸🇬[openproxylist.com]
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩
@@ -6650,6 +6653,7 @@ trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5626?s
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=🔒
 trojan://fafb4232-9659-4867-886d-e47f4bda283e@149.56.132.41:80?allowInsecure=1&sni=🔒
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
+trojan://fbmrxp0t-21x4-j8mt-hhw7-wugihz2bir37@127.0.0.1:4080?security=tls&type=tcp#「
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038/?type=tcp&security=tls&sni=v2hgc02.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1377
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038/?type=tcp&security=tls&sni=🔒
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038?security=tls&sni=v2hgc02.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1257
@@ -6726,8 +6730,6 @@ trojan://kSZddpnUKy@150.136.57.125:41106?security=tls
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-5534
 trojan://kSzEKwHEGEaNGwauwq6oWw@tun.shadowcx.top:7223?security=none&type=tcp&headerType=&path=🔒
 trojan://lGVW8vHchbZ93cLH9gvZbA@tun.shadowcx.top:7223?security=none&type=tcp&headerType=&path=🔒
-trojan://lu9xetsg-sbsu-04sw-zshj-ml73tvl8upxa@127.0.0.1:1080?security=tls&type=tcp#🕒
-trojan://m8fnvlxw-kig7-phli-wdxv-90ricavv8y3l@127.0.0.1:4080?security=tls&type=tcp#「
 trojan://m9n0o1p2-3456-7bcd-8abc-9012abcdef34@104.21.25.140:443/?type=tcp&security=tls&sni=🔒
 trojan://mVaHDDWsvC@104.21.43.168:443/?type=tcp&security=tls&sni=🔒
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#⚜️Telegram:
@@ -6822,8 +6824,8 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1873
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=🔒
-trojan://qkbomif7-kbkr-sklr-r9eh-98cbfe5rtzs4@127.0.0.1:8080?security=tls&type=tcp#For
-trojan://r4n1z08t-uvd4-6mfe-6wxx-2xbgjlrg4k3y@127.0.0.1:8081?security=tls&type=tcp#
+trojan://r3tqlthm-83yz-2oca-39ex-o62mrtfmsiwc@127.0.0.1:8080?security=tls&type=tcp#For
+trojan://r84qjwrr-ub5k-hm10-ihkm-vgbfnc4iy6h5@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443/?type=tcp&security=tls&sni=🔒
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443/?type=ws&path=%2Ftr4BCdusB84159lWnu&security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0627
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0616
