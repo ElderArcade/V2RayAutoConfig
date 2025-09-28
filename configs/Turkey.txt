@@ -8,8 +8,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI3@83.217.9.4:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.4-443+%7C+161.84ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.60.233.220-18685+%7C+156.75ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk@77.83.245.171:443#%F0%9F%87%B9%F0%9F%87%B7TR-77.83.245.171-0276
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM%3D@83.217.9.64:443#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61.71ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM3@83.217.9.64:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.64-443+%7C+170.79ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM@83.217.9.64:443#%E5%9C%9F%E8%80%B3%E5%85%B6_092309001%2BL33🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOYlFOcW5nYUl3Uzc@83.217.9.101:443#%F0%9F%87%B9%F0%9F%87%B7TR-83.217.9.101-0921
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlBNUDZMd1B5V1I2ZGNHTnJMTHp1@h110vpntr.outlinekeys.net:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+h110vpntr.outlinekeys.net-65262+%7C+486.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMm9jSldab2hYckU3@77.83.245.169:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+77.83.245.169-443+%7C+204.98ms
@@ -18,6 +18,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaDJKeE9WdEkwd2xDZ3hZcnZ2Q3ZV@62.133.63.244:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0297
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0359
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI@77.83.245.190:443#%F0%9F%87%B9%F0%9F%87%B7TR-77.83.245.190-0523
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:66.59ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE3@62.133.63.18:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.18-443+%7C+154.71ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.18-443+%7C+165.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.125-2222+%7C+156.99ms
@@ -61,7 +62,6 @@ ss://id6686739236@45.89.52.228:443/?type=tcp&encryption=none&flow=xtls-rprx-visi
 ss://id6856346113@tr3.vlessvpn.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.trendyol.com&fp=chrome&security=reality&pbk=bud9oCxsirvuYc5YDQMv2nxo3ng2TXTNhgZutCDE7UE&sid=9d2fc7dd498e#7%20%7C%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%F0%9F%87%B9%F0%9F%87%B7
 ss://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=trendyol.com&fp=chrome&security=reality&pbk=uIRwom3hz5_F9XL61FUa9Me_20F0kJLehZHdlNwkq2E&sid=4fd30711de97#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B18%5D
 ss://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?type=tcp&security=reality&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&fp=chrome&sni=ya.ru&sid=8ed73883bc0eb6a8&spx=%2F&flow=xtls-rprx-vision#REALITY|TR🇹🇷
-trojan://4mZzfWMLGz@5.255.102.41:10979?type=xhttp&path=%2Fdictator232&host=mooshali.arshiacomplus.dpdns.org&mode=packet-up&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR-xhttp-0ed6l7ws
 trojan://diSO4oXGtu@5.255.102.41:57345?type=xhttp&path=%2Fdictator123&host=mooshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=mooshali.arshiacomplus.dpdns.org#TR-xhttp-j8abdzeo
 trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-1018
 vless://08bc45d6-1637-448a-9840-2759ed247be7@ytr.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#REALITY|TR🇹🇷
