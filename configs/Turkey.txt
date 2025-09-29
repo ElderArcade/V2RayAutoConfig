@@ -27,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-5073
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI@77.83.245.190:443#%F0%9F%87%B9%F0%9F%87%B7TR-77.83.245.190-0523
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c3@83.217.9.210:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.210-443+%7C+143ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c@83.217.9.210:443#%E5%9C%9F%E8%80%B3%E5%85%B6_092309042%2BM40🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE3@62.133.63.18:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.18-443+%7C+121.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.18-443+%7C+121.33ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.125-2222+%7C+123.57ms
@@ -61,6 +60,7 @@ ss://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&service
 ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B15%5D
 ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=&encryption=none&host=filimo.com&type=ws#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61.12ms
 ss://c7515fa7-6119-4a81-8fef-6d3ea24afffe@ytr.amiraizo.com:2560/?type=tcp&encryption=none&sni=cloudflare.com&fp=firefox&security=reality&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B9%5D
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.93ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:65.13ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
@@ -86,6 +86,7 @@ vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serv
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B15%5D
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=&encryption=none&host=filimo.com&type=ws#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61.12ms
 vless://c7515fa7-6119-4a81-8fef-6d3ea24afffe@ytr.amiraizo.com:2560/?type=tcp&encryption=none&sni=cloudflare.com&fp=firefox&security=reality&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B9%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.93ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:65.13ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
