@@ -4103,6 +4103,7 @@ trojan://NISHIKUITAN111@92.53.191.173:443/?type=tcp&security=tls#%40Hope_Net-joi
 trojan://NISHIKUITAN111@94.242.229.89:443?allowInsecure=1
 trojan://NISHIKUITAN222@104.16.142.43:443?allowInsecure=1&ws=1&wspath=%2F#RELAY🚩
 trojan://NISHIKUITAN222@104.16.199.201:443?allowInsecure=1&ws=1&wspath=%2F#RELAY🚩
+trojan://NISHIKUITAN222@104.16.200.98:443#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://NISHIKUITAN222@104.16.200.98:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.16.25.100:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.16.40.237:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
