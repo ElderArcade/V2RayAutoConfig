@@ -73,8 +73,6 @@ hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcl
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440?insecure=0&sni=real.getafreenode.sbs#_%F0%9F%87%BA%F0%9F%87%A6_%F0%9F%92%BC_github.com%2FRuk1ng001_3137643038616637
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440?insecure=0&sni=real.getafreenode.sbs#_%F0%9F%87%BA%F0%9F%87%A6_%F0%9F%92%BC_github.com%2FRuk1ng001_3339383061373961
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B869%20%7C%20%204.3MB/s%7C100%25%7CNetflix%7CO...
@@ -301,6 +299,7 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A6%EF%B8%8F81%40ConfigV2RayNG
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#United%20Kingdom🇬🇧
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#%3E%3E%40configV2rayNG%3A%3AGB
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#%F0%9F%A7%A995%40ConfigV2RayNG
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#@Daily_Configs
