@@ -410,8 +410,6 @@ hysteria2://f7d248a3-6b12-4bf7-b0cd-802adbc002d9@dg1.xiaohuolongjc.top:37771?ins
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-%40ISVvpn
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-@ISVvpn
-hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:50440?insecure=0&sni=real.getafreenode.sbs#_%F0%9F%87%BA%F0%9F%87%A6_%F0%9F%92%BC_github.com%2FRuk1ng001_3838613061343837
 hysteria2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443?sni=www.microsoft.com&insecure=1#JP
 hysteria2://joindailyconfigschanel:Zh6LyPCpFJDhyJ0KGu87cEzCJik5TKZ7@103.249.133.79:443?sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1#@Daily_Configs
