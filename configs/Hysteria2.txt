@@ -118,8 +118,6 @@ hysteria2://432f1d00-0fcf-472e-bef2-ee575c8e85fe@mf1.ylccloud.top:16090?insecure
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#All--%40IRAN_V2RAY1
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#All--@IRAN_V2RAY1
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net:8443?sni=898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8103%20%7C%20%203.2MB/s
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -254,6 +252,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#13%F0%9F%9A%A8%40ConfigV2RayNG
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35200?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#NL
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfighysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfighysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B3%F0%9F%87%B1👆کپی
@@ -382,7 +381,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.b
 hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%202
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfighysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#@Daily_Configs
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#All-@IRAN_V2RAY1
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#⚡Telegram=@SOSkeyNET
