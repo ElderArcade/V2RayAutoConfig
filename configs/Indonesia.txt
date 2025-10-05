@@ -14,7 +14,6 @@ hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=Y
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B3%F0%9F%87%B1
 hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
-hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@358d29-330-2.9966661.xyz:3000/?sni=358d29-330.9966661.xyz#%3E%3E%40shadowproxy66%3A%3AID
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@358d29-330-2.9966661.xyz:3000/?sni=358d29-330.9966661.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%A9
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@358d29-330-2.9966661.xyz:3000/?sni=358d29-330.9966661.xyz#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AE%F0%9F%87%A9
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@af01e9-330-3.9966661.xyz:3000/?sni=af01e9-330.9966661.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%AD
