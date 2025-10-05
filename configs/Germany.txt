@@ -4,6 +4,7 @@ hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:50440?sni=real.g
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2004
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?sni=bing.com&insecure=1#DE
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE
+hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?sni=bing.com&insecure=1#DE
 hysteria2://4eba7d4d-8460-4f9f-9718-9f06886b5489@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?insecure=0#DE
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?insecure=0#DE-telegram-%40ISVvpn%20%20%F0%9F%8C%90%20%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86%3A...
