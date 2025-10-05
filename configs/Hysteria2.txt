@@ -72,9 +72,7 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:52368/?sni=real
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:52368?sni=real.getafreenode.sbs&insecure=0#@freenettir
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440?insecure=0&sni=real.getafreenode.sbs#_%F0%9F%87%BA%F0%9F%87%A6_%F0%9F%92%BC_github.com%2FRuk1ng001_3137643038616637
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440?sni=real.getafreenode.sbs&insecure=0#@freenettir
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:52368?sni=real.getafreenode.sbs&insecure=0#@freenettir
