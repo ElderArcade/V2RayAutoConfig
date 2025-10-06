@@ -56,7 +56,6 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.g
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#%40Daily_Configs
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2001
-hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#@meli_proxyy
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#@meli_proxyytrojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@meli_proxyytrojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#@meli_proxyy
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?sni=bing.com&insecure=1#DE
