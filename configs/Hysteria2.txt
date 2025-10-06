@@ -323,7 +323,6 @@ hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:47230/?sni=real.
 hysteria2://joindailyconfigschanel:Zh6LyPCpFJDhyJ0KGu87cEzCJik5TKZ7@103.249.133.79:443?sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1#@Daily_Configs
 hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2313
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?insecure=1&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#🇺🇲@FreakConfig
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%232
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?security=tls&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#🇺🇲@FreakConfig
