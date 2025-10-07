@@ -68,6 +68,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?encryption=none&sec
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?type=grpc&encryption=none#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#TR🇹🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#Turkey%F0%9F%8F%B3%EF%B8%8F
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
@@ -106,6 +107,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?encryption=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?type=grpc&encryption=none#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#TR🇹🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#Turkey%F0%9F%8F%B3%EF%B8%8F
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
