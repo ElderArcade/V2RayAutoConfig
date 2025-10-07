@@ -3191,7 +3191,6 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?type=grpc&encryptio
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40falcunargo%20%5B13%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free_serverir%20%5B19%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
-ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B8%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mtproxy22_v2ray%20%5B10%5D
@@ -7347,7 +7346,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?type=grpc&encryp
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40falcunargo%20%5B13%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free_serverir%20%5B19%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B8%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mtproxy22_v2ray%20%5B10%5D
