@@ -666,8 +666,7 @@ trojan://23b41d65-d0b2-4a50-f94d-ae187e0bd456@185.146.173.52:8880/?type=httpupgr
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?allowInsecure=0&sni=🔒
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?security=tls&sni=🔒
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443/?type=tcp&security=tls&sni=🔒
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=%2F6b777a91&host=jobscareerfortoday.com#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=🔒
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=%2F6b777a91&host=jobscareerfortoday.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@15.168.35.88:443/?type=tcp&security=tls&sni=🔒
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443/?type=tcp&security=tls&allowInsecure=1&fp=chrome
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -1642,7 +1641,6 @@ trojan://61130614-528c-4b45-ac9b-e7987cff4952@cc44a92e67c3a06550903ab1a79cd258.v
 trojan://61130614-528c-4b45-ac9b-e7987cff4952@cc44a92e67c3a06550903ab1a79cd258.v1.cac.node-is.green:42728/?type=tcp&security=tls&sni=🔒
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%5B%40v2FreeHub%5D%F0%9F%87%A9%F0%9F%87%AA%20-%20Germany%20WS%20TLS
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#RELAY🚩
-trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=🔒
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?type=ws&host=gamang.gpj2.dpdns.org&path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&sni=gamang.gpj2.dpdns.org&fp=chrome&allowInsecure=0#RELAY🚩
@@ -6249,10 +6247,8 @@ trojan://blue2024@172.64.35.159:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@172.64.35.161:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@172.64.35.173:443?sni=ta.promote.icu#US🇺🇸
 trojan://blue2024@172.64.35.187:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.64.35.187:443?sni=ta.promote.icu#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://blue2024@172.64.35.187:443?sni=ta.promote.icu#US🇺🇸
 trojan://blue2024@172.64.35.187:443?sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
-trojan://blue2024@172.64.35.187:443?sni=🔒
 trojan://blue2024@172.64.35.188:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-...
 trojan://blue2024@172.64.35.192:443/?type=ws&host=tb.promote.icu&security=tls&sni=tb.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@172.64.35.192:443/?type=ws&host=tb.promote.icu&security=tls&sni=🔒
@@ -8601,6 +8597,8 @@ trojan://tg-dns68@162.159.152.228:443/?type=ws&host=vip.putata.eu.org&security=t
 trojan://tg-dns68@162.159.152.228:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#RELAY🚩
 trojan://tg-dns68@162.159.152.228:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tg-dns68@162.159.152.232:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#RELAY🚩
+trojan://tg-dns68@162.159.152.3:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://tg-dns68@162.159.152.3:443?security=tls&type=ws&sni=🔒
 trojan://tg-dns68@162.159.152.42:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#RELAY🚩
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
