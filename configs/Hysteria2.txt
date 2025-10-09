@@ -108,7 +108,6 @@ hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?secur
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@151.243.168.31:53667?sni=Ab.ac&insecure=1&obfs=salamander#US
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#AZADIV2RAYY
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#@IRAN_V2RAY1
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#🇳🇱@FreakConfig
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@gs1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@gs1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E6%96%B0%E5%8A%A0%E5%9D%A12
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@gs1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E6%96%B0%E5%8A%A0%E5%9D%A13
@@ -125,7 +124,6 @@ hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?ob
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD2
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD3
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A477.56%20GB
-hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A480.19%20GB
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-10-08
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg2.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD4%7C%E4%BC%98%E5%8C%96
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg2.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD5%7C%E4%BC%98%E5%8C%96
@@ -153,7 +151,6 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:43649/?sni=real
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%40sunflowerplato%F0%9F%8C%BB%20%231
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#@sunflowerplato🌻
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?sni=net2025.afsharidempire.uk&insecure=1&obfs=salamander#NL
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@00fd98-20-2.9966661.xyz:3000?sni=00fd98-20.9966661.xyz#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2005
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@03e37e-330-co-3.9966661.xyz:3000?sni=03e37e-330-co.9966661.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2014
