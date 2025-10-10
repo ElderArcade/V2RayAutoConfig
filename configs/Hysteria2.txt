@@ -7,6 +7,7 @@ hy2://siEk2SjZFG@91.205.158.2:2083/?insecure=1&sni=ghasem.kotlet.org&obfs=salama
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&insecure=0&obfs=salamander#DE
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?insecure=1#TR
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?security=tls&insecure=1#🇹🇷@FreakConfig
@@ -164,6 +165,7 @@ hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure
 hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
 hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%233
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%E2%8F%B042%40ConfigV2RayNG
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%8D%814%40oneclickvpnkeys
@@ -269,6 +271,7 @@ hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#12%7C%E
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#US
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%202
+hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%232
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Rayan_Config%203
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#%F0%9F%9B%9E62%40oneclickvpnkeys
