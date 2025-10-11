@@ -6,6 +6,7 @@ hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=p
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
+hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfighysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfighysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfighysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?security=tls&insecure=1#🇹🇷@FreakConfig
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK
