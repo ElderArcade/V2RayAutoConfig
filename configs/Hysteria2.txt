@@ -10,6 +10,8 @@ hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dpo
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK
 hysteria2://0cHs5waV2g@91.107.150.208:443?insecure=1&sni=hacks.mozilla.org&obfs=salamander&obfs-password=V2RayyNGvpnjdbdbMiracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...
 hysteria2://0cHs5waV2g@91.107.150.208:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpnjdbdbMiracle&insecure=1&sni=hacks.mozilla.org#🇩🇪@V2RayyNGvpn🇩🇪همه
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@147.45.73.70:56684/?sni=real.getafreenode.sbs#Stockholm-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@147.45.73.70:56684/?sni=real.getafreenode.sbs#Stockholm-GetAFreeNode
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
