@@ -1,8 +1,5 @@
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?sni=net2025.afsharidempire.uk&insecure=1&obfs=salamander#NL
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL
-hysteria2://y0qochAspE+u-HLfrip-@45.32.234.211:443?sni=Google.com&insecure=1&obfs=salamander#NL
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&insecure=1&sni=hshl.huasuan666.top#Netherlands🇳🇱
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
 ss://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#NL🇳🇱
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?&security=tls&fp=chrome&sni=fast01.0860852.xyz&type=ws&headerType=none&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%8D%B7%E5%85%B0%20046
 ss://2456f90c-5183-476d-b069-16ae74ce120f@45.131.211.253:2096?&security=tls&fp=chrome&sni=fast01.0860852.xyz&type=ws&headerType=none&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%8D%B7%E5%85%B0%20047
