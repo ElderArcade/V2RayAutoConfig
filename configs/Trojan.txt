@@ -390,6 +390,7 @@ trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#%E9%A6%99%E6%B8%AF+UCloud
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20UCloud
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls
@@ -762,7 +763,6 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?security=tls&sni=ww
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?sni=🔒
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
@@ -773,7 +773,6 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?security=tls&sni=�
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?sni=fe2.update.microsoft.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?sni=🔒
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
@@ -5421,7 +5420,6 @@ trojan://auto@104.21.72.108:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.21.90.210:443/?type=tcp&security=tls...
 trojan://auto@104.26.12.54:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.26.13.31:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@104.26.13.31:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&host=trojanfree-76s.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@104.26.13.54:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.26.13.54:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#⚡Telegram
 trojan://auto@104.26.3.36:443/?type=ws&security=tls&sni=b96ef9ae...
@@ -5494,7 +5492,7 @@ trojan://auto@172.66.47.150:8443/?type=ws&path=🔒
 trojan://auto@172.66.47.150:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#RELAY🚩
 trojan://auto@172.66.47.170:443/?type=ws&path=%2F&security=tls&sni=trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.66.47.170:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://auto@172.66.47.170:443?security=tls&type=ws&sni=🔒
+trojan://auto@172.66.47.170:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@172.67.161.104:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.67.174.21:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.67.174.252:443/?type=tcp&security=tls&sni=🔒
@@ -7430,6 +7428,7 @@ trojan://installshield@38.180.106.124:8443?
 trojan://installshield@38.180.106.124:8443?#%E6%9C%AA%E7%9F%A5
 trojan://installshield@38.180.106.124:8443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@38.180.106.124:8443?allowInsecure=1
+trojan://installshield@38.180.106.124:8443?allowInsecure=1#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#SG_speednode_0020
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#🇸🇬[openproxylist.com]
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
