@@ -50,6 +50,7 @@ hysteria2://4c0c889785026935@77.110.115.25:5053?insecure=1&sni=www.bing.com&obfs
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@de1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%AA%A218%40oneclickvpnkeys
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%AA%A221%40oneclickvpnkeys
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%AA%A213%40oneclickvpnkeys
+hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#🔥Join+Telegram:@Farah_VPN🟣
 hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@d8ff4d7d-t44ps0-t5hsrg-1j0a4.hk1.hyhuawei.com:443?sni=d8ff4d7d-t44ps0-t5hsrg-1j0a4.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2003
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@147.45.73.70:56684/?sni=real.getafreenode.sbs#Stockholm-GetAFreeNode
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
