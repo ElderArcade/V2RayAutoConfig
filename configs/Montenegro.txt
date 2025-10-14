@@ -238,6 +238,7 @@ trojan://telegram-id-directvpn@13.37.43.85:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@15.188.151.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.157.108.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@51.44.54.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.54.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.57.190.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.176.30.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.197.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -345,7 +346,6 @@ trojan://tg-dns68@104.19.46.6:443?security=tls&type=ws&sni=vip.putata.eu.org&hos
 trojan://tg-dns68@162.159.152.88:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=%2F&security=tls&sni=hsdgbuys.pages.dev#[🏁]t.me/ConfigsHub
-trojan://wb6368@92.243.75.49:2087?path=%2F%3FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#[🏁]t.me/ConfigsHub
 vless://-KINGOFV2RAY-@95.182.98.158:11228?security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=Ha3eMi1-eOxjjGfUmWpCgAGeNKiaxcBL_wksz0Gbl1Y&sid=622963e838929d&spx=%2f&type=grpc&serviceName=%40KINGOFV2RAY%2c%40KINGOFV2RAY%2c%40KINGOFV2RAY%2c%40KINGOFV2RAY%2c%40KINGOFV2RAY%2c%40KINGOFV2RAY%2c&path=%2f#[🇫🇷]t.me/ConfigsHub
 vless://01996549-6892-dbf0-0453-f700236936bd@138.2.89.238:43254/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org#[🏁]t.me/ConfigsHub
 vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?path=%2Fsnippets%3Fip%3Dport%28443%29%26nat64%3D6to4%23TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D2048&security=tls&encryption=none&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn#[🇺🇸]t.me/ConfigsHub
