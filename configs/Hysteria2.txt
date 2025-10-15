@@ -167,8 +167,6 @@ hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tl
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#All-%40IRAN_V2RAY1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All-@IRAN_V2RAY1
 hysteria2://80aa5178-f936-11ed-8ce6-f23c91369f2d@dbf47b59-t46kg0-tfvcxz-1nq4g.hk2.hyhuawei.com:443?insecure=0#github.com%2FRuk1ng001_6631323363613462
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://80f73b42-8264-11ef-8dc4-f23c91cfbbc9@1313ad4a-t46kg0-tbvl5i-1mebs.hk2.hyhuawei.com:443?insecure=0#github.com%2FRuk1ng001_6563356233613964
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%E2%9D%93_%F0%9F%87%A8%F0%9F%87%A6_%F0%9F%92%BB_github.com%2FRuk1ng001_3437356364623539
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#🌐سرور
