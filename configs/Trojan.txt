@@ -7153,6 +7153,7 @@ trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511/?type=tcp&secur
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t18.qifei.app:64047?security=tls&headerType=&type=tcp
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t5.qifei.app:54860?security=tls&headerType=&type=tcp
 trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?allowInsecure=0&sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?allowInsecure=0&sni=awshk.686911.xyz#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?allowInsecure=0&sni=🔒
 trojan://er668@104.21.32.1:443/?type=tcp&security=tls&sni=🔒
 trojan://er668@kfjdi.pages.dev:443/?type=ws&path=%2F&security=tls#%40v2ray_configs_pool
@@ -7427,7 +7428,6 @@ trojan://installshield@38.180.106.124:8443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@38.180.106.124:8443?allowInsecure=1
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#SG_speednode_0020
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#🇸🇬[openproxylist.com]
-trojan://installshield@38.180.106.124:8443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@38.180.106.124:8443?allowInsecure=1&sni=38.180.106.124#%E7%BE%8E%E5%9C%8B_1
 trojan://installshield@38.180.106.124:8443?security=tls
 trojan://installshield@38.180.106.124:8443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.106.124-1196
@@ -7436,15 +7436,19 @@ trojan://installshield@38.180.249.177:8443/?type=tcp&security=tls&sni=wrmelmwxlf
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
 trojan://installshield@38.180.249.177:8443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.177-5602
 trojan://iwangjie@135.125.232.253:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@135.125.232.253:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://iwangjie@135.125.232.253:2053?allowInsecure=0&sni=🔒
 trojan://iwangjie@138.124.118.34:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2Fproxyip%3Dproxyip.fxxk.dedyn.io#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@138.124.118.34:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2Fproxyip%3Dproxyip.fxxk.dedyn.io#🔥Join+Telegram:@Farah_VPN🟣
 trojan://iwangjie@138.124.118.34:443?allowInsecure=0&sni=🔒
 trojan://iwangjie@141.94.68.216:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@141.94.68.216:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://iwangjie@141.94.68.216:2053?allowInsecure=0&sni=🔒
 trojan://iwangjie@158.101.11.204:15805/?type=tcp&security=tls&sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-1002
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=nodes.830901.xyz&type=ws&path=/?ed=2560&Host=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-0721
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=🔒
 trojan://iwangjie@83.147.254.185:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@83.147.254.185:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://iwangjie@83.147.254.185:443?allowInsecure=0&sni=🔒
 trojan://iyinglong@13.213.69.245:443?security=tls
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-6562
@@ -9056,7 +9060,6 @@ trojan://wb6368@172.66.47.170:443/?type=tcp&security=tls&sni=🔒
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=%2F&security=tls&sni=hsdgbuys.pages.dev#[🏁]t.me/ConfigsHub
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=%2F&security=tls&sni=hsdgbuys.pages.dev&allowInsecure=1#%F0%9F%9A%8022%40oneclickvpnkeys
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=🔒
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=🔒
 trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#@V2rayNGVPN
 trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#Channel
