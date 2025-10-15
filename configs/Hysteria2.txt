@@ -350,10 +350,8 @@ hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?i
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-@ISVvpn
 hysteria2://fbf91120-50ba-11ef-a203-f23c91cfbbc9@86b4b483-t46kg0-t6kwk6-1s3lb.hk2.hyhuawei.com:443?insecure=0#github.com%2FRuk1ng001_3861623562376665
-hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2314
 hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#🌐سرور
 hysteria2://miaoge110@45.58.38.153:40112?insecure=1&sni=www.bing.com#%40Daily_Configs%20%2314
-hysteria2://miaoge110@45.58.38.153:40112?insecure=1&sni=www.bing.com#%40Daily_Configs%20%2315
 hysteria2://miaoge110@45.58.38.153:40112?security=tls&insecure=1&sni=www.bing.com#@sunflowerplato🌻
 hysteria2://miaoge110@45.58.38.153:40112?sni=www.bing.com&insecure=1#@Daily_Configs
 hysteria2://perspoliszibatarineshghjahan:FsJucWq9I3xWM4ocQcUh7h8EB4mIqLWI@80.85.241.237:443?sni=stackoverflow.com&obfs=salamander&obfs-password=fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf&insecure=1#Tel:@Daily_Configs
@@ -366,5 +364,4 @@ hysteria2://theredarmy@80.85.241.237:443?insecure=1&sni=stackoverflow.com&obfs=s
 hysteria2://zanzendegiazadi:j5hi5rvXY3ueWqWKSKtro93cOHN1ai5m@103.249.133.79:443?security=tls&insecure=1&pinSHA256=C9:18:D6:18:CC:F1:39:84:0A:4F:DB:A8:C7:83:D6:EE:43:D8:55:9F:08:CA:AA:95:11:95:31:AD:C9:12:5C:09&sni=ubuntu.com#@Daily_Configs
 hysteria2://zanzendegiazadi:j5hi5rvXY3ueWqWKSKtro93cOHN1ai5m@103.249.133.79:443?security=tls&insecure=1&pinSHA256=C9:18:D6:18:CC:F1:39:84:0A:4F:DB:A8:C7:83:D6:EE:43:D8:55:9F:08:CA:AA:95:11:95:31:AD:C9:12:5C:09&sni=ubuntu.com#🌐سرور
 hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#%40Daily_Configs%20%2315
-hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#%40Daily_Configs%20%2316
 hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#🌐سرور
