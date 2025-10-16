@@ -1,7 +1,6 @@
 hysteria2://a24c6851-2055-42c1-9c20-2d3bad97334f@6a471e-20.9966661.xyz:3000?sni=6a471e-20.9966661.xyz#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2003
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B7%5D
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.83ms
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none&flow=#FR🇫🇷
 ss://01998846-8a17-c5bf-5b2f-6e85f5964400@188.130.207.158:2053?security=tls&type=ws&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&host=kejiland.freewarp.eu.org&sni=kejiland.freewarp.eu.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2050
@@ -238,7 +237,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:71.34ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.95ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.35ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#FR%F0%9F%87%AB%F0%9F%87%B7%28%40ConfigV2RayNG%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B18%5D
@@ -471,7 +470,6 @@ trojan://telegram-id-v2rayvpnchannel@51.45.9.76:22223?security=tls&alpn=http%2F1
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&type=tcp#FR🇫🇷
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B7%5D
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.83ms
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none&flow=#FR🇫🇷
 vless://01998846-8a17-c5bf-5b2f-6e85f5964400@188.130.207.158:2053?security=tls&type=ws&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&host=kejiland.freewarp.eu.org&sni=kejiland.freewarp.eu.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2050
