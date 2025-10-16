@@ -13,10 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Cache repository
+        uses: actions/cache@v4
+        with:
+          path: |
+            .git
+          key: ${{ runner.os }}-git-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-git-
+
       - name: 📥 Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # دریافت کل تاریخچه مخزن
+          fetch-depth: 1
+          sparse-checkout: |
+            Files/
+            configs/
+            README.md
+          sparse-checkout-cone-mode: false
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -38,7 +52,7 @@ jobs:
 
       - name: 🕸️ Run scraping script
         run: |
-          python Files/scrip.py || { echo "Scraper failed, check logs"; exit 1; }  # استفاده از scrip.py
+          python Files/scrip.py || { echo "Scraper failed, check logs"; exit 1; }
 
       - name: 📂 Check directory contents
         run: |
@@ -50,6 +64,7 @@ jobs:
           ls -la README.md || echo "README.md does not exist"
 
       - name: 🛠️ Create configs if not exists
+        if: "!exists('configs')"
         run: |
           mkdir -p configs
           touch configs/.gitkeep
@@ -68,9 +83,6 @@ jobs:
           else
             echo "Changes detected. Committing..."
             git commit -m "docs: Update README and config files 🤖 [skip ci]"
-            echo "Pulling remote changes with rebase..."
-            git fetch origin
-            git pull --rebase origin main || { echo "Rebase failed, aborting..."; git rebase --abort; exit 1; }
             echo "Pushing changes..."
             git push origin main || { echo "Push failed"; exit 1; }
           fi
