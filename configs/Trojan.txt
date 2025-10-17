@@ -987,7 +987,6 @@ trojan://3c4e10af98c30972@185.230.245.213:3306?security=tls&sni=🔒
 trojan://3c4e10af98c30972@23.247.137.64:443/?type=grpc&serviceName=db&security=tls&sni=🔒
 trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=🔒
 trojan://3c4e10af98c30972@88.210.36.106:443?security=tls&sni=n2.gladns.com&type=grpc#🔒
-trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.42-1462
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?security=tls&sni=🔒
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
@@ -3762,6 +3761,7 @@ trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowing
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=🔒
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?allowInsecure=0&sni=glowingpickle.bananatornado.click#%5B%F0%9F%87%AE%F0%9F%87%B6%5D%20%5Btr-tl-ra%5D%20%5B251017-163708.686%5D
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%3E%3E%40configV2rayNG%3A%3AIQ
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%E2%9B%B370%40ConfigV2RayNG
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🌐سرور
@@ -4891,6 +4891,7 @@ trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?securi
 trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.44.86:2053/?type=tcp&security=tls&sni=🔒
 trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053/?type=ws&path=%2FtrIFLHqMRiIx9In1rG%3Fed%3D2560...&security=tls&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV
 trojan://YwuvGJk36B@creativecommons.org:2053/?type=ws&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%8F%81RELAY-104.20.6.134-0625
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40FreakConfig%3A%3AXX
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#[🏁]t.me/ConfigsHub
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
@@ -4899,6 +4900,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=t
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#RELAY🚩
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AXX
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%AA%9E85%40ConfigV2RayNG
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#RELAY🚩
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -6002,7 +6004,7 @@ trojan://blue2024@162.159.44.203:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@162.159.44.207:443/?type=ws&security=tls&sni=tb...
 trojan://blue2024@162.159.44.217:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.44.217:443/?type=tcp&security=tls&sni=🔒
-trojan://blue2024@162.159.44.217:443?sni=ta.promote.icu#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
+trojan://blue2024@162.159.44.217:443?sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@162.159.60.183:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@162.159.61.229:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@164.38.155.188:443/?type=tcp&security=tls&sni=b.promote.icu#%40Hope_Net-join-u...
@@ -9185,8 +9187,6 @@ trojan://vpn@109.120.132.80:2025/?type=ws&path=%2F&security=tls&sni=vkvd127.mycd
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0811
 trojan://vpn@109.120.132.80:2025?security=tls&sni=🔒
 trojan://vpn@45.82.14.144:2025/?type=ws&path=%2F&security=tls&sni=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0625
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=🔒
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0807
 trojan://vpn@45.82.14.144:2025?security=tls&sni=🔒
 trojan://vs6f8hvt@104.17.246.203:2053/?type=ws&security=tls
