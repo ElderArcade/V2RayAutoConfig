@@ -168,6 +168,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZ3JvRVdXMnBwd09XZnA1a2pvUW9B@212.52.16.81:8443?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇷]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWDczaFE1dlNUeFI4U3lyUkVBRmh5@212.113.106.76:29149#t.me/entryNET/config=1846067975254877
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080#t.me/entryNET/config=1846188769566486
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDNWQnZ2SEM3bGdnOE5uRjZTVlp4@90.156.231.238:11048?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#t.me/entryNET/config=1846178695400155
 ss://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -243,7 +244,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=non
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#t.me/entryNET/config=1846145354385389
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#t.me/entryNET/config=1846042800017219
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&type=grpc#[🇳🇱]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
@@ -635,7 +635,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#t.me/entryNET/config=1846145354385389
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#t.me/entryNET/config=1846042800017219
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
