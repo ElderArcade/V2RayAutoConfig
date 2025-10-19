@@ -200,8 +200,6 @@ hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tl
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#🔐
 hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443?sni=ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B896%20%7C%20%202.4MB/s
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#2%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#11%7C%F0%9F%87%B1%40%D8%A7%D8%A7%D9%84%20%D8%AA%D8%B1%D8%A7
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=0&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#11%7C%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
