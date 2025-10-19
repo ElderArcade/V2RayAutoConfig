@@ -23,8 +23,6 @@ hy2://sysadmin.sysadmin@167.234.249.46:444/?insecure=1&sni=a.961229.xyz#Channel%
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45294?security=tls&insecure=1&sni=real.getafreenode.sbs#%F0%9F%8D%AA50%40ConfigV2RayNG
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
