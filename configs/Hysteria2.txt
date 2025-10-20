@@ -158,7 +158,6 @@ hysteria2://83f61429-ab77-45b1-ae81-10a8bc352596@banmabanmabanmabanmabanmabanma2
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1&sni=www.bing.com#⤿
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%40meli_proxyy%20%236
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2006
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#🌐سرور
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#%40meli_proxyy
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
