@@ -7545,8 +7545,6 @@ trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=176.97.68.153#🇦
 trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=🔒
 trojan://installshield@176.97.68.153:8443?security=tls&sni=176.97.68.153#%F0%9F%87%A6%F0%9F%87%BAAU-176.97.68.153-5506
 trojan://installshield@23.162.152.30:8443/?type=tcp&security=tls&sni=23.162.152.30#%F0%9F%87%AB%F0%9F%87%B7FR-23.162.152.30-5524
-trojan://installshield@23.162.152.30:8443?allowInsecure=1
-trojan://installshield@23.162.152.30:8443?allowInsecure=1#🇫🇷[openproxylist.com]
 trojan://installshield@23.162.152.30:8443?security=tls&sni=23.162.152.30#%F0%9F%87%AB%F0%9F%87%B7FR-23.162.152.30-5971
 trojan://installshield@23.162.152.30:8443?security=tls&sni=🔒
 trojan://installshield@38.180.106.124:8443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.106.124-1196
