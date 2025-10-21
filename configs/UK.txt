@@ -228,7 +228,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129815070.dezful-drc-tusaas.i
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#GB🇬🇧
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AGB
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AGB
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
@@ -306,6 +305,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=no
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 ss://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B6%5D
 ss://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B5%5D
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@141.11.43.124:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#%E8%8B%B1%E5%9B%BD
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.113:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.113-8880+%7C+2.42ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.118:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.118-8880+%7C+2.19ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.123:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.123-8880+%7C+2.06ms
@@ -364,6 +364,7 @@ trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.132.35.140-8363
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.135.6.102-8355
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.135.6.102-8357
+trojan://telegram-id-privatevpns@18.169.31.170:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-8147
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-8149
 trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.177.137.88-1838
@@ -428,7 +429,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129815070.dezful-drc-tusaa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#GB🇬🇧
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AGB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
@@ -506,6 +506,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B6%5D
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B5%5D
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@141.11.43.124:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F#%E8%8B%B1%E5%9B%BD
 vmess://ewogICAgImFkZCI6ICI0NS44Ni44LjExNyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE2ODk3Njc4MDU5MjkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi00NS44Ni44LjExNy04MDcyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0NS44Ni44LjExNyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE2ODk5MzUyNDMwMjciLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi00NS44Ni44LjExNy04MDcxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0NS44Ni44LjYiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5OTM1MjQzMDI3IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6zwn4enR0ItNDUuODYuOC42LTgwNzAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==

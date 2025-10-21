@@ -50,7 +50,6 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@104.250.239.32:53810/?sni=real.
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B898%20%7C%20%201.3MB/s
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009/?insecure=1&sni=d.eans.top#⤿
-hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#%40FreakConfig
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#@Daily_Configs
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#https://t.me/Selinc
@@ -86,7 +85,6 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?secur
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#@meli_proxyy
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#r♡ya
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.topr♡ya
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?insecure=1&sni=hshl.huasuan666.top#%40meli_proxyy%20%233
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&insecure=1&sni=hshl.huasuan666.top#%40V2rayNG3
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&insecure=1&sni=hshl.huasuan666.top#@V2rayNG3
 hysteria2://5768346e-35a8-45e1-b839-71278166b7bc@kr1.aeccghuyjftyg.shop:20000?insecure=1&obfs=salamander&obfs-password=fdrccJDGatdFDDRp&sni=kr1.aeccghuyjftyg.shop#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2013
@@ -140,7 +138,6 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?insecure=1
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?security=tls&insecure=1&sni=mg1.mangshe.xyz#Channel
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056/?insecure=1&sni=xg1.mangshe.xyz#⤿
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#%40meli_proxyy%20%233
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#%40meli_proxyy%20%234
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1&sni=xg1.mangshe.xyz#%F0%9F%8E%920%40ConfigV2RayNG
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1&sni=xg1.mangshe.xyz#@sunflowerplato🌻
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?sni=xg1.mangshe.xyz&insecure=1#%40Daily_Configs
