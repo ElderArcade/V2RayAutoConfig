@@ -954,6 +954,7 @@ trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443/?type=tcp&securi
 trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443?security=tls&allowInsecure=1&type=tcp
 trojan://3648425794742788096@35.168.124.79:443/?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://3648425794742788096@35.168.124.79:443/?type=tcp&security=tls&sni=🔒
+trojan://3648425794742788096@91.206.179.250:443
 trojan://3648425794742788096@91.206.179.250:443#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443/?type=tcp&security=tls&sni=🔒
 trojan://36606545-bc8b-4152-a751-3f0957318bd9@pqawsjp1.aiopen.cfd:443/?type=tcp&security=tls&sni=🔒
@@ -7873,7 +7874,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#12%2C13%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=🔒
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%20427.1KB%2Fs
@@ -9234,6 +9234,7 @@ trojan://telegram-id-privatevpns@63.180.33.188:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.35.207.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@13.49.13.19:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-v2rayvpnchannel@15.236.184.148:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B14%5D
+trojan://telegram-id-v2rayvpnchannel@15.236.184.148:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@15.236.29.84:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@15.237.152.121:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D
 trojan://telegram-id-v2rayvpnchannel@18.157.240.119:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D
@@ -9250,7 +9251,6 @@ trojan://telegram-id-v2rayvpnchannel@51.45.18.222:22223?security=tls&alpn=http%2
 trojan://telegram-id-v2rayvpnchannel@51.45.18.222:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.176.244.93:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D
 trojan://telegram-id-v2rayvpnchannel@63.176.244.93:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-v2rayvpnchannel@63.176.244.93:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.178.134.70:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.179.197.103:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B13%5D
 trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&sni=🔒
