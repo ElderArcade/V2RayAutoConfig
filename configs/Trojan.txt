@@ -4195,6 +4195,7 @@ trojan://BxceQaOe@36.151.251.18:2145?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%
 trojan://BxceQaOe@36.151.251.18:2145?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1
 trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
 trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
@@ -6024,7 +6025,7 @@ trojan://auto@172.67.174.252:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.67.174.252:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%40V2rayNGVPN
 trojan://auto@172.67.174.252:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=🔒
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#%40Golestan_VPN%20-%20JOIN
-trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&host=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&host=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&path=/&host=esetsecuritylicense1.vowexa5791.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.55ms
 trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=🔒
 trojan://auto@172.67.193.36:8443/?type=ws&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
@@ -7873,7 +7874,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2381?sni=🔒
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=🔒
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐
@@ -9328,9 +9328,7 @@ trojan://tg-dns68@162.159.153.84:443/?type=ws&host=vip.putata.eu.org&path=%2F%3F
 trojan://tg-dns68@162.159.153.8:443/?type=tcp&security=tls&sni=vip.putata.eu.org#%F0%9F%8F%81RELAY-162.159.153.8-0292
 trojan://tg-dns68@162.159.153.8:443/?type=tcp&security=tls&sni=🔒
 trojan://tg-dns68@162.159.153.90:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.153.90:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://tg-dns68@162.159.153.90:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tg-dns68@162.159.153.90:443?security=tls&type=ws&sni=🔒
 trojan://tg-fq521free@194.76.18.129:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%90%B85%40oneclickvpnkeys
 trojan://tg-fq521free@194.76.18.129:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=🔒
 trojan://tg-fq521free@194.76.18.129:443?allowInsecure=0&sni=🔒
