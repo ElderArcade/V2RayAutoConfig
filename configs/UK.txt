@@ -1,9 +1,7 @@
 hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hy2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083/?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki%28rtoko%28s-maret-khamneii#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN
-hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN%20%233
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN%20%234
-hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN%20%235
 hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AGB
 ss://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#GB🇬🇧
 ss://1901d9da-a3ca-44b2-9033-752aa449cc50@f1.robotklass.space:8443?flow=xtls-rprx-vision&fp=chrome&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&security=reality&sid=22f040ed1037da8f&sni=google.com&type=tcp#REALITY|GB🇬🇧
@@ -84,7 +82,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTVBGRVEwMkxNZW12OFFRd2VqN2Ey@89.185.84.185:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+89.185.84.185-443+%7C+85.8ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB-46.226.163.225-1463
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@uk.vpnsparta.pro:57456#%F0%9F%87%AC%F0%9F%87%A7%20GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@uk.vpnsparta.pro:57456#%F0%9F%87%AC%F0%9F%87%A7GB-88.150.137.68-0181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.140.88-0195
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.140.88-0197
