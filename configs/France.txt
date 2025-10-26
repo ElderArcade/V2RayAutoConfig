@@ -498,6 +498,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452711968.lahijan-prx-dnraact
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?encryption=none&security=&sni=&type=grpc&host=&path=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B46%5D
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -1081,6 +1082,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452711968.lahijan-prx-dnra
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?encryption=none&security=&sni=&type=grpc&host=&path=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B46%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
