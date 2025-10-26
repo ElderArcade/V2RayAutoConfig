@@ -162,7 +162,6 @@ hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@129.153.58.39:45979/?insecure=1&sni=w
 hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%F0%9F%92%A722%40oneclickvpnkeys
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%F0%9F%8E%AF35%40oneclickvpnkeys
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#United%20States🇺🇸
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40ShadowsocksM%3A%3AXX
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%F0%9F%92%A723%40oneclickvpnkeysss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%F0%9F%92%A719%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel
@@ -504,6 +503,7 @@ hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tl
 hysteria2://9faf4015-b6c0-44f9-b9d6-d77454a50a72@els1.dimoyun.top:40001?insecure=1&sni=els1.dimoyun.top#All-%40V2rayAlpha--6%20%231
 hysteria2://9faf4015-b6c0-44f9-b9d6-d77454a50a72@els1.dimoyun.top:40001?security=tls&insecure=1&sni=els1.dimoyun.top#All-@V2rayAlpha--6
 hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
+hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#🌐سرور
 hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg=@143.20.156.166:38326?security=tls&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==&insecure=1&sni=www.microsoft.com#🇺🇲@FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%235
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
