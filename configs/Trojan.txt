@@ -9095,6 +9095,7 @@ trojan://telegram-id-privatevpns@3.11.92.247:22222?security=tls&type=tcp&sni=�
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8197
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8199
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@3.120.48.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.120.48.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
@@ -9175,6 +9176,7 @@ trojan://telegram-id-privatevpns@35.157.166.126:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@35.157.236.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.157.65.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.157.65.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+trojan://telegram-id-privatevpns@35.158.30.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@35.158.30.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.159.102.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.159.102.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs🤯
