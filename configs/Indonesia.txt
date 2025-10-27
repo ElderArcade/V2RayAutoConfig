@@ -179,7 +179,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encrypti
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Channel%20id%3A%20%40SkiVpn%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
@@ -643,7 +642,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Channel%20id%3A%20%40SkiVpn%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
