@@ -72,7 +72,6 @@ ss://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed&securi
 ss://3d6c7dee-7629-42a8-8ae3-a988375b5e07@ps.1ta8.xyz:8080?security=reality&encryption=none&pbk=0Pmn3ouutlDi7fdtQDBaJTgbf53FlH8YgsM148GfJiw&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=dc24f69fe46a631e#[🏁]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80/?type=grpc&encryption=none&flow=#[🏁]t.me/Configs
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&type=grpc&encryption=none&flow=#[🏁]t.me/ConfigsHub
-ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PL---T---Join---B_T---Join---T&type=grpc#[🏁]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh25v1.hiddendom.shop#[🏁]t.me/ConfigsHub
@@ -80,6 +79,7 @@ ss://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:2053?security=tls&sni=BP
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=raw&headertype=none#[🏁]t.me/ConfigsHub
 ss://4456abe1-63dd-472b-8565-8a9ce14e19dd@104.167.198.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=usa31.clearorbitllc.com&pbk=izK-seieiFFBrtVWCLG17yHNSZI72rgGZ7WBLyQ24h0&sid=58a29b&spx=/#[🏁]t.me/ConfigsHub
+ss://446bd463-4427-49a0-b13c-326b7a97f08d@91.99.179.41:42671?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=175d#[🏁]t.me/ConfigsHub
 ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.144:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
@@ -431,6 +431,7 @@ trojan://telegram-id-privatevpns@13.36.72.7:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.37.13.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.37.13.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@13.37.146.156:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.37.153.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.181.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.37.184.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.37.21.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -449,10 +450,8 @@ trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@15.188.245.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.255.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@15.236.136.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.140.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.216.210:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%28S103%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
-trojan://telegram-id-privatevpns@15.236.72.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.104.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -472,7 +471,6 @@ trojan://telegram-id-privatevpns@3.124.79.62:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.65.170.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.170.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.65.213.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@3.69.107.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.147.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.73.241.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.74.181.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
@@ -494,6 +492,7 @@ trojan://telegram-id-privatevpns@35.180.72.238:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.181.193.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.181.202.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@35.181.204.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.213.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.181.70.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.100.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -503,7 +502,6 @@ trojan://telegram-id-privatevpns@51.44.45.149:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.29.139.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@52.47.169.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@52.51.15.205:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.58.179.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.93.70.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.176.41.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.177.148.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
@@ -596,7 +594,6 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed&sec
 vless://3d6c7dee-7629-42a8-8ae3-a988375b5e07@ps.1ta8.xyz:8080?security=reality&encryption=none&pbk=0Pmn3ouutlDi7fdtQDBaJTgbf53FlH8YgsM148GfJiw&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=dc24f69fe46a631e#[🏁]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80/?type=grpc&encryption=none&flow=#[🏁]t.me/Configs
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&type=grpc&encryption=none&flow=#[🏁]t.me/ConfigsHub
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PL---T---Join---B_T---Join---T&type=grpc#[🏁]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🏁]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh25v1.hiddendom.shop#[🏁]t.me/ConfigsHub
@@ -604,6 +601,7 @@ vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:2053?security=tls&sni
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=raw&headertype=none#[🏁]t.me/ConfigsHub
 vless://4456abe1-63dd-472b-8565-8a9ce14e19dd@104.167.198.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=usa31.clearorbitllc.com&pbk=izK-seieiFFBrtVWCLG17yHNSZI72rgGZ7WBLyQ24h0&sid=58a29b&spx=/#[🏁]t.me/ConfigsHub
+vless://446bd463-4427-49a0-b13c-326b7a97f08d@91.99.179.41:42671?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=175d#[🏁]t.me/ConfigsHub
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.144:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
