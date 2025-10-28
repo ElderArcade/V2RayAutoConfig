@@ -983,6 +983,7 @@ trojan://39b9e540-4684-11f0-b86f-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&spx=/&allowInsecure=1&type=grpc#t.me/v2Line
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&spx=/&allowInsecure=1&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=🔒
+trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B19%5D
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B20%5D
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#Poland%20Cloudflare
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:155ms
@@ -5425,6 +5426,7 @@ trojan://T%40_WvT8Ho%40LW%25w_,@nop-55q.pages.dev:2053/?type=ws&path=%2FtrGPZDfe
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=🔒
+trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#r♡ya
@@ -6230,7 +6232,6 @@ trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=0&sni
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=0&sni=🔒
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=1&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=1&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?allowInsecure=1&sni=🔒
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.124.55:5041?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
@@ -9512,7 +9513,6 @@ trojan://tg-dns68@162.159.152.3:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://tg-dns68@162.159.152.3:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.59ms
 trojan://tg-dns68@162.159.152.3:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.65ms
 trojan://tg-dns68@162.159.152.3:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tg-dns68@162.159.152.3:443?security=tls&sni=🔒
 trojan://tg-dns68@162.159.152.42:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#RELAY🚩
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=🔒
