@@ -272,6 +272,7 @@ hysteria2://77b85b4f-8f73-495c-b919-a8fb386ca541@hsels.huasuan666.top:22160?inse
 hysteria2://77b85b4f-8f73-495c-b919-a8fb386ca541@hsels.huasuan666.top:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#All-@V2rayAlpha--11
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#%40Daily_Configs%20%231
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#%40Daily_Configs%20%232
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1&sni=xg1.mangshe.xyz#@sunflowerplato🌻
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?sni=xg1.mangshe.xyz&insecure=1#@Daily_Configs
@@ -365,6 +366,7 @@ hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
 hysteria2://UiIoI79ktLVSpD8Fh6vTq5l5@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYSبرای
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%239
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#telegram--MTMVPN10
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.irr♡ya&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%238
@@ -380,11 +382,13 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@V2rayAlpha--6
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#telegram--MTMVPN10
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2310
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%239
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%202
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2310
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2311
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%3E%3E%40configV2rayNG%3A%3ANL
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%AB%8669%40ConfigV2RayNG
@@ -401,6 +405,7 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tl
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--14
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MCI-@V2rayAlpha--4
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#telegram--MTMVPN
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#All-%40IRAN_V2RAY1%20%234
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Daily_Configs%20%233
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@IRAN_V2RAY1
@@ -421,11 +426,13 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#telegram--MTMVPN
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2315
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#All-%40IRAN_V2RAY1%20%235
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@IRAN_V2RAY1
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#All-@IRAN_V2RAY1
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2318
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#MCI-%40V2rayAlpha--3%20%232
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%3E%3E%40v2ray1_ng%3A%3ANL
@@ -528,6 +535,7 @@ hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?secur
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All--%40V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All--@V2rayAlpha--2
+hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40Daily_Configs%20%233
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40Daily_Configs%20%235
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@sunflowerplato🌻
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?sni=bing.com&insecure=1#@Daily_Configs
