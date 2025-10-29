@@ -399,6 +399,7 @@ trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443/?type=tcp&securi
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000/?type=tcp&security=tls&sni=aliyun.com#%F0%9F%87%AD%F0%9F%87%B0HK-165.154.112.107-0654
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000/?type=tcp&security=tls&sni=🔒
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#🇭🇰[openproxylist.com]
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&allowInsecure=1&type=tcp&headerType=none
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -4201,7 +4202,7 @@ trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#HK🇭🇰
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#[🏁]t.me/ConfigsHub
-trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#🇭🇰[openproxylist.com]
+trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#🏳[openproxylist.com]
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1&sni=58.152.46.98#%E7%BE%8E%E5%9B%BD%2010
 trojan://BxceQaOe@58.152.46.98:443?security=tls
