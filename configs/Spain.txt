@@ -3,7 +3,7 @@ ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryptio
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?&security=tls&fp=chrome&sni=fast01.0860852.xyz&type=ws&headerType=none&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%A5%BF%E7%8F%AD%E7%89%99%20003
 ss://55029f2d-32bd-466b-aae2-f83e650ded73@tunnyl.ru:443?type=tcp&encryption=none&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&fp=random&sni=google.com&sid=0f1d6a&spx=%2F&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Coslada🅿️ping:79.61ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+140.35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.143.130.203:990#%3E%3E%40configV2rayNG%3A%3AES
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.70.207.97:990#%3E%3E%40configV2rayNG%3A%3AES
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@37.143.130.203:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+37.143.130.203-990+%7C+259.24ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-5435
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-5380
