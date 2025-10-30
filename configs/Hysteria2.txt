@@ -137,8 +137,6 @@ hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009/?insecure=1&sni=d.eans.top#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#https%3A//t.me/Selinc
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#https://t.me/Selinc
-hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@104.250.239.32:49618/?sni=imafake.locker#âFremont-GetAFreeNode
-hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@185.126.255.78:42437/?sni=imafake.locker#âKyiv-GetAFreeNode
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net:8443?sni=898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8103%20%7C%20%203.2MB/s
 hysteria2://48c1e014-28d6-11ec-a0fc-f23c913c8d2b@3e8cbc42-svwf40-sw0dp4-3z3v.hy2.gotochinatown.net:8443?sni=3e8cbc42-svwf40-sw0dp4-3z3v.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B882%20%7C%20%201.3MB/s
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443/?mport=21001-21999&insecure=1#%F0%9F%92%B872%40oneclickvpnkeys
@@ -482,8 +480,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#MCI-@V2ray_Alpha--3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#@Selinc
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#telegram--MTMVPN
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@104.250.239.32:49618/?sni=imafake.locker#âFremont-GetAFreeNode
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@185.126.255.78:42437/?sni=imafake.locker#âKyiv-GetAFreeNode
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-@ISVvpn
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
