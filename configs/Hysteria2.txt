@@ -331,7 +331,6 @@ hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?insecure=1&s
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?security=tls&insecure=1&sni=www.bing.com#@Selinc
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?security=tls&insecure=1&sni=www.bing.com#telegram--MTMVPN
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?security=tls&insecure=1&sni=www.bing.com#🇳🇱@FreakConfig
-hysteria2://934766f0-204c-42be-8cf7-9afc2a8b5eaf@hsyg.huasuan666.top:22156?insecure=1&sni=hsyg.huasuan666.top#WiFi-%40V2rayAlpha--5
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=1&sni=www.bing.com#%40AblNet7%20%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%20%231
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=1&sni=www.bing.com#%F0%9F%94%90%20%40AblNet7%20%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%20%231
@@ -498,8 +497,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#MCI-@V2ray_Alpha--3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#@Selinc
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#telegram--MTMVPN
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@104.250.239.32:49618/?sni=imafake.locker#âFremont-GetAFreeNode
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@185.126.255.78:42437/?sni=imafake.locker#âKyiv-GetAFreeNode
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-@ISVvpn
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
