@@ -316,7 +316,6 @@ ss://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption=no
 ss://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66
 ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-ss://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=random&security=reality&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%
 ss://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=random&security=reality&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 ss://c1d5a8a8-385d-4d67-b9a9-878b716e9496@tunnyl.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8
@@ -351,7 +350,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880/?type=grpc&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -360,7 +358,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880/?type=grpc&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -381,7 +378,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=&
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%BE
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%B9
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655065548930.bandar-prx-dnraacq.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
@@ -404,7 +400,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%BE
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653056895.qazvin-blkaft-aaap.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7vmess://eyJhZGQiOiI4LjIxMS4xNjQuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjczMTkzY2NlLTdjYTEtNGIwOC05M2ZmLTRlZThiMDE0NzM3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
@@ -597,7 +592,6 @@ ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@183.101.243.99:12576?path=%2FTelegram%40freecodes%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40ShadowProxy66%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@43.128.95.110:40029?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
@@ -896,7 +890,6 @@ vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption
 vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=random&security=reality&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=random&security=reality&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://c1d5a8a8-385d-4d67-b9a9-878b716e9496@tunnyl.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8
@@ -931,7 +924,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880/?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -940,7 +932,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880/?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -961,7 +952,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%BE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%B9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655065548930.bandar-prx-dnraacq.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
@@ -984,7 +974,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-a
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%BE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653056895.qazvin-blkaft-aaap.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7vmess://eyJhZGQiOiI4LjIxMS4xNjQuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjczMTkzY2NlLTdjYTEtNGIwOC05M2ZmLTRlZThiMDE0NzM3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
@@ -1177,7 +1166,6 @@ vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%4
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.101.243.99:12576?path=%2FTelegram%40freecodes%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40ShadowProxy66%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.128.95.110:40029?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
