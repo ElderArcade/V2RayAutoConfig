@@ -7,6 +7,9 @@ ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&securit
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:28.8ms
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.229.78.241:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=f5#REALITY|SG🇸🇬
+ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg62.eovay.com:30062?&security=reality&flow=xtls-rprx-vision&pbk=8lqcrBInKfc8fmUSM1JKIfHuNnCFkaVsPqPJyZZcn3A&sid=477fde90&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg62.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg63.eovay.com:30063?&security=reality&flow=xtls-rprx-vision&pbk=z_li3ig4aAMkDas-JLZocyh3e31s3UKV-rLL4ib0xWg&sid=5d79b533&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg63.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%203
+ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+218.08ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-9053
@@ -141,6 +144,7 @@ trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.fileg
 trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
 trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-43.156.116.194-1320
+trojan://BxceQaOe@36.150.215.197:51825?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://BxceQaOe@36.150.215.197:51825?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@36.150.215.197:51825?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.197:51825?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
@@ -157,9 +161,9 @@ trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sn
 trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%202
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14%203.4MB%2Fs
 trojan://cd39f62aed7b90f6@5.44.249.43:3389/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-7186
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6639
@@ -182,6 +186,9 @@ vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.229.78.241:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=f5#REALITY|SG🇸🇬
+vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg62.eovay.com:30062?&security=reality&flow=xtls-rprx-vision&pbk=8lqcrBInKfc8fmUSM1JKIfHuNnCFkaVsPqPJyZZcn3A&sid=477fde90&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg62.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
+vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg63.eovay.com:30063?&security=reality&flow=xtls-rprx-vision&pbk=z_li3ig4aAMkDas-JLZocyh3e31s3UKV-rLL4ib0xWg&sid=5d79b533&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg63.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%203
+vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#38.47.176.134::SG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
@@ -274,6 +281,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85paw5Yqg5Z2hNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC40Ny4xNzYuMjUxIiwgInBvcnQiOiAiNTYwNTEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMmJjYTM1NjktMDY2Mi00N2Y3LWZkZjgtNDIxZjMwZTcxZjQ0IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy0xNTQuMjYuMTM0LjEwNjoxNDEyOSIsICJhZGQiOiAiMTU0LjI2LjEzNC4xMDYiLCAicG9ydCI6ICIxNDEyOSIsICJpZCI6ICJlNzc5OGUwOS0zMDkwLTQzNjYtYWU4MC1mMThhZmRhYWJmNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMjgifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
+vmess://eyJ2IjoiMiIsInBzIjoiU0ctNDUuNzYuMTgxLjI0Ni01NzczIiwiYWRkIjoiNDUuNzYuMTgxLjI0NiIsInBvcnQiOiIxMjM0NSIsInR5cGUiOiJub25lIiwiaWQiOiI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiAiNDUuNzYuMTgxLjI0NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTIyNjM5MDEtYjNjZi00ZDdkLWI0ZmQtYTEyZmUxNzhlZjJhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDEyMzQ1LCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1x1MDBhZVx1ZmUwZlNpbmdhcG9yZVx1MDBhOVx1ZmUwZlNpbmdhcG9yZSAoUGlvbmVlcilcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjEzbXMifQ
 vmess://eyJhZGQiOiAic2czLnNvY2lmaWxlcy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjBlM2UwODMwLWE5OTQtMTFlZS1hYzFhLTEyMzlkMDI1NTI3MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3ZtdGMiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogIm5vbmUiLCAic25pIjogImNoYXRidXp6dGVhbWJobS5jaGF0YnV6enQ3MTUwLndvcmtlcnMuZGV2IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHUwMGFlXHVmZTBmU2luZ2Fwb3JlXHUwMGE5XHVmZTBmU2luZ2Fwb3JlIChKdXJvbmcgV2VzdClcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjEzMm1zIn0
 vmess://eyJhZGQiOiI0NS43Ni4xODEuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyMjYzOTAxLWIzY2YtNGQ3ZC1iNGZkLWExMmZlMTc4ZWYyYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIzNDUiLCJwcyI6IvCfh7jwn4esU0ctNDUuNzYuMTgxLjI0Ni01NTgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
