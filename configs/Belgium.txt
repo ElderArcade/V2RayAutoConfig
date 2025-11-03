@@ -10,7 +10,6 @@ ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@113.30.152.107:443?security=reality&en
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@113.30.152.107:443?security=reality&encryption=none&pbk=P2mcnXXNYMCSgfJpA-5U7GWTyklzi2_rdlxtmObo4V4&host=V2xay&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=f9f601f9#REALITY|BE🇧🇪
 ss://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@38.180.87.229:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|BE🇧🇪
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0415
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-5320
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0309
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&sid=788456bc#REALITY|BE🇧🇪
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@113.30.152.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vk.cc&pbk=P2mcnXXNYMCSgfJpA-5U7GWTyklzi2_rdlxtmObo4V4&sid=f9f601f9&spx=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#REALITY|BE🇧🇪
