@@ -69,12 +69,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRTVyRmR4ekc4R1FmNVRBUWhaaFJB@45.144.235.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphT2J2TEZRQmhUUTE3@81.177.214.214:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+81.177.214.214-443+%7C+175.28ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc@93.152.207.167:443#%F0%9F%87%AB%F0%9F%87%AEFI-93.152.207.167-0239
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AEFI-38.244.136.233-0241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AEFI-38.244.136.233-0329
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng3@65.21.243.22:31348#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+65.21.243.22-31348+%7C+176.92ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY=@185.77.217.217:443#%F0%9F%87%AB%F0%9F%87%AEFI-185.77.217.217-6413
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.114.242-4500
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0226
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0313
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0257
 ss://YWVzLTI1Ni1nY206MWE5ZTE0MzAtMTIyNy00Y2EzLWJjZjktNTIwODFkODdmMWVm@38.244.209.215:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.209.215-443+%7C+169.57ms
 ss://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#FI🇫🇮
@@ -94,6 +92,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FI🇫🇮
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#FI🇫🇮
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#FI
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=---_&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B16%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=---_&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:28.8ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B19%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---_T------_T&type=grpc#FI🇫🇮
@@ -198,6 +197,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FI🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#FI🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#FI
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=---_&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B16%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=---_&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:28.8ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B19%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---_T------_T&type=grpc#FI🇫🇮
