@@ -3707,7 +3707,6 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@4320b8f895e9615dce9230ae5b3b25b7.v1.cac.node-is.green:48640/?type=tcp&security=tls&sni=hk12.speedtest.net&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@f0664c044a80cd6079f58a6f1b375108.v1.cac.node-is.green:45245/?type=tcp&security=tls&sni=tw1.speedtest.net&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://7d9c7804-1f7d-43f7-b19a-fa7c2fff4569@us003.421421.xyz:20230/?type=tcp&security=tls&sni=421421.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-15.204.20.229-5098
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80/?type=tcp&security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8822
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-9669
