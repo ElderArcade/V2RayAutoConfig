@@ -53,7 +53,6 @@ ss://aea2c185-aca0-4259-b6d8-4840f7aff9a3@turkey21gifoiopl.mongral.ir:4444?encry
 ss://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&sid=783500cd7f#REALITY|TR🇹🇷
 ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B13%5D
 ss://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@fast.lucypro.ir:2095?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷[Telegram:@tik7net_vpn]-TR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
@@ -85,7 +84,6 @@ vless://aea2c185-aca0-4259-b6d8-4840f7aff9a3@turkey21gifoiopl.mongral.ir:4444?en
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&sid=783500cd7f#REALITY|TR🇹🇷
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B13%5D
 vless://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@fast.lucypro.ir:2095?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷[Telegram:@tik7net_vpn]-TR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
