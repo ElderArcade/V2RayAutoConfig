@@ -1313,7 +1313,6 @@ trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&s
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=🔒
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-3307
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=🔒
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?allowInsecure=0
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?allowInsecure=0#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?allowInsecure=0#[🇻🇳]t.me/ConfigsHub
@@ -9208,6 +9207,7 @@ trojan://telegram-id-privatevpns@63.180.154.44:22222/?type=tcp&security=tls&sni=
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@63.180.37.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-v2rayvpnchannel@13.37.163.65:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B18%5D
 trojan://telegram-id-v2rayvpnchannel@13.37.163.65:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-v2rayvpnchannel@13.37.163.65:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
