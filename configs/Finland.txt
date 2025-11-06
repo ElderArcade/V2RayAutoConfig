@@ -143,6 +143,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?note=---Telegram--
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:70ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#FI🇫🇮
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:28.57ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:126ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:183ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:184ms
@@ -306,6 +307,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?note=---Telegra
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:70ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#FI🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:28.57ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:126ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:183ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:184ms
