@@ -135,13 +135,10 @@ hysteria2://32144368-62c4-46e1-90f7-4f3b9505eaa8@banmabanmabanmabanmabanmabanma1
 hysteria2://32267ac5-d919-45ec-930e-62955d3c737d@mla3.maliaojc.top:58330?insecure=1&sni=mla3.maliaojc.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2025
 hysteria2://32267ac5-d919-45ec-930e-62955d3c737d@mla5.maliaojc.top:58330?insecure=1&sni=mla5.maliaojc.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2020
 hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://3786e67a-41eb-4b92-b31e-417e89493b93@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?insecure=1#All-%40V2rayAlpha--3
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#All-%40V2rayAlpha--3
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#All-@V2rayAlpha--3
 hysteria2://4b099758-bbf6-4558-9884-240635bd1c9d@mg5.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&sni=mg5.aeccghuyjftyg.shop#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2011
-hysteria2://4ec66d81-9565-4d8e-ae58-2bacfde95f48@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://54a0bf6d-f2b5-4b2a-942c-798fb129527e@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?insecure=1&sni=🔒#All-%40V2rayAlpha--6
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?security=tls&insecure=1&sni=🔒#@Selinc
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?security=tls&insecure=1&sni=🔒#All-@V2rayAlpha--6
