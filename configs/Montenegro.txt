@@ -19,7 +19,6 @@ ss://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@69.84.182.90:8880?security=none&type=h
 ss://0ec1237a-df5c-40a6-9a0a-295dcff88d56@193.46.81.151:50853?encryption=none&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 ss://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?encryption=none&security=tls&sni=m2-1cm.pages.dev&type=ws&path=%2Fognicwivyrkxih6r#[🇨🇦]t.me/ConfigsHub
 ss://140ae345-e7b8-49f5-8920-85f82085344e@tidehunter.fonixapp.org:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#[🇩🇪]t.me/ConfigsHub
-ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24467?type=ws&security=none#[🇨🇭]t.me/ConfigsHub
 ss://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://15b4c759-cd1f-4ded-9561-5825fa12550d@nodafl2.phantombot.ru:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nodafl2.phantombot.ru&sid=98c637e074b03225#t.me/entryNET/config=1848078715082094
 ss://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#t.me/entryNET/config=1848233484952134
@@ -111,7 +110,6 @@ ss://46bfcd53-cde8-4fea-9409-6ab2923b1ce5@now.officedrbest.com:8443?security=rea
 ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
 ss://475f3b43-16cb-43c9-95e6-7294c851ab97@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#[🇳🇱]t.me/ConfigsHub
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.12:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 ss://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#[🇩🇪]t.me/ConfigsHub
 ss://4c266060-28aa-4fd4-8286-86127e16b260@172.234.192.79:2321/?type=tcp&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 ss://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇪🇸]t.me/ConfigsHub
@@ -144,7 +142,6 @@ ss://66b83e5c-70bf-48c2-a7b7-74c9f00b0df5@151.101.3.8:80?path=/-LiV2ry@LIGHTNING
 ss://66beaaea-3f3c-47f8-a23e-60afb0524b05@167.17.178.90:2020?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless2020#[🇫🇷]t.me/ConfigsHub
 ss://670d1cd0-7097-416c-a5da-7936af95cfac@zrf.cf.090227.xyz:443?encryption=none&security=tls&sni=vless.ghp.cloudns.biz&fp=chrome&type=ws&host=vless.ghp.cloudns.biz&path=%2F#[🇨🇦]t.me/ConfigsHub
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality&encryption=none&pbk=949Ia0TFSkuqkvI5ooc8bBWKztkG82oni4f_GRDbakg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=0fbaa2b7#[🇬🇧]t.me/ConfigsHub
-ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#[🇫🇷]t.me/ConfigsHub
 ss://68167931-7173-4524-8bb4-1cf169fb4f09@65.109.216.23:15355?type=ws&encryption=none&path=%2F%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----&host=&security=none#[🇫🇮]t.me/ConfigsHub
 ss://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 ss://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?encryption=none&security=none&type=tcp&headerType=none#t.me/v2Line
@@ -320,8 +317,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraac
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959558652399004.arak-blkaft-aaao.info:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970060570328775.rome-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇷]t.me/ConfigsHub
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.66:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.66:8880?security=&encryption=none&type=grpc¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
@@ -510,7 +505,6 @@ vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@69.84.182.90:8880?security=none&typ
 vless://0ec1237a-df5c-40a6-9a0a-295dcff88d56@193.46.81.151:50853?encryption=none&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?encryption=none&security=tls&sni=m2-1cm.pages.dev&type=ws&path=%2Fognicwivyrkxih6r#[🇨🇦]t.me/ConfigsHub
 vless://140ae345-e7b8-49f5-8920-85f82085344e@tidehunter.fonixapp.org:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#[🇩🇪]t.me/ConfigsHub
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24467?type=ws&security=none#[🇨🇭]t.me/ConfigsHub
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://15b4c759-cd1f-4ded-9561-5825fa12550d@nodafl2.phantombot.ru:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nodafl2.phantombot.ru&sid=98c637e074b03225#t.me/entryNET/config=1848078715082094
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#t.me/entryNET/config=1848233484952134
@@ -601,7 +595,6 @@ vless://46bfcd53-cde8-4fea-9409-6ab2923b1ce5@now.officedrbest.com:8443?security=
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
 vless://475f3b43-16cb-43c9-95e6-7294c851ab97@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#[🇳🇱]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.12:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#[🇩🇪]t.me/ConfigsHub
 vless://4c266060-28aa-4fd4-8286-86127e16b260@172.234.192.79:2321/?type=tcp&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇪🇸]t.me/ConfigsHub
@@ -634,7 +627,6 @@ vless://66b83e5c-70bf-48c2-a7b7-74c9f00b0df5@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://66beaaea-3f3c-47f8-a23e-60afb0524b05@167.17.178.90:2020?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless2020#[🇫🇷]t.me/ConfigsHub
 vless://670d1cd0-7097-416c-a5da-7936af95cfac@zrf.cf.090227.xyz:443?encryption=none&security=tls&sni=vless.ghp.cloudns.biz&fp=chrome&type=ws&host=vless.ghp.cloudns.biz&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality&encryption=none&pbk=949Ia0TFSkuqkvI5ooc8bBWKztkG82oni4f_GRDbakg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=0fbaa2b7#[🇬🇧]t.me/ConfigsHub
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#[🇫🇷]t.me/ConfigsHub
 vless://68167931-7173-4524-8bb4-1cf169fb4f09@65.109.216.23:15355?type=ws&encryption=none&path=%2F%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----%40armanstore2-Telegram----&host=&security=none#[🇫🇮]t.me/ConfigsHub
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?encryption=none&security=none&type=tcp&headerType=none#t.me/v2Line
@@ -784,8 +776,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959558652399004.arak-blkaft-aaao.info:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970060570328775.rome-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.66:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.66:8880?security=&encryption=none&type=grpc¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
