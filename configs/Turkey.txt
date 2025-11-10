@@ -59,6 +59,7 @@ ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=r
 ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:114ms
 ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:58.91ms
 ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:68ms
+ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayopen%20%5B17%5D
 ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#REALITY|TR🇹🇷
 ss://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=chrome&security=reality&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&sid=4f#REALITY|TR🇹🇷
 ss://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@fast.lucypro.ir:2095?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
@@ -66,6 +67,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#TR🇹🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B16%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?type=grpc&encryption=none&flow=#TR🇹🇷
@@ -126,6 +128,7 @@ vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?securit
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:114ms
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:58.91ms
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:68ms
+vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayopen%20%5B17%5D
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#REALITY|TR🇹🇷
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=chrome&security=reality&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&sid=4f#REALITY|TR🇹🇷
 vless://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@fast.lucypro.ir:2095?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
@@ -133,6 +136,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#TR🇹🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B16%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?type=grpc&encryption=none&flow=#TR🇹🇷
