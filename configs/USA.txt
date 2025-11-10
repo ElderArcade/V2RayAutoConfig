@@ -15,7 +15,11 @@ hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?secur
 hysteria2://7a872345-c953-46ce-bfbe-580156735158@banmabanmabanmabanmabanmabanma3.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma3.wanlidag.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
 hysteria2://7a872345-c953-46ce-bfbe-580156735158@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
 hysteria2://7a872345-c953-46ce-bfbe-580156735158@banmabanmabanmabanmabanmabanma5.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma5.wanlidag.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2019
+hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@us1.oomz.ru:30000?sni=bing.com&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@us3.oomz.ru:30000?sni=bing.com&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@us4.oomz.ru:30000?sni=bing.com&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8(کانفیگ
 hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743?insecure=0#_US_%E7%BE%8E%E5%9B%BD_6%203
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?sni=www.bing.com&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://beef5265-e706-40d5-9b2c-525899e6adb1@lsus3.lansecs.top:58338?insecure=1&sni=lsus3.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2009
 hysteria2://e3fa2523-31c2-4998-998b-0f835361277a@212.192.13.86:31008?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2006
 hysteria2://fd81b7c3-8027-423b-b361-2de87ebd0f44@107.173.39.105:52013?insecure=1&sni=files.xjqxz.top&mport=52013-62013#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2014
