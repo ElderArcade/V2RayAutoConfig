@@ -1,4 +1,5 @@
 ss://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#REALITY|JP🇯🇵
+ss://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t2r1qf.tisoeilhfqg.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=830b34f52730#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shinagawa🅿️ping:17ms
 ss://401374e6df7741fbf638dad8184f175bOg==@156.238.18.155:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.155-443+%7C+2.34ms
 ss://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=chrome&type=ws&sni=stall3.sni2026.netlib.re#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 ss://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=chrome&type=ws&sni=stall3.sni2026.netlib.re#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
@@ -23,6 +24,7 @@ ss://YWVzLTEyOC1nY206MTAwODY3@153.121.43.183:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7
 ss://YWVzLTEyOC1nY206MTAwODY3@160.16.123.124:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+160.16.123.124-10087+%7C+157.08ms
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlinereleasedkey%20%5B17%5D
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.43.183-10087+%7C+160.12ms
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#Japan
 ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443#%F0%9F%87%AF%F0%9F%87%B5JP-202.182.98.223-0224
 ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443#%F0%9F%87%AF%F0%9F%87%B5JP-202.182.98.223-0288
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0233
@@ -94,6 +96,7 @@ trojan://1b57001bd214304027025a740b6cf1ac@160.16.136.130:3169?security=tls&sni=w
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.136.130:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.138.24:2173?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-2389
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.138.24:674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-2391
+trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2173?sni=www.nintendogames.net#Japan
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.67.76-4971
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-126.116.225.149-0835
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5JP-126.47.92.160-0700
@@ -256,6 +259,7 @@ trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4972
 trojan://juzi@140.83.57.183:22735/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.57.183-0578
 vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#REALITY|JP🇯🇵
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t2r1qf.tisoeilhfqg.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=830b34f52730#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shinagawa🅿️ping:17ms
 vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=chrome&type=ws&sni=stall3.sni2026.netlib.re#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@13.115.249.234:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=chrome&type=ws&sni=stall3.sni2026.netlib.re#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
