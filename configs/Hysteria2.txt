@@ -210,8 +210,8 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?secur
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ashburn.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=ashburn.nezhasu.com#%F0%9F%8D%A572%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ashburn.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=ashburn.nezhasu.com#%F0%9F%8D%A572%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40oneclickvpnkeys
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#All-%40V2ray_Alpha--5
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#@meli_proxyy
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2ray_Alpha--5
@@ -382,6 +382,7 @@ hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All--@V2rayAlpha--5
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1&sni=www.bing.com#Cha
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40@proxy_kafee%F0%9F%87%A8%F0%9F%87%A6👆کپی
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1&sni=www.bing.com#🌐سرور
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%232
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&note=@freeOnlineVPN#🇳🇱
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#@V2rayAlpha--All-4
@@ -427,6 +428,7 @@ hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=1#
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%20%7C`
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?sni=www.bing.com&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1#https%3A%2F%2Ft.me%2FShadowsocksM15%203
+hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1#🌐سرور
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%2311
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#@V2rayNG3
