@@ -265,6 +265,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2381?security=tls&sni=fe
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:3272?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0685
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:6752?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0689
 trojan://d30ab83dbde4480082048fb315bedebd@183.60.123.132:3387?security=tls&sni=183.60.123.132&allowInsecure=1&type=tcp&headerType=none#👉🆔@freenettir📡🇨🇳®️China©️Guangzhou🅿️ping:117ms
+trojan://d30ab83dbde4480082048fb315bedebd@183.60.123.132:3387?security=tls&sni=183.60.123.132&allowInsecure=1&type=tcp&headerType=none#👉🆔@freenettir📡🇨🇳®️China©️Guangzhou🅿️ping:118ms
 trojan://e4e262d453466988575c397a30562337@117.172.176.22:4173?allowInsecure=1&sni=www.nintendogames.net#_CN_%E4%B8%AD%E5%9B%BD
 trojan://e4e262d453466988575c397a30562337@117.172.176.22:4173?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-117.172.176.22-1253
 trojan://e4e262d453466988575c397a30562337@117.172.176.22:4173?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD4
