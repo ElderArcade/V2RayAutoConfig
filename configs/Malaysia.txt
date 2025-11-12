@@ -1,8 +1,10 @@
 ss://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
+ss://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@8.35.211.250:2083?&security=tls&fp=chrome&sni=stall3.sni2026.netlib.re&type=ws&headerType=none&host=stall3.sni2026.netlib.re&path=%2Fproxyip%3Dtw.soso.edu.kg%3A43#_%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#%3E%3E%40OutlineVpnOfficial%3A%3AMY
 ss://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#MY🇲🇾
 ss://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#MY🇲🇾
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
+vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@8.35.211.250:2083?&security=tls&fp=chrome&sni=stall3.sni2026.netlib.re&type=ws&headerType=none&host=stall3.sni2026.netlib.re&path=%2Fproxyip%3Dtw.soso.edu.kg%3A43#_%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
 vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#MY🇲🇾
 vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#MY🇲🇾
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk1hbGF5c2lhXHVEODNDXHVEREYyXHVEODNDXHVEREZFIiwNCiAgImFkZCI6ICIzOC41NC45OC4xNTAiLA0KICAicG9ydCI6ICI2MjY1NiIsDQogICJpZCI6ICJiNzcxZDk5Zi1lZjY5LTRiNWMtODM5OC02NjViZjg1MWE2NjEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
