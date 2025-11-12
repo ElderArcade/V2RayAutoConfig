@@ -552,9 +552,9 @@ trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerT
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.25-0314
+trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40netfreedom0%20%5B19%5D
-trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇭🇰[openproxylist.com]
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=🔒
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?sni=www.nintendogames.net#Hong+Kong
@@ -9085,6 +9085,7 @@ trojan://telegram-id-privatevpns@35.180.72.238:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.180.72.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+trojan://telegram-id-privatevpns@35.181.106.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.181.17.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.181.193.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.181.193.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
