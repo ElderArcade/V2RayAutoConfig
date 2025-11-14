@@ -386,6 +386,7 @@ hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk:1743?insecure=0#_US_%E7%BE%8E%E5%9B%BD_7%203
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@dcc40639-t3cxs0-tcj7b6-d70y.la.shifen.uk:1743?insecure=0&sni=dcc40639-t3cxs0-tcj7b6-d70y.la.shifen.uk#_US_%E7%BE%8E%E5%9B%BD_1%206
 hysteria2://5393c295-1275-495e-b0fe-1bae25531aa2@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
+hysteria2://5393c295-1275-495e-b0fe-1bae25531aa2@lshg1.lansecs.top:58338?sni=lshg1.lansecs.top&insecure=1#
 hysteria2://5393c295-1275-495e-b0fe-1bae25531aa2@lshg1.lansecs.top:58338?sni=lshg1.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://5393c295-1275-495e-b0fe-1bae25531aa2@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://5393c295-1275-495e-b0fe-1bae25531aa2@lsxg1.lansecs.top:58338?sni=lsxg1.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
@@ -513,7 +514,6 @@ hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#@meli_proxyy
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#MCI-IR--%40V2rayAlpha-7
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#MCI-IR--@V2rayAlpha-7
-hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#🌐سرور
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%2311
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#@V2rayNG3
