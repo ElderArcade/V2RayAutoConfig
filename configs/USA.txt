@@ -17,7 +17,6 @@ hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?insec
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#usa-telegram-@ISVvpn
 hysteria2://712bdc36-24be-11ee-be53-f23c9313b177@68407ef0-t3dk00-tcl9of-5fdt.la.shifen.uk:1743?insecure=0#_US_%E7%BE%8E%E5%9B%BD_9%203
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
-hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigvless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir%2C%20parspack.com%2C%20refersion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#_US_%E7%BE%8E%E5%9B%BD_11
 ss://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranvipnet%20%5B8%5D
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=none&type=tcp#US🇺🇸
