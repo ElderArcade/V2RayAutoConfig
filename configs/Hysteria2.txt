@@ -712,7 +712,6 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org&note=@freeOnlineVPN#🇬🇧
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#🌐سرور
 hysteria2://a457bb11-c63b-4443-badf-e7c4a94d9929@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://a457bb11-c63b-4443-badf-e7c4a94d9929@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://a457bb11-c63b-4443-badf-e7c4a94d9929@lsxg1.lansecs.top:58338?sni=lsxg1.lansecs.top&insecure=1#🔷🆔@v2ray_configs_pool🔷
