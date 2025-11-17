@@ -99,6 +99,7 @@ hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@my.xn--9kqx4sc0n.shop:21622?sec
 hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@sg.xn--9kqx4sc0n.shop:21917?security=tls&insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A12
 hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@sg.xn--9kqx4sc0n.shop:21932?security=tls&insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3

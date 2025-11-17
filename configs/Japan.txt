@@ -59,7 +59,6 @@ ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443#%F0%9F%87%AF%F0%9F%87%
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.021.node-for-bigairport.win:15199#%F0%9F%87%AF%F0%9F%87%B5JP-18.182.24.53-5338
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.021.node-for-bigairport.win:15199#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.106.216-5684
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5JP-13.113.233.230-1274
-ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/vless/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#JP🇯🇵
 ss://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?&security=tls&fp=chrome&sni=vless3.datatestvless.click&type=ws&headerType=none&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E6%97%A5%E6%9C%AC
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&authority=%2F%3FsunflowerplatoJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#JP🇯🇵
@@ -87,6 +86,7 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerT
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-0314
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:237.0ms
 trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40netfreedom0%20%5B20%5D
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:237.85ms
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-126.116.225.149-0752
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5JP-126.47.92.160-0617
 trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:1085?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.39.240-0709
@@ -272,7 +272,6 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.112.83.7:443?security=reality&enc
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.114.7.231:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#Japan%2062%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.77.60.134:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#Japan%2097%20dailyv2ry
 vless://714f0d66-9ca5-4f10-bf16-99596a0864c5@45.12.134.67:14061?security=reality&encryption=none&pbk=_-FySIjB71PITQ3VpKMSlTqNPZV4YX0x7rWlh4olngY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=e749a51a1942161a#%40ServerTel%20%F0%9F%8C%B9%20Japan%20%F0%9F%87%AF%F0%9F%87%B5`
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/vless/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#JP🇯🇵
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?&security=tls&fp=chrome&sni=vless3.datatestvless.click&type=ws&headerType=none&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E6%97%A5%E6%9C%AC
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&authority=%2F%3FsunflowerplatoJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#JP🇯🇵
