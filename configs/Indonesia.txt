@@ -1,6 +1,5 @@
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?security=tls&insecure=1&sni=www.bing.com#Channel%20id%3A%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?security=tls&insecure=1&sni=www.bing.com#Channel%20id%3A%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6👆کپی
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A7%F0%9F%87%B7
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?security=tls&insecure=1#Channel%20id%3A%40proxy_kafee%F0%9F%87%A7%F0%9F%87%B7
@@ -13,11 +12,6 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#Channel%20id%3A%40proxy_kafee%F0%9F%87%AE%F0%9F%87%B3
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102/?insecure=1#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B0%F0%9F%87%B7
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?security=tls&insecure=1#Channel%20id%3A%40proxy_kafee%F0%9F%87%B0%F0%9F%87%B7
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#Channel%20id%3A%40proxy_kafee%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#Channel%20id%3A%40proxy_kafee%20%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Channel%20id%3A%40proxy_kafee%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@192.18.155.21:13805?security=tls&insecure=1&sni=www.bing.com#Channel%20id%3A%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
-hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443?security=tls&insecure=0&mport=20000-50000&sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk#Channel%20id%3A%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 ss://004ba5d4-d448-4960-a762-e5190ab415f2@www.indyskipass.com:443/?type=ws&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&path=%2Fhqqprlws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
 ss://04db6938-72dc-42b4-a096-cc6a5e8316d2@shadowshaman.fonixapp.org:26861?security=reality&encryption=none&pbk=IIdE2p3vqHDjHfLrvJXkrLoYpYMJH0R1tacCkHiDtAA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=ecc1c4#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
@@ -341,7 +335,6 @@ ss://f99cc0f1-d1a3-45f9-a13b-b33c8d3e0f10@greenwolf.fonixapp.org:30268?security=
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&headerType=none&type=tcp&sni=eats-rigor-judge.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B9
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=none&type=tcp&sni=morse-stank-most.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B2%F0%9F%87%A915
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
-trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--%40V2rayAlpha-18trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=%2F94.131.114.50%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--%40V2rayAlpha-19trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--%40V2rayAlpha-20
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5071
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A715
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
