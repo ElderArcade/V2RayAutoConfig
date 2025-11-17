@@ -70,7 +70,6 @@ trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sn
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:234.47ms
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-1169
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-1165
-trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%205.9MB%2Fs
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:248.53ms
 trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.158-0235
 trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:239.2ms
@@ -89,7 +88,6 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?security=tls&sni=ww
 trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.63.16-1171%20%7C%201.958MB
 trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-1171
 trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-1166
-trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4%208.0MB%2Fs
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.81.84-0314%20%7C%200.837MB
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵JP-160.16.81.84-1171
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:251.15ms
@@ -220,7 +218,6 @@ trojan://BxceQaOe@153.121.53.187:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#%F
 trojan://BxceQaOe@153.121.53.187:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:165ms
 trojan://BxceQaOe@153.121.53.187:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://BxceQaOe@35.77.94.201:8112?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.94.201-1164
-trojan://BxceQaOe@35.77.94.201:8112?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-2280
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3122
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.243-2900
