@@ -40,6 +40,7 @@ ss://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encr
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+8.54ms
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+9.01ms
 ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#RU🇷🇺
+ss://87d1f4b2-83e7-4125-8d62-5d376871fd41@45.134.12.47:31203?&security=reality&flow=xtls-rprx-vision&pbk=tN1ZYDEnM0t_V59FGQSpiq56sOpDo8JZ25Epgg-Z9kg&sid=ab12cd34&fp=chrome&sni=vt-1.ozone.ru&type=tcp&headerType=none&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.106.219:80?path=Telegram%3A%40%40vpnclashfa+-+1596#RU🇷🇺
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
@@ -237,6 +238,7 @@ vless://5c1bc547-6ed3-4234-873e-966d9eef5d27@russia22.clearorbitllc.com:443/?typ
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#REALITY|RU🇷🇺
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#RU🇷🇺
+vless://87d1f4b2-83e7-4125-8d62-5d376871fd41@45.134.12.47:31203?&security=reality&flow=xtls-rprx-vision&pbk=tN1ZYDEnM0t_V59FGQSpiq56sOpDo8JZ25Epgg-Z9kg&sid=ab12cd34&fp=chrome&sni=vt-1.ozone.ru&type=tcp&headerType=none&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.106.219:80?path=Telegram%3A%40%40vpnclashfa+-+1596#RU🇷🇺
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
