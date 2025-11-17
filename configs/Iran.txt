@@ -555,6 +555,7 @@ trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-C
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--%40V2rayAlpha-20
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join%20Sho%3A%40IRAN_V2RAY1%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@IRAN_V2RAY1
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -565,12 +566,13 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=%2F94.131.114.50%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--%40V2rayAlpha-19
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-19
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%972
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?allowInsecure=0#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?allowInsecure=1#%5BTrojan%5D%20%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?allowInsecure=1&sni=steampipe.akamaized.net#%F0%9F%87%AE%F0%9F%87%B7%20_IR_%E4%BC%8A%E6%9C%97
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443?allowInsecure=1&sni=origin-a.akamaihd.net#%5BTrojan%5D%20%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM%202
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443?sni=origin-a.akamaihd.net#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443?sni=origin-a.akamaihd.net#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
@@ -1056,7 +1058,6 @@ vmess://eyJhZGQiOiIxNS4yMDQuNjQuMjE0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNjIuMTkuMjA1LjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NWNhMjhiYi05MjJlLTQ5YzktOTMyNi1iNGFmZjdjMGQ4YWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiTVROLUBJUkFOX1YyUkFZMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzAuNjQuMTY0LjY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiI3MGZhYjU1MC01NjgyLTRkNWEtYWIxNi0zNDc3Y2Q1YmE3NmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MiIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCB6dWxhLmlyLTIwODIgfCA5LjMybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzAuNjQuMTY0LjY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzb2Z0OTguaXIiLCJpZCI6IjcwZmFiNTUwLTU2ODItNGQ1YS1hYjE2LTM0NzdjZDViYTc2ZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDgyIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyB8IHNvZnQ5OC5pci0yMDgyIHwgMTA0Mi43N21zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBmcmVlaXJhbmlhbnYycmV5IGNoIPCfkq8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjE4NS4xNDMuMjMzLjExNCIsImlkIjoiY2Y3ZjJkN2MtZDRmOC00NjlhLWJmZDUtOTc0ODRiYjk4ZDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7dJUi0xODUuMTQzLjIzMy4xMTQtMjAzMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFpcjUuYXJzaS1tYW1hZC5zYnMiLCJpZCI6ImQ3ZjliZDg0LTNkMWQtNGI0YS1kMmI4LTVhZThiNDJlNzZhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BcnNhbGFuVGF1Qm90IiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfh67wn4e3IElSIHwg8J+UkyBWTUVTUyB8IEBwcm9fY2hhbmVlbCBbMl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 vmess://eyJhZGQiOiIxODUuMjAxLjQ5LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmZWNlMmE5LTAyOTYtNDZhOS04ZGI4LTc0MmQyOWQyNDBmZiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3RhdGljXC9jc3NcL2pxdWVyeVwvSkZ4UGFtSk1OQ1ltWlZ4eklrdEdZQzVyUVQwdVdTOTJYQ3M3S2wxalppa3hUVGhRUkNvbEZudHNKREo0RXpRb01qRUZHRmdWYjFzMGJCdE9FMUYyWlFvVyIsInBvcnQiOiI0ODA4NiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgfCAxODUuMjAxLjQ5LjY4LTQ4MDg2IHwgNDE3LjQybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
