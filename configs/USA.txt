@@ -3625,7 +3625,6 @@ ss://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&securit
 ss://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?mode=auto&path=%2FV3xhttp%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=Namaid4.global.ssl.fastly.net&type=xhttp#US🇺🇸
 ss://f647c9dd-e84c-44c2-85a4-1e3e47848fcc@104.16.212.130:8443/?type=xhttp&encryption=none&security=tls&sni=Tsest2.varzesh3.ru&alpn=h2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443/?type=ws&encryption=none&host=snippets.nneko.netlib.re&path=%2F%3Fed%3D2048J_T&security=tls&sni=snippets.nneko.netlib.re&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B18%5D
-ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048J--_T&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=random&type=ws&sni=snippets.nneko.netlib.re#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B15%5D
 ss://f6a7873b-5d12-48a1-8439-a737b7dcbeab@104.18.14.19:8080/?type=ws&encryption=none&host=03tg.d8drh4l9.workers.dev&path=%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 ss://f6c86505-cd45-5204-a214-f2e85d06b8e4@198.41.209.140:80?security=none&type=ws&host=cd1e4.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://f7b841a5-1808-4650-ae77-6ab89525dfb5@104.21.31.174:443/?type=ws&encryption=none&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&sni=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
@@ -4019,7 +4018,6 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@4320b8f895e9615dce9230ae5b3b25b7.v
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@f0664c044a80cd6079f58a6f1b375108.v1.cac.node-is.green:45245/?type=tcp&security=tls&sni=tw1.speedtest.net&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?allowInsecure=0&sni=joss.dus.biz.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?sni=joss.dus.biz.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?sni=joss.dus.biz.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://7d9c7804-1f7d-43f7-b19a-fa7c2fff4569@us003.421421.xyz:20230/?type=tcp&security=tls&sni=421421.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-15.204.20.229-4978
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80/?type=tcp&security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8822
@@ -4295,9 +4293,7 @@ trojan://BxceQaOe@116.49.237.130:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#%E
 trojan://BxceQaOe@116.49.237.130:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@116.49.237.130:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://BxceQaOe@116.49.237.130:2569?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://BxceQaOe@116.49.237.130:2569?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 trojan://BxceQaOe@16.162.87.79:2173?sni=t.me%252Fripaojiedian&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2026
-trojan://BxceQaOe@16.162.87.79:2173?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://DC&&buj17.%23donz*@104.17.147.22:2096/?type=ws&host=sue-support.pages.dev&path=%2FtrjFapI0BLfN3cT9v4%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&sni=Sue-suppoRT.pAgeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://DC&&buj17.%23donz*@104.17.148.22:2096/?type=ws&host=sue-support.pages.dev&path=%2FtrjFapI0BLfN3cT9v4%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&sni=Sue-suppoRT.pAgeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://DC&&buj17.%23donz*@45.80.108.1:2096/?type=ws&host=sue-support.pages.dev&path=%2FtrkFvZXtj3AJKzyJr7%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&sni=suE-sUpPort.PAGES.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
@@ -5487,7 +5483,6 @@ trojan://ce87300f-02c9-4993-ac78-a3d2c0ed1c6e@104.17.148.22:8080/?type=ws&host=r
 trojan://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80/?type=ws&host=uni.fi&path=%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegr...
 trojan://cfbabf31-2cf6-40ca-9688-abbb682370aa@cn.speedabc.xyz:32002?security=tls&sni=jp-bgp.speedaccelerate.com#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-2384
 trojan://channel-daily-configs@104.18.6.36:8443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?sni=azadnet-bdr.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163#%F0%9F%87%BA%F0%9F%87%B8US-107.181.161.163-2551
 trojan://d30d2718-91d5-11ef-b635-f23c9164ca5d@0ce06474-swin40-tba9vx-1qlps.cu.plebai.net:15229?allowInsecure=0&sni=0ce06474-swin40-tba9vx-1qlps.cu.plebai.net#@Hope_Net-join-us-on-Teleg
 trojan://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053/?type=ws&host=78345.pages.dev&security=tls&sni=ax78345V2ray.pages.dev#%40Hope_Net-join-us-on-Telegram
@@ -5505,19 +5500,15 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443/?type=ws&host=jobscar
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443/?type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91&security=tls&sni=jobscareerforlawyers.com#%40Hope_Net-join-us-on-Telegram
 trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-129.146.190.42-1201
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2024
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10%201.4MB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:4210?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2025
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:4210?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%201.7MB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4210?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4210?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4210?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4210?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11%20111.3KB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4210?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%20428.3KB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4211?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4211?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4211?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4211?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%20157.7KB%2Fs
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.70.180:4211?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2061.0KB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@162.16.131.243:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US-162.16.131.243-1167
 trojan://de798060-31d0-11ee-b282-1239d0255272@51.81.82.15:443?security=tls&sni=zula.ir#%F0%9F%87%BA%F0%9F%87%B8US-51.81.82.15-8777
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#@Hope_Net-join-us-on-Telegram⚠️
@@ -7992,7 +7983,6 @@ vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&secu
 vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?mode=auto&path=%2FV3xhttp%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=Namaid4.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://f647c9dd-e84c-44c2-85a4-1e3e47848fcc@104.16.212.130:8443/?type=xhttp&encryption=none&security=tls&sni=Tsest2.varzesh3.ru&alpn=h2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443/?type=ws&encryption=none&host=snippets.nneko.netlib.re&path=%2F%3Fed%3D2048J_T&security=tls&sni=snippets.nneko.netlib.re&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B18%5D
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048J--_T&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=random&type=ws&sni=snippets.nneko.netlib.re#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B15%5D
 vless://f6a7873b-5d12-48a1-8439-a737b7dcbeab@104.18.14.19:8080/?type=ws&encryption=none&host=03tg.d8drh4l9.workers.dev&path=%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 vless://f6c86505-cd45-5204-a214-f2e85d06b8e4@198.41.209.140:80?security=none&type=ws&host=cd1e4.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://f7b841a5-1808-4650-ae77-6ab89525dfb5@104.21.31.174:443/?type=ws&encryption=none&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&sni=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
