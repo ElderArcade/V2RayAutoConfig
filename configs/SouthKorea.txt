@@ -1,4 +1,3 @@
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.34.32:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkkr22.eovay.com:50022?&security=reality&flow=xtls-rprx-vision&pbk=9o3SRBZXuCmIzT62VDD49t1iizy80sU_Sx05HQO_bh4&sid=c46b996f&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=aws-linkkr22.eovay.com&path=%2F#_%E9%9F%A9%E5%9B%BD%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%B0%F0%9F%87%B7KR%20%7C%20@OutlineReleasedKey
@@ -50,7 +49,6 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3346
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3687
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4191
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.34.32:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkkr22.eovay.com:50022?&security=reality&flow=xtls-rprx-vision&pbk=9o3SRBZXuCmIzT62VDD49t1iizy80sU_Sx05HQO_bh4&sid=c46b996f&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=aws-linkkr22.eovay.com&path=%2F#_%E9%9F%A9%E5%9B%BD%202
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@121.165.101.69:19413?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#_%E9%9F%A9%E5%9B%BD%203
