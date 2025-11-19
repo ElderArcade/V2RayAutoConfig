@@ -276,6 +276,7 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM16
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM23
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM39
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?security=tls&insecure=1#%F0%9F%90%A0%F0%9F%A6%88%F0%9F%90%A09
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#India%F0%9F%87%AE%F0%9F%87%B3
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#https://t.me/ShadowsocksM10
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#telegram%20%C2%BB%20mainv%F0%9D%9F%AEray%C2%B9
@@ -430,6 +431,7 @@ hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe5
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%239
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=%F0%9F%94%92#%F0%9F%93%9F50%40oneclickvpnkeys
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&insecure=1&sni=lsj3.mangshe.xyz#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%20%7C
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?insecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#%40sunflowerplato%F0%9F%8C%BB%20%231
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1&sni=xg1.mangshe.xyz#@sunflowerplato🌻
