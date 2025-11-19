@@ -3688,7 +3688,6 @@ trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=www.lovelive-anime.j
 trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://0000000@3.168.86.96:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@108.165.255.5:443?sni=www.bilibili.com#US
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@45.144.172.243:443?allowInsecure=1&sni=www.bilibili.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://0280b529-2747-4b7a-ab11-bad6453150b9@159.223.21.187:443/?type=tcp&security=tls&sni=fr2-full.privateip.net&allowInsecure=1#%40Hope_Net-join-us-on-...
 trojan://03c93f49-d573-4889-a4bb-187047c5a314@104.21.71.83:443?security=tls&sni=M7Yyu.777162.xYZ&type=ws&host=M7Yyu.777162.xYZ&path=/Rij8gsblmlfrZUch7YcAPgiEbt#@Hope_Net-join-us-on-Telegram
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-129.146.242.130-1197
