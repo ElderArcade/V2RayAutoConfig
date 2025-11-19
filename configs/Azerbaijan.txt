@@ -1,2 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@180.149.44.120:989#%F0%9F%87%A6%F0%9F%87%BFAZ-180.149.44.120-8203
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@94.20.154.26:989#%F0%9F%87%A6%F0%9F%87%BFAZ-94.20.154.26-4406
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Azerbaijan
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Azerbaijan
