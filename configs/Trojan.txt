@@ -5477,6 +5477,7 @@ trojan://Telegram-frev2ray@104.17.234.12:443/?type=ws&host=1.2.3.4.5.6.7.8.9.10.
 trojan://Telegram-frev2ray@104.17.234.12:443/?type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za&security=tls&sni=🔒
 trojan://TestingServer@@@94.102.53.19:443?security=tls
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-1296
+trojan://Tg3RnK7Xp8B1@45.77.170.178:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
 trojan://Tg3RnK7Xp8B1@64.176.41.116:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
 trojan://TmxGNUA1jL@45.63.106.86:42903?type=tcp&allowInsecure=1
 trojan://Trevely@108.162.193.110:443/?type=tcp&security=tls&sni=trojan.trevely.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -7675,10 +7676,10 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerT
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNGVPN+
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#⚡Telegram
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-0417
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.144-1165%20%7C%200.32MB
@@ -7694,10 +7695,10 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&header
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNGVPN+
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#⚡Telegram
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0407
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-0291%20%7C%203.392MB
@@ -7708,7 +7709,6 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&heade
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0305
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?type=tcp&headerType=none&security=tls&sni=www.nintendogames.net#%F0%9F%87%A9%F0%9F%87%AA@%E2%80%8Fv2raybaz%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
@@ -7778,6 +7778,7 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?allowInsecure=0&sni=
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?allowInsecure=0&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-1210
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?security=tls&sni=🔒
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.214.6:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
