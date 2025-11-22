@@ -12,9 +12,6 @@ ss://1c6a17f7-4e8b-4405-becd-5e10848dc080@brenna.ns.cloudflare.com:443?encryptio
 ss://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995737738113.swift-amsib.info&type=ws&host=638991995737738113.swift-amsib.info&path=/ahkthyws#France%206%20dailyv2ry
 ss://24c1adca-43f5-4a9e-8ad3-7483c0df7595@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899170352906.elantra-amsid.info&type=ws&host=638992899170352906.elantra-amsid.info&path=/nlbuafws#France%2048%20dailyv2ry
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Jo--_T&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
-ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
 ss://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
@@ -214,9 +211,6 @@ vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096/?type=ws&encryp
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80/?type=ws&encryption=none&path=%2Fhttp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayngc%20%5B17%5D
 vless://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995737738113.swift-amsib.info&type=ws&host=638991995737738113.swift-amsib.info&path=/ahkthyws#France%206%20dailyv2ry
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#France%200VHcloud
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Jo--_T&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.83ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
