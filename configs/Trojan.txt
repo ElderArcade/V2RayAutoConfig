@@ -4395,7 +4395,6 @@ trojan://BxceQaOe@116.49.237.130:1691?sni=🔒
 trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%8E%A163%40oneclickvpnkeys
 trojan://BxceQaOe@116.49.237.130:3579/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-116.49.237.130-1170
 trojan://BxceQaOe@153.121.51.147:5156/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.147-1189
-trojan://BxceQaOe@153.121.51.147:5156?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@153.121.51.147:5156?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.147-1189
 trojan://BxceQaOe@153.121.51.147:5156?sni=t.me%252Fripaojiedian&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2015
 trojan://BxceQaOe@153.121.51.147:5156?sni=🔒
@@ -4433,7 +4432,6 @@ trojan://BxceQaOe@16.162.87.79:2173?sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%8
 trojan://BxceQaOe@16.162.87.79:2173?sni=t.me%2Fripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@16.162.87.79:2173?sni=🔒
 trojan://BxceQaOe@160.16.233.76:4012/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.233.76-1493
-trojan://BxceQaOe@160.16.233.76:4012?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@160.16.233.76:4012?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.233.76-5622
 trojan://BxceQaOe@160.16.233.76:4012?security=tls&sni=🔒
 trojan://BxceQaOe@160.16.82.24:2145/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.82.24-5674
@@ -9187,7 +9185,6 @@ trojan://telegram-id-directvpn@15.188.131.37:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.188.153.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.156.122:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:30.12ms
 trojan://telegram-id-directvpn@15.188.156.122:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@15.188.156.122:22223/?type=tcp&security=tls&sni=🔒
 trojan://telegram-id-directvpn@15.188.237.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.244.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
@@ -9869,7 +9866,6 @@ trojan://telegram-id-v2rayvpnchannel@15.236.29.84:22223?security=tls&alpn=http%2
 trojan://telegram-id-v2rayvpnchannel@18.184.151.107:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@3.66.82.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
 trojan://telegram-id-v2rayvpnchannel@3.66.82.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-v2rayvpnchannel@3.66.82.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@35.181.215.179:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.178.134.70:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&sni=🔒

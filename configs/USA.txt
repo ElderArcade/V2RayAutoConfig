@@ -3224,6 +3224,7 @@ ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&secu
 ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=ioygd.oliver-manhatan.rest&type=ws&alpn=&host=ioygd.oliver-manhatan.rest&path=/harman#USA%2053%20dailyv2ry
 ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=lhbuk.app-bijar.rest&type=ws&alpn=&host=lhbuk.app-bijar.rest&path=/harman#USA%2091%20dailyv2ry
 ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=rlcln.eleph-bijar.rest&type=ws&alpn=&host=rlcln.eleph-bijar.rest&path=/harman#USA%2075%20dailyv2ry
+ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=vyqjv.ava-manhatan.rest&type=ws&alpn=&host=vyqjv.ava-manhatan.rest&path=/harman#USA%2023%20dailyv2ry
 ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=vyqjv.ava-manhatan.rest&type=ws&alpn=&host=vyqjv.ava-manhatan.rest&path=/harman#USA%2079%20dailyv2ry
 ss://c72db571-2c94-4bfa-e546-c6eca9e43b91@151.101.2.228:80/?type=ws&encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40Hope_Net-join-us-on-Telegram
 ss://c797aa8a-c03d-48da-9ad4-c9774b14bed2@104.19.57.183:2096/?type=ws&encryption=none&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=cvl.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
@@ -7588,6 +7589,7 @@ vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&s
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=ioygd.oliver-manhatan.rest&type=ws&alpn=&host=ioygd.oliver-manhatan.rest&path=/harman#USA%2053%20dailyv2ry
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=lhbuk.app-bijar.rest&type=ws&alpn=&host=lhbuk.app-bijar.rest&path=/harman#USA%2091%20dailyv2ry
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=rlcln.eleph-bijar.rest&type=ws&alpn=&host=rlcln.eleph-bijar.rest&path=/harman#USA%2075%20dailyv2ry
+vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=vyqjv.ava-manhatan.rest&type=ws&alpn=&host=vyqjv.ava-manhatan.rest&path=/harman#USA%2023%20dailyv2ry
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?encryption=none&security=tls&sni=vyqjv.ava-manhatan.rest&type=ws&alpn=&host=vyqjv.ava-manhatan.rest&path=/harman#USA%2079%20dailyv2ry
 vless://c72db571-2c94-4bfa-e546-c6eca9e43b91@151.101.2.228:80/?type=ws&encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40Hope_Net-join-us-on-Telegram
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@104.19.57.183:2096/?type=ws&encryption=none&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=cvl.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
