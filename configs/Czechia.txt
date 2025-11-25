@@ -11,6 +11,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443#%F0%9F%87%A8%F0%9F%87%BFCZ-212.102.38.88-9114
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8612
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-3085
+trojan://defc6fd6-8b87-423b-95df-1fb840c0dfe5@81.91.214.162:443?path=/Free-VPN-CF-Geo-Project/81.91.214.162=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:44ms
 trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.162%3D443&host=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%BF%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%8D%B7%E5%85%8B%2001
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#%F0%9F%87%A8%F0%9F%87%BF%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%8D%B7%E5%85%8B%2002
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh78g5o235YWLIFYyQ1JPU1MuQ09NIiwiYWRkIjoiMTg1LjE4OS4zMi4xNzkiLCJwb3J0IjoiMjI3MDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgzYTFjY2UtYWY5Yi00NDE2LWQ3YzYtMTBiOWI2M2JlNjZmIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
