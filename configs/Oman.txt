@@ -1,3 +1,4 @@
 ss://1934c801-b10e-421d-8163-f9efac8a9fd1@141.227.180.39:22292?mode=gun&security=none&encryption=none&type=grpc&serviceName=🍫Telegram:v2ray_configs_v2c🍫#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:68ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMXpQNWF4SktMVjR6VXBXUDlMWDZE@154.205.147.68:8443#OM%F0%9F%87%B4%F0%9F%87%B2+%7C+154.205.147.68-8443+%7C+239.99ms
+trojan://8cdd7764-0143-4b64-bb50-c56599be438e@176.97.66.175:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/176.97.66.175=443&host=joss.gpj1.web.id#🇴🇲[openproxylist.com]trojan-OM
 vless://1934c801-b10e-421d-8163-f9efac8a9fd1@141.227.180.39:22292?mode=gun&security=none&encryption=none&type=grpc&serviceName=🍫Telegram:v2ray_configs_v2c🍫#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:68ms
