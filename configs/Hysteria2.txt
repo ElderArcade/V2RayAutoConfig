@@ -818,7 +818,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#@Selinc
 hysteria2://dy9wtUUTs1@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2310
 hysteria2://dy9wtUUTs1@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
-hysteria2://e3cb685e-7840-45cb-9d64-b2028d9b635e@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%8E%A161%40oneclickvpnkeys
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%8E%A168%40oneclickvpnkeys
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@92.5.59.208:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%93%9F2%40oneclickvpnkeys
@@ -834,7 +833,6 @@ hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obf
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://fYUHtSSorp@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2316
 hysteria2://fYUHtSSorp@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All--@V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40sunflowerplato%F0%9F%8C%BB%20%233
