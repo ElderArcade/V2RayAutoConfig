@@ -31,7 +31,6 @@ trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=t
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&path=%2F#PL🇵🇱
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=🔒
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?type=tcp&security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1#PL🇵🇱
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509/?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#%40Filter_breaker-62
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509/?type=tcp&security=tls&sni=🔒
@@ -90,7 +89,6 @@ trojan://030ba667-fde3-498d-99bb-9a0187519dcf@192.142.4.64:42406/?type=tcp&secur
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-138.124.30.8-1211
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&security=tls&sni=joss.gpj1.web.id#%F0%9F%94%9254%40oneclickvpnkeys
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
-trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&host=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2002
 trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=🔒
 trojan://0346cf80-8b9b-11ee-ac12-1239d0255272@162.159.138.232:443?security=tls&sni=🔒
@@ -263,7 +261,6 @@ trojan://0da5acca-b556-3ed3-b6bf-645bd45d017e@112.84.125.208:55108?allowInsecure
 trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@217.79.184.18:443/?type=tcp&security=tls&sni=🔒
 trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@217.79.184.18:443?security=tls&sni=🔒
 trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD8
-trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?sni=🔒
 trojan://0e17b420-48a2-11f0-8c4d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443/?type=tcp&security=tls
@@ -1093,7 +1090,6 @@ trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443/?type=tcp&securi
 trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443/?type=tcp&security=tls&sni=🔒
 trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-89.110.120.197-1658
 trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443?sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
-trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443?sni=🔒
 trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443?security=tls&allowInsecure=1&type=tcp
 trojan://3648425794742788096@35.168.124.79:443/?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -1913,7 +1909,6 @@ trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.76.177-2951
 trojan://6e5925c0-f39e-4449-93e9-2e2e9772b17b@104.21.21.72:443?security=tls&sni=🔒
 trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD23
-trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443?sni=🔒
 trojan://6ea0337d-ee2e-b495-0c0e-48db8524b39c@awsjp.blowm1k.club:443?type=tcp&sni=🔒
 trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇵🇹]t.me/ConfigsHub
@@ -4212,8 +4207,6 @@ trojan://BxceQaOe@153.121.65.212:5156/?type=tcp&security=tls&sni=t.me%2Fripaojie
 trojan://BxceQaOe@153.121.65.212:5156?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.212-5609
 trojan://BxceQaOe@153.121.65.212:5156?sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2013
 trojan://BxceQaOe@153.121.65.212:5156?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
-trojan://BxceQaOe@153.121.65.212:5156?sni=t.me%2Fripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
-trojan://BxceQaOe@153.121.65.212:5156?sni=🔒
 trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.67.215-5537
 trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=🔒
 trojan://BxceQaOe@16.162.87.79:2173/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.87.79-5651
@@ -4300,7 +4293,6 @@ trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%8
 trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=🔒
 trojan://BxceQaOe@58.152.53.22:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2023
 trojan://BxceQaOe@58.152.53.22:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6
-trojan://BxceQaOe@58.152.53.22:443?sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.53.22:443?sni=🔒
 trojan://BxceQaOe@58.152.53.3:443/?type=tcp&security=tls&sni=58.152.53.3#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.3-5615
 trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -4378,6 +4370,7 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=🔒
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%20252.8KB%2Fs
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=🔒
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-3438
@@ -4390,7 +4383,6 @@ trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&sni=cloudflare.com&fp=chrom
 trojan://FodSUXysuS@180.131.145.161:23274?security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&type=grpc&sni=cloudflare.com&sid=14#%F0%9F%94%9227%40ConfigV2RayNG
 trojan://G9CHhXltVx@96.9.213.108:12646/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-96.9.213.108-5464
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-96.9.213.108-5482
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&allowInsecure=1&type=tcp&headerType=none
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp#All-@V2rayAlpha--1
@@ -5421,11 +5413,7 @@ trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?sni=🔒
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?security=tls&sni=pod-jp-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.34-1463
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?security=tls&sni=🔒
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?sni=pod-jp-z1.psusercontent.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?sni=pod-jp-z1.psusercontent.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?sni=🔒
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@kr3.t.sgateway.link:5223?sni=pod-kr-z1.psusercontent.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@kr3.t.sgateway.link:5223?sni=pod-kr-z1.psusercontent.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@kr3.t.sgateway.link:5223?sni=🔒
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?allowInsecure=0&sni=pod-kr-g1.psusercontent.com#_CN_%E4%B8%AD%E5%9B%BD
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?allowInsecure=0&sni=pod-kr-g1.psusercontent.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?allowInsecure=0&sni=🔒
@@ -5503,7 +5491,6 @@ trojan://SSorg@172.67.222.51:2053/?type=tcp&security=tls&sni=🔒
 trojan://SSorg@185.114.72.148:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://SSorg@185.114.72.148:443/?type=tcp&security=tls&sni=🔒
 trojan://SSorg@199.34.230.9:8443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://SSorg@199.34.230.9:8443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://SSorg@199.34.230.9:8443/?type=tcp&security=tls&sni=🔒
 trojan://SSorg@206.238.236.219:2083/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://SSorg@206.238.236.219:2083/?type=tcp&security=tls&sni=🔒
@@ -5767,8 +5754,6 @@ trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=ws&host=iSA
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=tcp&security=tls&sni=🔒
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=iSaA1.paGes.DEv#%40Hope_Net-join-us-on-Telegram
 trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21
-trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?sni=🔒
 trojan://a6bebbb9-c6bc-42af-9ea2-434a2164a978@ru01.trojanyyds.xyz:443?security=tls&sni=🔒
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-103.103.245.125-2269
@@ -5801,9 +5786,7 @@ trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F47.89.150.45%3D21575&Host=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US-47.89.150.45-1466
 trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?security=tls&sni=🔒
 trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F47.89.150.45%3D21575&host=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2023
-trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?sni=🔒
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443/?type=ws&path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&sni=gamang.gpj2.dpdns.org#%F0%9F%8F%81RELAY-104.21.70.241-0728
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?security=tls&sni=gamang.gpj2.dpdns.org&type=ws&path=/Free-VPN-Geo-Project/92.178.109.187-443&Host=gamang.gpj2.dpdns.org#%F0%9F%8F%81RELAY-104.21.70.241-0701
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?security=tls&sni=🔒
@@ -6145,7 +6128,6 @@ trojan://auto@172.64.35.217:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&
 trojan://auto@172.66.44.106:8443/?type=ws&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.66.44.106:8443/?type=ws&path=🔒
 trojan://auto@172.66.44.131:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%40Hope...
-trojan://auto@172.66.44.131:443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev&ws=1&wspath=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.04ms
 trojan://auto@172.66.44.237:443/?type=ws&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.66.44.86:443/?type=ws&path=%2F&security=tls&sni=trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.66.45.2:443/?type=tcp&security=tls&sni=dcf741e8.epeius-2gy.pages.dev#%F0%9F%8F%81RELAY-172.66.45.2-1561
@@ -7703,8 +7685,6 @@ trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=/Free-VPN-C
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=/Free-VPN-CF-Geo-Project/109.169.76.23=443&security=tls&host=joss.gpj1.web.id&type=ws&sni=joss.gpj1.web.id#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=🔒
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
-trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?sni=🔒
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=🔒
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443/?type=ws&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.66.228:443/?type=ws&host=uhc6rhiubu.com&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu#%40Hope_Net-join-us-on-Telegram
@@ -7891,7 +7871,6 @@ trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=🔒
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5345
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=🔒
 trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20
-trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?sni=🔒
 trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443/?type=tcp&security=tls&sni=🔒
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls
@@ -7967,8 +7946,6 @@ trojan://e6a2e741-0fce-440b-910c-b81325e2263a@cache-giver-wife.stark-industries.
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@cache-giver-wife.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=cache-giver-wife.stark-industries.solutions#⚡Telegram
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.210.1-1206
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?sni=🔒
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=tcp&security=tls&sni=🔒
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=ws&host=dc1bf227.vf-8co.pa...&security=tls&sni=dc1bf227.vf-8co.pages.dev
 trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls
@@ -8036,7 +8013,6 @@ trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=🔒
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-81.22.132.183-1210
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD4
-trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?sni=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?sni=🔒
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@107.173.148.58:64047/?type=tcp&security=tls&sni=🔒
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511/?type=tcp&security=tls&sni=🔒
