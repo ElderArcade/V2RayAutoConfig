@@ -104,6 +104,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8916
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://ab6ae524-eae1-47f6-966e-2cd6b777cef7@nl1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.clear-vpn.org&sid=fb228829c3da833b#REALITY|RU🇷🇺
+ss://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.159.152:443?security=reality&encryption=none&pbk=bKTT2iUUThS1Hqxmo48vUCkLYdmTQw_mnrtFg69ZJlg&headerType=none&fp=chrome&spx=%2FHzWv5jd9UnbYvbd&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=25#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:34.8ms
 ss://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@212.233.75.107:443?security=reality&encryption=none&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bit-site.ru&sid=e4#REALITY|RU🇷🇺
 ss://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kombu.mail.ru#RU🇷🇺
 ss://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=vkdoc.mail.ru#RU🇷🇺
@@ -148,7 +149,6 @@ trojan://Qzy7tgpRhu@37.18.14.33:443?type=tcp&security=tls&sni=sun9-101.userapi.c
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2905
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?sni=joss.gpj1.web.id#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?sni=joss.gpj1.web.id#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://ttfang@45.67.215.194:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.194-0605
@@ -196,6 +196,7 @@ vless://987b346f-113c-49e8-9622-f5d41b6de779@SvnTeam.fast.hosting-ip.com:80?path
 vless://9d97c649-47a5-47e2-aa33-65e30e74bc76@89.23.96.122:443?security=reality&encryption=none&pbk=6_Fj5F7wmZoehHhk7X0su7zMfN9J5SiQa4GNgXtJl1o&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=69fa4297#REALITY|RU🇷🇺
 vless://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=213.159.76.238&type=ws&host=213.159.76.238&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@nl1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.clear-vpn.org&sid=fb228829c3da833b#REALITY|RU🇷🇺
+vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.159.152:443?security=reality&encryption=none&pbk=bKTT2iUUThS1Hqxmo48vUCkLYdmTQw_mnrtFg69ZJlg&headerType=none&fp=chrome&spx=%2FHzWv5jd9UnbYvbd&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=25#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:34.8ms
 vless://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@212.233.75.107:443?security=reality&encryption=none&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bit-site.ru&sid=e4#REALITY|RU🇷🇺
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kombu.mail.ru#RU🇷🇺
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=vkdoc.mail.ru#RU🇷🇺
