@@ -123,6 +123,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F
 ss://a613dd46-69b7-4687-9cde-049c67ff4ec0@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 ss://bcff0dc6-e2a9-4113-b325-5b986baa0b65@gozarfreebot.niniweblog.org:443?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#REALITY|FR🇫🇷
+ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#fr.nextseesion.ir%3A35789
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.86ms
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fr.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FR🇫🇷
@@ -186,6 +187,7 @@ ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-be4-cdn.fastfilecdn.org:2052?path=
 ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-pl4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-pl4-cdn.fastfilecdn.org&fp=firefox&type=ws#FR🇫🇷
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&host=Join---PLANB-PROXY&path=%2Fvless%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B16%5D
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
+ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?&security=false&fp=chrome&type=ws&headerType=none&host=ov-france2.09vpn.com&path=%2Fvless%2F#_%E6%B3%95%E5%9B%BD%202
 ss://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996506447943078.soul-amsih.info&type=ws&host=638996506447943078.soul-amsih.info&path=/xjfclmws#France%201%20dailyv2ry
 ss://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configasli%20%5B7%5D
 ss://telegram-id-ArV2ray@199.232.170.228:443/?type=ws&encryption=none&host=cdcw59.net&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
@@ -211,6 +213,7 @@ trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1850
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053#%F0%9F%87%AB%F0%9F%87%B7%20_FR_%E6%B3%95%E5%9B%BD
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD4
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-158.178.206.197-1207
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F158.178.206.197%3D8443&Host=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-158.178.206.197-1411
 trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@uk-full.privateip.net:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.202.129-5380
@@ -228,8 +231,8 @@ trojan://slch2024@185.16.110.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%8
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-9541
 trojan://telegram-id-directvpn@13.39.66.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:29.97ms
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.12.251-1177
-trojan://telegram-id-privatevpns@13.37.149.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
-trojan://telegram-id-privatevpns@13.38.179.73:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B17%5D
+trojan://telegram-id-privatevpns@13.37.149.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B13%5D
+trojan://telegram-id-privatevpns@13.38.179.73:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-9446
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-9448
@@ -295,6 +298,7 @@ vless://TelPJ40@pj2.bestirstorei.top:51714?mode=gun&security=reality&encryption=
 vless://a613dd46-69b7-4687-9cde-049c67ff4ec0@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://bcff0dc6-e2a9-4113-b325-5b986baa0b65@gozarfreebot.niniweblog.org:443?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#REALITY|FR🇫🇷
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#fr.nextseesion.ir%3A35789
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.86ms
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fr.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FR🇫🇷
@@ -358,6 +362,7 @@ vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-be4-cdn.fastfilecdn.org:2052?pa
 vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-pl4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-pl4-cdn.fastfilecdn.org&fp=firefox&type=ws#FR🇫🇷
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&host=Join---PLANB-PROXY&path=%2Fvless%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B16%5D
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?&security=false&fp=chrome&type=ws&headerType=none&host=ov-france2.09vpn.com&path=%2Fvless%2F#_%E6%B3%95%E5%9B%BD%202
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996506447943078.soul-amsih.info&type=ws&host=638996506447943078.soul-amsih.info&path=/xjfclmws#France%201%20dailyv2ry
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configasli%20%5B7%5D
 vless://telegram-id-ArV2ray@199.232.170.228:443/?type=ws&encryption=none&host=cdcw59.net&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
