@@ -1911,10 +1911,11 @@ trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=t
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A55%207.6MB%2Fs
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#CA🇨🇦
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🇨🇦[openproxylist.com]
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=diningtable.electricbanana.click#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=diningtable.electricbanana.click#🇨🇦[openproxylist.com]
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=🔒
 trojan://703790e0-4684-11f0-8851-1239d0255272@103.253.24.248:443/?type=tcp&security=tls&sni=🔒
 trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls
@@ -5360,8 +5361,6 @@ trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#Argentina%20Koupu%20cloud
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?type=tcp&security=tls&sni=temporaltortellini.click#AR🇦🇷
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#🇧🇷[openproxylist.com]
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=🔒
 trojan://P9qGW38zz7@nice-jp03.tiktokcdn.buzz:43857?security=tls&type=tcp&headerType=none
 trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=🔒
 trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.28:889?security=tls&sni=🔒
@@ -8923,6 +8922,7 @@ trojan://telegram-id-privatevpns@13.38.179.73:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.38.179.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@13.39.166.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.166.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+trojan://telegram-id-privatevpns@13.39.186.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.228.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.239.220:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@13.39.239.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
