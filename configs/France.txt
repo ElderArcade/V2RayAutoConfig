@@ -1,5 +1,6 @@
 hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#France🇫🇷
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540ShadowsocksM%3A%3AFR
 hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com#_FR_%E6%B3%95%E5%9B%BD%204
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B7%5D
@@ -9,6 +10,7 @@ ss://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80/?type=ws&encryption=none
 ss://1950a49e-68b4-44cd-b92b-1fae3729f048@platform.wise.com:2053?security=tls&type=ws&path=%2F&host=newfreebird.sayuri.dpdns.org&sni=newfreebird.sayuri.dpdns.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2003
 ss://1a79d43fb41c496ba241dcbeefa81f0eOg==@45.112.195.46:2053#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.112.195.46-2053+%7C+100.07ms
 ss://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996735062000656.highlander-amsih.info&type=ws&host=638996735062000656.highlander-amsih.info&path=/brxigzws#France%2066%20dailyv2ry
+ss://29348bb9-29b6-471b-8139-0561927c611c@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=638997260010766377.outback-amsii.info&type=ws&host=638997260010766377.outback-amsii.info&path=/tzszvsws#France%2018%20dailyv2ry
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me%2Fv2Line&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:29.71ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me/v2Line&path=/vless/#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:30.13ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#FR🇫🇷
@@ -239,6 +241,7 @@ vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=%2FYUYETreny
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80/?type=ws&encryption=none&path=%2Fhttp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayngc%20%5B17%5D
 vless://1950a49e-68b4-44cd-b92b-1fae3729f048@platform.wise.com:2053?security=tls&type=ws&path=%2F&host=newfreebird.sayuri.dpdns.org&sni=newfreebird.sayuri.dpdns.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2003
 vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996735062000656.highlander-amsih.info&type=ws&host=638996735062000656.highlander-amsih.info&path=/brxigzws#France%2066%20dailyv2ry
+vless://29348bb9-29b6-471b-8139-0561927c611c@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=638997260010766377.outback-amsii.info&type=ws&host=638997260010766377.outback-amsii.info&path=/tzszvsws#France%2018%20dailyv2ry
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me%2Fv2Line&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:29.71ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me/v2Line&path=/vless/#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:30.13ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#FR🇫🇷
