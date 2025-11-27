@@ -774,7 +774,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#All-@V2rayAlpha--3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#All-@V2rayAlpha--7
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#@Selinc
-hysteria2://dy9wtUUTs1@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
 hysteria2://e5da60e1-457d-4d7a-a99a-d21130931e08@fgsgfgffggfqa.qishuijc.top:40400?obfs=salamander&obfs-password=MWM0NDYzYmVjY2Q2YWFlNA%3D%3D&sni=fgsgfgffggfqa.qishuijc.top&mport=40400-42450#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%8E%A161%40oneclickvpnkeys
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%8E%A168%40oneclickvpnkeys
