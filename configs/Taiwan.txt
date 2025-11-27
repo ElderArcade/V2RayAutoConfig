@@ -1,4 +1,5 @@
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%94%9211%40oneclickvpnkeyshysteria://62.210.10.186:35511/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%923%40oneclickvpnkeys
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%94%9211%40oneclickvpnkeyshysteria://62.210.10.186:35511/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%923%40oneclickvpnkeysvless://ce1ba753-640b-4f2c-9559-007efde120d3@49.13.15.29:54952/?type=tcp&encryption=none&flow=&sni=www.stackoverflow.com&fp=chrome&security=reality&pbk=928CTfMKJRls8qsiPBeDzAvTIIa4rEdMOWvXrMwVBQU&sid=30c5b727#%F0%9F%94%9214%40oneclickvpnkeys
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21828?mport=21001-21999&insecure=0#%E5%8F%B0%E6%B9%BE1
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860?mport=21001-21999&insecure=0#%E5%8F%B0%E6%B9%BE2
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%94%9211%40oneclickvpnkeyshysteria://62.210.10.186:35511/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%923%40oneclickvpnkeys
@@ -20,7 +21,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0690
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-8877
 ssr://Z2xpbW1lcmRzZHMuc2RsLXN6LmNvbTozOTAwNzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6WkdGcWEyUXFMejgvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLUhxUENmaDdNZzVZLXc1cm0tZkVCeWFYQmhiMnBwWldScFlXNCZvYmZzcGFyYW09TVdZMFl6TTVNelEzTG0xcFkzSnZjMjltZEM1amIyMCZwcm90b3BhcmFtPU9UTTBOenBCYUhSMGJFZGtlVzFH
-ssr://Z2xpbW1lcmRzZHMuc2RsLXN6LmNvbTozOTAwNzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6WkdGcWEyUXFMejgvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLUhxUENmaDdNZzVZLXc1cm0tZkVCemRHRnBjbTV2WkdVJm9iZnNwYXJhbT1NV1kwWXpNNU16UTNMbTFwWTNKdmMyOW1kQzVqYjIwJnByb3RvcGFyYW09T1RNME56cEJhSFIwYkVka2VXMUc
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-2998
 trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.229-3137
 trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.230-3080
