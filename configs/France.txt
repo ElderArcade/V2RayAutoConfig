@@ -25,7 +25,6 @@ ss://40f6058d6cc14e4e8c00a5df8b7a8b58Og==@45.76.47.77:443#REALITY%7CFR%F0%9F%87%
 ss://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?&security=reality&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&sid=6b245ab1&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#FR%20VLESS-67%40free-nodes
 ss://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?security=reality&encryption=none&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b245ab1#FR%20VLESS-67%40free-nodes
 ss://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&sid=6b245ab1#REALITY|FR🇫🇷
-ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.38.77.118:55605?encryption=none&type=tcp#France%2096%20dailyv2ry
 ss://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#FR🇫🇷
 ss://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d%3F---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=sample.fullmargintraders.com&type=ws&sni=sample.fullmargintraders.com#FR🇫🇷
 ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#REALITY|FR🇫🇷
@@ -126,7 +125,7 @@ ss://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&se
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
+ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|FR🇫🇷
 ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#FR🇫🇷
@@ -171,7 +170,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880/?type=grpc&encryptio
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B20%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B11%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B11%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B10%5D
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B18%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -220,8 +219,6 @@ trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=as
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9382
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9388
 trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.210.1-1206
-trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com]trojan-FR
-trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&sni=cloudflare.com&fp=chrome&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9&spx=/&allowInsecure=1&type=grpc#🇫🇷[openproxylist.com]trojan-FR
 trojan://iwangjie@135.125.232.253:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.232.253-1390
 trojan://iwangjie@141.94.68.216:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.68.216-1389
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-1649
@@ -272,7 +269,6 @@ vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encr
 vless://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?&security=reality&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&sid=6b245ab1&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#FR%20VLESS-67%40free-nodes
 vless://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?security=reality&encryption=none&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b245ab1#FR%20VLESS-67%40free-nodes
 vless://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&sid=6b245ab1#REALITY|FR🇫🇷
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.38.77.118:55605?encryption=none&type=tcp#France%2096%20dailyv2ry
 vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#FR🇫🇷
 vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d%3F---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=sample.fullmargintraders.com&type=ws&sni=sample.fullmargintraders.com#FR🇫🇷
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#REALITY|FR🇫🇷
@@ -307,7 +303,7 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|FR🇫🇷
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#FR🇫🇷
@@ -352,7 +348,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880/?type=grpc&encryp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B20%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B11%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B11%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B10%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B18%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
