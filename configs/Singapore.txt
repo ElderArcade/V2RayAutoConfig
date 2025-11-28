@@ -141,7 +141,9 @@ trojan://1b26d982-fd68-44f4-bf6d-22fe17a9249a@sg006.421421.xyz:20230/?type=ws&pa
 trojan://1b26d982-fd68-44f4-bf6d-22fe17a9249a@sg006.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.188.155-0735
 trojan://27d01290-3763-11ed-90db-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-6873
 trojan://27f95174-9ea7-49c2-9cb6-b649abe675d7@nsaab.889948.xyz:443?path=%2Fnishasxia&security=tls&host=xxp2.gogogo.qpon&type=ws&sni=xxp2.gogogo.qpon#SG🇸🇬
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.106.144:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.106.144:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%202
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.132.158:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.132.158:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%202
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.151.196:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.151.196:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
