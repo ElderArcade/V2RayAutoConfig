@@ -52,7 +52,6 @@ ss://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?security=tls&alpn=h2
 ss://id6686739236@45.89.52.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.trendyol.com&fp=chrome&security=reality&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&sid=404c8792dfd88e41#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iseqaro%20%5B1%5D
 ss://id6856346113@tr3.vlessvpn.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.trendyol.com&fp=chrome&security=reality&pbk=bud9oCxsirvuYc5YDQMv2nxo3ng2TXTNhgZutCDE7UE&sid=9d2fc7dd498e#7%20%7C%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%F0%9F%87%B9%F0%9F%87%B7
 ss://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=trendyol.com&fp=chrome&security=reality&pbk=uIRwom3hz5_F9XL61FUa9Me_20F0kJLehZHdlNwkq2E&sid=4fd30711de97#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B18%5D
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=1&sni=runningshoes.purpletornado.click#TR%20TROJAN-75%40free-nodes
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#TR%20TROJAN-75%40free-nodes
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F94.131.123.74%3D443&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.74-1435
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.74-1302
