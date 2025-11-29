@@ -3,6 +3,8 @@ ss://171bf1a6-237d-49ce-ab00-32758da0f9a2@178.128.17.93:11125/?type=ws&encryptio
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Singapore%20Cloudflare
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+ss://58807a72-9bf7-4c8e-a0de-e6c455a8e23e@13.212.145.55:443?&security=reality&flow=xtls-rprx-vision&pbk=_wAe0p-BHzbxsR57gXuGSYp9io5iZ9o6DxIZ1yveQiY&sid=7e64264c&fp=chrome&sni=cn.ubuntu.com&type=tcp&headerType=none&path=%2F#sg-sgp-06-xtls.all.all.1x%20reality%20XTLS%20direct%20vless
+ss://58807a72-9bf7-4c8e-a0de-e6c455a8e23e@45.77.250.151:443?&security=reality&flow=xtls-rprx-vision&pbk=_wAe0p-BHzbxsR57gXuGSYp9io5iZ9o6DxIZ1yveQiY&sid=7e64264c&fp=chrome&sni=cn.ubuntu.com&type=tcp&headerType=none&path=%2F#sg-sgp-07-xtls.all.all.1x%20reality%20XTLS%20direct%20vless
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+168.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-9380
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYyMzY4ZC0xNWY1LTQyODMtODhkYS05MTE2NzY3NDc4YWM=@134.122.174.192:12222#%F0%9F%87%B8%F0%9F%87%ACSG-134.122.174.192-6108
@@ -161,6 +163,7 @@ trojan://G9CHhXltVx@96.9.213.108:12646/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F
 trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-184.168.127.50-0051
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#%253E%253E%2540oneclickvpnkeys%3A%3ASG
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#SG🇸🇬
+trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?allowInsecure=0&sni=zmbvgixwdqusy.advudjng.click#SG-139.180.143.191-2093
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5792
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6851
 trojan://cd39f62aed7b90f6@5.44.249.43:3389/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-7186
@@ -179,6 +182,8 @@ vless://171bf1a6-237d-49ce-ab00-32758da0f9a2@178.128.17.93:11125/?type=ws&encryp
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Singapore%20Cloudflare
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+vless://58807a72-9bf7-4c8e-a0de-e6c455a8e23e@13.212.145.55:443?&security=reality&flow=xtls-rprx-vision&pbk=_wAe0p-BHzbxsR57gXuGSYp9io5iZ9o6DxIZ1yveQiY&sid=7e64264c&fp=chrome&sni=cn.ubuntu.com&type=tcp&headerType=none&path=%2F#sg-sgp-06-xtls.all.all.1x%20reality%20XTLS%20direct%20vless
+vless://58807a72-9bf7-4c8e-a0de-e6c455a8e23e@45.77.250.151:443?&security=reality&flow=xtls-rprx-vision&pbk=_wAe0p-BHzbxsR57gXuGSYp9io5iZ9o6DxIZ1yveQiY&sid=7e64264c&fp=chrome&sni=cn.ubuntu.com&type=tcp&headerType=none&path=%2F#sg-sgp-07-xtls.all.all.1x%20reality%20XTLS%20direct%20vless
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none&flow=#SG🇸🇬
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@178.239.123.216:24443?path=%2F&security=tls&encryption=none&host=vless3.datatestvless.click&fp=chrome&type=ws&sni=vless3.datatestvless.click#%253E%253E%2540V2RAY_VMESS_free%3A%3ASG
