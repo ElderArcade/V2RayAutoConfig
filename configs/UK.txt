@@ -1,5 +1,4 @@
 ss://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080/?type=ws&encryption=none&path=%2FYUYETrenyklxeoyemeWFCrneerV#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
-ss://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?encryption=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 ss://1f05a69e-1dfb-340a-8a6b-117a59ed7e7f@uk-001.xiaoxiaobujidao.xyz:443?&security=reality&flow=xtls-rprx-vision&pbk=vMHW4_fx7bd_4bFZN9ecx58xSjv6SLg0wRYrdI62yUo&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=uk-001.xiaoxiaobujidao.xyz&path=%2F#%E8%8B%B1%E5%9B%BDX01
 ss://20ed210a-c5e7-4378-bd93-bae4d8580543@51.68.189.39:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fvless%2F#%E8%8B%B1%E5%9B%BD%20003
 ss://21fac592-a1ce-5253-bdda-5ea0e4498f6a@209.250.225.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#REALITY|GB🇬🇧
@@ -62,6 +61,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@178.62.16.161:811#%F0%9F%87%AC%F0%9F%87%A7GB-178.62.16.161-5212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNFVMUm9QWThEdlVobmJmS25qU1dE@206.206.125.53:20199#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+206.206.125.53-20199+%7C+143.25ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTVBGRVEwMkxNZW12OFFRd2VqN2Ey@89.185.84.185:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+89.185.84.185-443+%7C+177.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB-46.226.163.225-1940
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-1692
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.179-8080+%7C+152.56ms
@@ -222,7 +222,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=non
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B16%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B13%5D
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 ss://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&fp=chrome#GB%20VLESS-14%40free-nodes
@@ -303,7 +302,6 @@ trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-9994
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-9990
 vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080/?type=ws&encryption=none&path=%2FYUYETrenyklxeoyemeWFCrneerV#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
-vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?encryption=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 vless://1f05a69e-1dfb-340a-8a6b-117a59ed7e7f@uk-001.xiaoxiaobujidao.xyz:443?&security=reality&flow=xtls-rprx-vision&pbk=vMHW4_fx7bd_4bFZN9ecx58xSjv6SLg0wRYrdI62yUo&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=uk-001.xiaoxiaobujidao.xyz&path=%2F#%E8%8B%B1%E5%9B%BDX01
 vless://20ed210a-c5e7-4378-bd93-bae4d8580543@51.68.189.39:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fvless%2F#%E8%8B%B1%E5%9B%BD%20003
 vless://21fac592-a1ce-5253-bdda-5ea0e4498f6a@209.250.225.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#REALITY|GB🇬🇧
@@ -336,7 +334,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B16%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B13%5D
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&fp=chrome#GB%20VLESS-14%40free-nodes
