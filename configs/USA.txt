@@ -1,5 +1,4 @@
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#%253E%253E%2540oneclickvpnkeys%3A%3AUS
-hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#United%20States🇺🇸
 hy2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com#%253E%253E%2540oneclickvpnkeys%3A%3AUS
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%253E%253E%2540ShadowsocksM%3A%3AUS
 hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#%253E%253E%2540ShadowsocksM%3A%3AUS
@@ -15,7 +14,6 @@ hy2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@us.xn--gmq00sc0nuve.shop:21319/?insec
 hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743/?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#%253E%253E%2540ShadowsocksM%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%253E%253E%2540oneclickvpnkeys%3A%3AUS
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?security=tls&insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%253E%253E%2540FreakConfig%3A%3AUS
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#United%20States🇺🇸
 hysteria2://32e0f82e-ce8c-4219-9edb-9952f2ea9ba4@usa3.node.cross666.top:65535?insecure=1&sni=www.yahoo.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
 hysteria2://32e0f82e-ce8c-4219-9edb-9952f2ea9ba4@usa5.node.cross666.top:65535?insecure=1&sni=www.yahoo.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2009
 hysteria2://59832ca0-31c1-4d01-9b52-e2aaa8ad81fd@yl.jgpyjc.top:40400?obfs=salamander&obfs-password=NTIwN2U5MjA3OTIzZTM2OQ%3D%3D&sni=yl.jgpyjc.top&mport=40400-42450#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
