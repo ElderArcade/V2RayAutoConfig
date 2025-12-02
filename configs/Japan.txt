@@ -189,7 +189,6 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?allowInsecure=0&sni=
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-2040
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.223.205-2035
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.223.205-2035
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%208.9MB%2Fs
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.236.32:3093?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.236.32:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.236.32:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
@@ -229,7 +228,6 @@ trojan://BxceQaOe@160.16.82.24:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87
 trojan://BxceQaOe@160.16.85.138:4492/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.138-5667
 trojan://BxceQaOe@160.16.85.138:4492?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.138-1682
 trojan://BxceQaOe@52.195.176.26:2145?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.176.26-2033
-trojan://BxceQaOe@52.195.176.26:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://BxceQaOe@52.195.176.26:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.195.176.26:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.195.176.26:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
