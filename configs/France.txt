@@ -124,7 +124,6 @@ ss://a613dd46-69b7-4687-9cde-049c67ff4ec0@51.68.198.51:8080?path=%2FYUYETrenyklx
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 ss://b5585e5b-57ac-43e1-87f6-69a5d165d31f@Evay-vpn.octacityroleplay.ir:1122?mode=auto&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&encryption=none&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&host=join-bede-evay_vpn.org&fp=firefox&type=xhttp&sni=www.slideshare.net&sid=4c7b0ea36fc7f0c4#REALITY|FR🇫🇷
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#%253E%253E%2540v2line%3A%3AFR
-ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540DailyV2RY%3A%3AFR
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
@@ -133,7 +132,6 @@ ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%
 ss://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?security=reality&encryption=none&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=149adb1c3cb9ed11#REALITY|FR🇫🇷
 ss://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&sid=149adb1c3cb9ed11#REALITY|FR🇫🇷
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|FR🇫🇷
-ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fhttp#_%E6%B3%95%E5%9B%BD%2028
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B12%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B5%5D
@@ -176,7 +174,7 @@ trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sn
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-10240
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-1571
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80/?type=tcp&security=tls&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?allowInsecure=0&sni=sweetdream.sweetthunder.click#FR-217.69.10.156-1827
+trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?allowInsecure=0&sni=sweetdream.sweetthunder.click#FR-217.69.10.156-1884
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&path=/#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Aubervilliers🅿️ping:29.21ms
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?sni=sweetdream.sweetthunder.click&path=%2F#FR🇫🇷
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#FR🇫🇷
@@ -296,7 +294,6 @@ vless://a613dd46-69b7-4687-9cde-049c67ff4ec0@51.68.198.51:8080?path=%2FYUYETreny
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://b5585e5b-57ac-43e1-87f6-69a5d165d31f@Evay-vpn.octacityroleplay.ir:1122?mode=auto&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&encryption=none&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&host=join-bede-evay_vpn.org&fp=firefox&type=xhttp&sni=www.slideshare.net&sid=4c7b0ea36fc7f0c4#REALITY|FR🇫🇷
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#%253E%253E%2540v2line%3A%3AFR
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
@@ -305,7 +302,6 @@ vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=
 vless://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?security=reality&encryption=none&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=149adb1c3cb9ed11#REALITY|FR🇫🇷
 vless://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&sid=149adb1c3cb9ed11#REALITY|FR🇫🇷
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|FR🇫🇷
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fhttp#_%E6%B3%95%E5%9B%BD%2028
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B12%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B5%5D

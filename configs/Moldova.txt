@@ -1,7 +1,6 @@
 ss://0eb8300d-7948-4d36-838b-156fb642633b@MnjhXI562.NiCEreALLIFE.INFo:8443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=KAzKz9cOf4qq8Z4WHmfFWmJ_0s-g3uCMg1zlpF3ySQQ&sid=c6&spx=%2F&type=grpc#REALITY|MD🇲🇩
 ss://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&type=grpc#MD🇲🇩
-ss://669be00c-67b4-4b87-b08f-311c45abced2@94.103.0.94:8443?&security=reality&flow=xtls-rprx-vision&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&fp=chrome&sni=pingless.com&type=tcp&headerType=none&path=%2F#_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#REALITY|MD🇲🇩
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@185.242.84.181:443?security=reality&encryption=none&pbk=eYFJombyzUhLsqA8NfdHUBJdStTt7NN-Z63fuyAJUTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=1127691d#REALITY|MD🇲🇩
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#REALITY|MD🇲🇩
@@ -41,7 +40,6 @@ trojan://e299faed-cb72-4c62-bb2e-f0a218aed72a@hk-full.privateip.net:443?security
 vless://0eb8300d-7948-4d36-838b-156fb642633b@MnjhXI562.NiCEreALLIFE.INFo:8443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=KAzKz9cOf4qq8Z4WHmfFWmJ_0s-g3uCMg1zlpF3ySQQ&sid=c6&spx=%2F&type=grpc#REALITY|MD🇲🇩
 vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&type=grpc#MD🇲🇩
-vless://669be00c-67b4-4b87-b08f-311c45abced2@94.103.0.94:8443?&security=reality&flow=xtls-rprx-vision&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&fp=chrome&sni=pingless.com&type=tcp&headerType=none&path=%2F#_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#REALITY|MD🇲🇩
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@185.242.84.181:443?security=reality&encryption=none&pbk=eYFJombyzUhLsqA8NfdHUBJdStTt7NN-Z63fuyAJUTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=1127691d#REALITY|MD🇲🇩
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#REALITY|MD🇲🇩
