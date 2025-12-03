@@ -9,6 +9,7 @@ ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.198.80:443?type=grpc&encryption=
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.200.180:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%20828%2015%20dailyv2ry
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.201.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2042%20dailyv2ry
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.205.137:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%20736%2024%20dailyv2ry
+ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.212.201:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2028%20dailyv2ry
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.212.201:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2092%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@16.170.244.155:55605?encryption=none&type=tcp#Sweden%2066%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@51.21.152.219:55605?encryption=none&type=tcp#Sweden%2088%20dailyv2ry

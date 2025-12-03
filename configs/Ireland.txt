@@ -1,8 +1,10 @@
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.229.120:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2047%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.249.117.78:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2035%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.252.245.111:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2031%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.108.187:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2043%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.67.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2027%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.165.159:55605?encryption=none&type=tcp#Ireland%2056%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.32.122:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.249.141.252:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2039%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.215.50.101:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%203%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.31.78.198:59483?encryption=none&type=grpc#Ireland%2095%20dailyv2ry
@@ -38,9 +40,11 @@ trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&sni=trojan.bu
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-1509
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.229.120:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2047%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.249.117.78:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2035%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.252.245.111:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2031%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.108.187:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2043%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.67.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2027%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.165.159:55605?encryption=none&type=tcp#Ireland%2056%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.32.122:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.249.141.252:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2039%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.215.50.101:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%203%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.31.78.198:59483?encryption=none&type=grpc#Ireland%2095%20dailyv2ry
