@@ -302,6 +302,7 @@ hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#@V2rayNGVPN
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#🇳🇱@FreakConfig
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#🌐سرور
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?insecure=1&sni=www.bing.com#%40sunflowerplato%F0%9F%8C%BB
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?security=tls&insecure=1&sni=www.bing.com#@sunflowerplato🌻
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?insecure=1&sni=www.bing.com#%40IRAN_V2RAY1
@@ -624,7 +625,6 @@ hysteria2://RZjK7qHG15@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#%F0%9F%AA%9D37%40oneclickvpnkeys
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%40V2ray1_Ng%F0%9F%92%98%20%233
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%94%B8%40V2ray1_Ng%F0%9F%92%98%20%233
-hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%40Daily_Configs
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%F0%9F%8E%B542%40oneclickvpnkeys
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#@Daily_Configs
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#@V2ray1_Ng
