@@ -4973,8 +4973,6 @@ trojan://BxceQaOe@52.199.129.13:2752?security=tls&sni=t.me%2Fripaojiedian#%F0%9F
 trojan://BxceQaOe@52.199.129.13:2752?security=tls&sni=🔒
 trojan://BxceQaOe@52.199.129.13:2752?sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@52.199.129.13:2752?sni=🔒
-trojan://BxceQaOe@52.199.79.149:1196?allowInsecure=1&sni=t.me%2Fripaojiedian#🇸🇬[openproxylist.com]
-trojan://BxceQaOe@52.199.79.149:1196?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@52.199.79.149:1196?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.79.149-2033
 trojan://BxceQaOe@52.199.79.149:1196?security=tls&sni=🔒
 trojan://BxceQaOe@52.199.79.149:1196?sni=t.me%252Fripaojiedian&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2004
@@ -9143,6 +9141,7 @@ trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&security=
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9#🪝7@oneclickvpnkeys
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=🔒
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com]
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🔥Join+Telegram:@Farah_VPN🟣
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=🔒
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#I%201232%20%28%40Outline_Vpn%29%20free
