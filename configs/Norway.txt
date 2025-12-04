@@ -8,7 +8,8 @@ ss://4751adcd-064b-493e-979b-b1c56c133cb4@188.114.98.6:80?&security=false&fp=chr
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?&security=false&fp=chrome&type=ws&headerType=none&host=cdn.ir&path=%2Fnews#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ws%5D%20%5B251204-102758.894%5D
 ss://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?&security=false&fp=chrome&type=ws&headerType=none&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B251204-102803.517%5D
 ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fadmin#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ws%5D%20%5B251204-102847.955%5D
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-9943
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZUdBY3dhdmlXeFh6Zzg3QXd2bkU2Z1diaEhIR3d3Qg==@89.46.233.148:443#%F0%9F%87%B3%F0%9F%87%B4NO-89.46.233.148-1265
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-10382
 ss://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?&security=false&fp=chrome&type=ws&headerType=none&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=%2F%3Fed%3D2560#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B251204-102930.522%5D
 ss://df54e90b-a045-489e-8666-d77a73e4effe@fastly.extvay.ir:80/?type=ws&encryption=none&host=External_Net.org&path=%3Fed%3D9090#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20Fastly%20no%20tls%20%E2%9A%A1%F0%9F%9A%A8
 ss://e4787262-fc1f-45a8-b61d-d99e2b485bcf@141.227.166.221:13159?mode=gun&security=none&encryption=none&type=grpc&serviceName=%F0%9F%8D%ABTelegram%3Av2ray_configs_v2c%F0%9F%8D%AB#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo🅿️ping:39ms
