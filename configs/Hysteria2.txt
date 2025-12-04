@@ -348,6 +348,7 @@ hysteria2://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@9030f313-t57ls0-t80oqd-1rsuw.us
 hysteria2://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com:443?insecure=1&sni=9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com#%F0%9F%94%B455%40oneclickvpnkeys
 hysteria2://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com:443?insecure=1&sni=9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com#55%40oneclickvpnkeys%202
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com#%F0%9F%AA%9D74%40oneclickvpnkeys
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com:443?insecure=1&sni=3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com#%F0%9F%AA%9D74%40oneclickvpnkeys
@@ -583,7 +584,6 @@ hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#%F0%9F%94%9251%40ConfigV2RayNG
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#All-%40V2rayAlpha-26
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#MHH👉V2rayBaaz👈pn%2020
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#⚡Telegram=@SOSkeyNET
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#All-@V2rayAlpha-26
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#n
@@ -733,6 +733,7 @@ hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#Dr-A
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BASource
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#ELiV2RAY
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#ELiV2RAYآموزش
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#MHH👉V2rayBaaz👈r%E2%99%A1ya
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#MHH👉V2ray_official👈[🛸]
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#MHH👉vmess_ir👈%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%F0%9F%8C%8A%20%40vmess_ir
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#WiFi-%40V2rayAlpha--2
