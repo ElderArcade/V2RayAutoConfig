@@ -156,6 +156,7 @@ ss://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=&encryp
 ss://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://58721eb6-a461-45fb-a419-591b67bee72b@64.226.120.15:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#AZADnetvpn%F0%9F%A5%B0https://t.me/AzadNet
+ss://59bbd62b-be29-48aa-9221-7cc29283b98a@85.206.171.91:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#[🇱🇹]t.me/ConfigsHub
 ss://5a12794b-2125-46d7-a748-927a989faa04@nArrow-PASsEngER.oNEeAT.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#https://t.me/v2raynplus
 ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@108.162.198.11:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#[🇺🇸]t.me/ConfigsHub
@@ -340,6 +341,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#https://t.me/Sha
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#https://t.me/ShadowsocksM30
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#https://t.me/ShadowsocksM17
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#t.me/entryNET/config=1850585860275415
+ss://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 ss://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#https://t.me/v2raynplus
 ss://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@198.41.208.219:8080?security=none&type=ws&host=worker-wild-bread-baa9.test37.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@ComMUNaL-LosS.ONEeat.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
@@ -783,6 +785,7 @@ vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=&enc
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://58721eb6-a461-45fb-a419-591b67bee72b@64.226.120.15:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#AZADnetvpn%F0%9F%A5%B0https://t.me/AzadNet
+vless://59bbd62b-be29-48aa-9221-7cc29283b98a@85.206.171.91:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#[🇱🇹]t.me/ConfigsHub
 vless://5a12794b-2125-46d7-a748-927a989faa04@nArrow-PASsEngER.oNEeAT.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#https://t.me/v2raynplus
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@108.162.198.11:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#[🇺🇸]t.me/ConfigsHub
@@ -909,6 +912,7 @@ vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=&type=tcp&encryp
 vless://Warpi-Free-Vpn-In-GooglePlay@91.99.216.175:443?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM13
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=&encryption=none&host=vp13.mydatacloud1.ir&type=xhttp#t.me/entryNET/config=1850516025456016
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=none&encryption=none&host=vp13.mydatacloud1.ir&type=xhttp#t.me/entryNET/config=1850597185423666
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#https://t.me/v2raynplus
 vless://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@198.41.208.219:8080?security=none&type=ws&host=worker-wild-bread-baa9.test37.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@ComMUNaL-LosS.ONEeat.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
