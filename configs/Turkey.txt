@@ -1,4 +1,5 @@
 ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-69%20%7C%20free-nodes
+ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-71%20%7C%20free-nodes
 ss://0f24429c-bcf6-4011-8a1b-a3e5eda7452a@77.83.245.194:32690?security=reality&encryption=none&pbk=5C6bZsJKoDICwBbNH4VFlOk2uW1YYoR1vrPHgNURcns&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=6b5c55d3bfc0356f#TR🇹🇷𝗝𝗼𝗶𝗻
 ss://15c296d0-9862-450e-9749-72b522a46026@dl75.sulduznet.ir:35025?security=reality&encryption=none&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=9d0424d2#REALITY|TR🇹🇷
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B20%5D
@@ -14,6 +15,7 @@ ss://69f5241f-d5b7-294e-ac55-d0846635327c@188.132.141.112:1001?security=reality&
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 ss://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?flow=&type=tcp&headerType=none&security=none#TR🇹🇷
 ss://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-08%20%7C%20free-nodes
+ss://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-10%20%7C%20free-nodes
 ss://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#🇹🇷[openproxylist.com]vless-TR
 ss://9f683890-d3d2-4b3e-a0f4-2a40e9b1dbdb@sv5.utsteam2.top:40005/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B14%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VzNWUENUSjlRZXZRMjMwMERHUjY1@31.210.50.196:12422#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+31.210.50.196-12422+%7C+126.19ms
@@ -54,8 +56,8 @@ ss://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vi
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F94.131.123.74%3D443&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.74-1435
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F94.131.123.74%3D443&security=tls&sni=joss.gpj1.web.id#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:57ms
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F94.131.123.74%3D443&Host=joss.gpj1.web.id#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.74-1621
-trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-133%20%7C%20free-nodes
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-69%20%7C%20free-nodes
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-71%20%7C%20free-nodes
 vless://0f24429c-bcf6-4011-8a1b-a3e5eda7452a@77.83.245.194:32690?security=reality&encryption=none&pbk=5C6bZsJKoDICwBbNH4VFlOk2uW1YYoR1vrPHgNURcns&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=6b5c55d3bfc0356f#TR🇹🇷𝗝𝗼𝗶𝗻
 vless://15c296d0-9862-450e-9749-72b522a46026@dl75.sulduznet.ir:35025?security=reality&encryption=none&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=9d0424d2#REALITY|TR🇹🇷
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B20%5D
@@ -71,6 +73,7 @@ vless://69f5241f-d5b7-294e-ac55-d0846635327c@188.132.141.112:1001?security=reali
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?flow=&type=tcp&headerType=none&security=none#TR🇹🇷
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-08%20%7C%20free-nodes
+vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-10%20%7C%20free-nodes
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#🇹🇷[openproxylist.com]vless-TR
 vless://9f683890-d3d2-4b3e-a0f4-2a40e9b1dbdb@sv5.utsteam2.top:40005/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B14%5D
 vless://bea74dd6-ca4d-493b-8d1e-be12f7b489ed@88.209.249.199:35025?encryption=none&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&sid=9d0424d2&spx=%2F#REALITY|TR🇹🇷
