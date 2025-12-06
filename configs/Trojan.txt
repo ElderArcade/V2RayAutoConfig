@@ -43,7 +43,6 @@ trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpl
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.13-0391
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#TR%20TROJAN-132%20%7C%20free-nodes
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#TR%20TROJAN-139%20%7C%20free-nodes
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#🇵🇱[openproxylist.com]
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#🔥Join+Telegram:@Farah_VPN🟣
@@ -70,7 +69,6 @@ trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-989%20%7C%20free-nodes
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A540%2025.3MB%2Fs
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#CA%20TROJAN-135%20%7C%20free-nodes
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#🇨🇦[openproxylist.com]
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-1614%20%7C%20free-nodes
@@ -3765,7 +3763,6 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sn
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1736%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-250%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=www.nintendogames.net#US%20TROJAN-33%20%7C%20free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=1&sni=🔒
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.131.243-1503
@@ -3813,6 +3810,7 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&sni=w
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&sni=🔒
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.150.76-0336%20%7C%2019.001MB
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2ray1_Ng
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Singapore%20Digital%20Ocean
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1293%20%7C%20free-nodes
@@ -3861,6 +3859,7 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendoga
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1517%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1563%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#US%20TROJAN-35%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=🔒
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-2480
@@ -7205,7 +7204,6 @@ trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#HK%20TROJAN-32%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#HK%20TROJAN-34%20%7C%20free-nodes
-trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com]
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰[openproxylist.com]
 trojan://BxceQaOe@58.152.25.242:443?allowInsecure=1&sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
@@ -13432,7 +13430,6 @@ trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR%20TROJAN-04%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR%20TROJAN-13%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com]
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
@@ -13855,6 +13852,7 @@ trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-1445
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@3.64.121.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.64.168.175:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1110%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@3.64.168.175:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1234%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@3.64.168.175:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1437%20%7C%20free-nodes
