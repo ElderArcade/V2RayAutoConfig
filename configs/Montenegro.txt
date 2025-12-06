@@ -274,6 +274,7 @@ ss://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&en
 ss://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=&type=tcp&path=/&headerType=http&host=zula.ir&encryption=none#https://t.me/v2raynplus
 ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
+ss://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.48.91:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://801595a2-0179-43c6-9c88-b70035c96611@159.69.220.135:24199?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://805b52df-0581-495b-b8b5-b99594424053@104.165.205.170:8443?security=reality&encryption=none&pbk=Oxa7_rWhui5jFI7p8Fyg0G_Msev5-T6aalS4q2qMViI&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=gos9.portal-guard.com&sid=3415#[🇱🇻]t.me/ConfigsHub
 ss://805b52df-0581-495b-b8b5-b99594424053@104.165.205.170:8443?security=reality&encryption=none&pbk=Oxa7_rWhui5jFI7p8Fyg0G_Msev5-T6aalS4q2qMViI&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=gos9.portal-guard.com&sid=3415#t.me/entryNET/config=1850710431233281
@@ -372,7 +373,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVB1ZVdSd0FOSVVGMGtuZjNVR0NE@95.181.162.236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJeklyTG9nQ1JiRFFtRU1rQVZ3ektw@45.95.232.236:4248#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUElHSFNlSVpWQlM3aERY@series1.samanehha.co:443#t.me/V2ray_Custom😉
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbTVHdnFLeU9Ma3ZNWWd6Z0FFMUtH@46.246.96.42:12346#t.me/entryNET/config=1850672682114007
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2g1YW9RZGNYMG5aWENBSDV5Rjc1@77.91.101.132:43458#ME%F0%9F%87%B2%F0%9F%87%AA+%7C+77.91.101.132-43458+%7C+87.34ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2g1YW9RZGNYMG5aWENBSDV5Rjc1@77.91.101.132:43458#ME%F0%9F%87%B2%F0%9F%87%AA+%7C+77.91.101.132-43458+%7C+95.8ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#https://t.me/ShadowsocksM7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcEJ6UXdtcVlUdmdJTXRxRmM4QVhP@sg.outlinekeys.net:52252#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#https://t.me/ShadowsocksM9
@@ -582,6 +583,7 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://784d5c1f-69d8-4967-bc61-426983744ee5@t2.google.bforward2.uk:443?sni=t2.google.bforward2.uk#t.me%2Fkutoproxy%F0%9F%87%A8%F0%9F%87%A6⛳️New
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
+trojan://95b@43.153.103.203:443?allowInsecure=1&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 trojan://BxceQaOe@112.118.116.66:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.30.120:443?security=tls&sni=58.152.30.120&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#[🇭🇰]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.53.8:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#[🇭🇰]t.me/ConfigsHub
@@ -980,6 +982,7 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality
 vless://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=&type=tcp&path=/&headerType=http&host=zula.ir&encryption=none#https://t.me/v2raynplus
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.48.91:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://801595a2-0179-43c6-9c88-b70035c96611@159.69.220.135:24199?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://805b52df-0581-495b-b8b5-b99594424053@104.165.205.170:8443?security=reality&encryption=none&pbk=Oxa7_rWhui5jFI7p8Fyg0G_Msev5-T6aalS4q2qMViI&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=gos9.portal-guard.com&sid=3415#[🇱🇻]t.me/ConfigsHub
 vless://805b52df-0581-495b-b8b5-b99594424053@104.165.205.170:8443?security=reality&encryption=none&pbk=Oxa7_rWhui5jFI7p8Fyg0G_Msev5-T6aalS4q2qMViI&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=gos9.portal-guard.com&sid=3415#t.me/entryNET/config=1850710431233281

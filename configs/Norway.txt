@@ -4,6 +4,7 @@ ss://66027710-1509-468b-a513-c32a7db95b80@141.227.166.221:13157?mode=gun&encrypt
 ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fadmin#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ws%5D%20%5B251206-011533.133%5D
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fvless%2F#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%5Bvl-no-ws%5D%20%5B251206-011547.816%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA%3D%3D@107.174.114.71:443#%3E%3E%40DailyV2RY%3A%3ANO
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA3D3A==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+107.5ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-11130
 ss://df54e90b-a045-489e-8666-d77a73e4effe@fastly.extvay.ir:80/?type=ws&encryption=none&host=External_Net.org&path=%3Fed%3D9090#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20Fastly%20no%20tls%20%E2%9A%A1%F0%9F%9A%A8
 ss://ee6f696e-c11e-4479-8402-20163b2074a6@141.227.166.221:13158?mode=gun&security=none&encryption=none&type=grpc&serviceName=%F0%9F%8D%ABTelegram%3Av2ray_configs_v2c%F0%9F%8D%AB#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo🅿️ping:22ms
