@@ -174,6 +174,7 @@ ss://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&secu
 ss://5efc38b9-864d-42a7-905e-95c4e8dbdaa6@de-2.goyit.com:443?security=reality&encryption=none&pbk=KorNtFFpndWf6zUYoQkez5HRqkIdWH1jANsxGryz2Hw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=det.goyit.com&sid=2ebeacf4ba1333bb&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=ice-nimejam.info&type=ws&path=/perform#[🇨🇦]t.me/ConfigsHub
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=ice-nimejam.info&type=ws&path=/perform#t.me/entryNET/config=1850779018673902
+ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&type=ws&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#t.me/entryNET/config=1850739375996616
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform?/TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&type=ws&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
@@ -558,7 +559,6 @@ ss://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=&encrypti
 ss://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.130.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.backup.com#[🇨🇦]t.me/ConfigsHub
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.5.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2Ftelegramu0001f1e8u0001f1f3#[🇺🇸]t.me/ConfigsHub
 ss://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.us.Kg&type=ws&path=%2FSbXQWVTIbuXWclzj%3Fed&fp=randomized#[🇺🇸]t.me/ConfigsHub
-ss://fad329ac-313b-471c-8d94-a6e8f598990e@104.24.247.158:80?mode=auto&path=%2F&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://fad329ac-313b-471c-8d94-a6e8f598990e@104.25.211.160:80?encryption=none&security=none&type=xhttp&host=vp3.mydatacloud2.ir&path=/&mode=auto#t.me/v2Line
 ss://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.60.73:80?mode=auto&path=%2F&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://fdb49ec3-4237-4c61-8245-687c075d2bd0@query.1-3.online:2083?mode=auto&path=/&security=reality&encryption=none&pbk=vxddRmK6H4Ipm2Ce9uG-Jv6ET_hwLOIOd9MAGMPTjSI&fp=chrome&type=xhttp&sni=telewebion.com&sid=e905a4ce68c1f6d2#t.me/entryNET/config=1850775862094749
@@ -880,6 +880,7 @@ vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&s
 vless://5efc38b9-864d-42a7-905e-95c4e8dbdaa6@de-2.goyit.com:443?security=reality&encryption=none&pbk=KorNtFFpndWf6zUYoQkez5HRqkIdWH1jANsxGryz2Hw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=det.goyit.com&sid=2ebeacf4ba1333bb&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=ice-nimejam.info&type=ws&path=/perform#[🇨🇦]t.me/ConfigsHub
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=ice-nimejam.info&type=ws&path=/perform#t.me/entryNET/config=1850779018673902
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&type=ws&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#t.me/entryNET/config=1850739375996616
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform?/TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&type=ws&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
@@ -1196,7 +1197,6 @@ vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=&encry
 vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.130.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.backup.com#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.5.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2Ftelegramu0001f1e8u0001f1f3#[🇺🇸]t.me/ConfigsHub
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.us.Kg&type=ws&path=%2FSbXQWVTIbuXWclzj%3Fed&fp=randomized#[🇺🇸]t.me/ConfigsHub
-vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.24.247.158:80?mode=auto&path=%2F&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.25.211.160:80?encryption=none&security=none&type=xhttp&host=vp3.mydatacloud2.ir&path=/&mode=auto#t.me/v2Line
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.60.73:80?mode=auto&path=%2F&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://fdb49ec3-4237-4c61-8245-687c075d2bd0@query.1-3.online:2083?mode=auto&path=/&security=reality&encryption=none&pbk=vxddRmK6H4Ipm2Ce9uG-Jv6ET_hwLOIOd9MAGMPTjSI&fp=chrome&type=xhttp&sni=telewebion.com&sid=e905a4ce68c1f6d2#t.me/entryNET/config=1850775862094749
