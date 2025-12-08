@@ -31,6 +31,7 @@ ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.140.5.76:59483?security=&encryption
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.1.204.49:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2067%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.36.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2051%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.42.62:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2068%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.169.139.39:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2053%20dailyv2ry
 ss://4964de22-405c-533f-9c41-354c2395cd3c@207.148.77.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#REALITY|SG🇸🇬
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+174.87ms
 ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3ASG
@@ -237,6 +238,7 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.140.5.76:59483?security=&encrypt
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.1.204.49:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2067%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.36.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2051%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.42.62:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2068%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.169.139.39:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2053%20dailyv2ry
 vless://4964de22-405c-533f-9c41-354c2395cd3c@207.148.77.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#REALITY|SG🇸🇬
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:175.2ms
