@@ -217,6 +217,7 @@ ss://7f9842fd-56d0-48fd-95f8-ad80c2a4a098@brenna.ns.cloudflare.com:443?encryptio
 ss://830621e5-7035-45de-aebd-bad0c0c0088d@138.68.75.108:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2017%20dailyv2ry
 ss://830621e5-7035-45de-aebd-bad0c0c0088d@164.92.235.125:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2067%20dailyv2ry
 ss://830621e5-7035-45de-aebd-bad0c0c0088d@164.92.247.67:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2024%20dailyv2ry
+ss://830621e5-7035-45de-aebd-bad0c0c0088d@68.183.74.2:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2084%20dailyv2ry
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@195.62.48.191:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=de.eu-ffast.com&sid=50#REALITY|DE🇩🇪
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=piaz.mrconfigur.site&path=%2F&security=tls&sni=piaz.mrconfigur.site&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?&security=tls&fp=chrome&sni=piaz.mrconfigur.site&type=ws&headerType=none&host=piaz.mrconfigur.site&path=%2F#%5BVless%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20VLESS-107%40free-nodes
@@ -374,6 +375,7 @@ ss://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2030%20dailyv2ry
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2032%20dailyv2ry
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2035%20dailyv2ry
+ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2065%20dailyv2ry
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2079%20dailyv2ry
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%208%20dailyv2ry
 ss://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2083%20dailyv2ry
@@ -844,6 +846,7 @@ vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?f
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2030%20dailyv2ry
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2032%20dailyv2ry
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2035%20dailyv2ry
+vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2065%20dailyv2ry
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2079%20dailyv2ry
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%208%20dailyv2ry
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO%2083%20dailyv2ry

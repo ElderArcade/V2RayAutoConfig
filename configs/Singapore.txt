@@ -25,6 +25,8 @@ hysteria2://fWydUhyG3woKe4a0kcKKKdx78@8.219.232.60:6467?insecure=1&sni=bing.com#
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.215.206.195:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2098%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.140.5.76:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2080%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.1.204.49:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2067%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.36.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2051%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.42.62:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2068%20dailyv2ry
@@ -218,6 +220,8 @@ trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&p
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.215.206.195:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2098%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.140.5.76:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2080%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.1.204.49:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2067%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.36.123:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2051%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@47.129.42.62:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Singapore%2068%20dailyv2ry
