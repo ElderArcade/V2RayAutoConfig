@@ -5,7 +5,6 @@ ss://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&secu
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56#Switzerland%2033%20dailyv2ry
-ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56#🇨🇭[openproxylist.com]vless-CH
 ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 ss://1b796671-eb73-4e18-b624-5b8c138b8c39@star-logic-epsilon-nova-zone.dlcnamatike7.com:7071?mode=gun&security=reality&encryption=none&pbk=4-1-sRlmXLbSDEMgWAaKmzGZEyclAGRoqvQke8cutmg&fp=firefox&spx=%2F&type=grpc&serviceName=%40V2rayHapp&sni=media.steampowered.com&sid=821047#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B14%5D
@@ -69,15 +68,18 @@ ss://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?encryption=none&securit
 ss://9f0eae34-97c1-4c07-8a55-438379981334@104.24.148.115:80?encryption=none&security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=/?ed=2560#📐Ch:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdkI2UU5rbExOV3ZsVWY2c0phNUVQ@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+133.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+132.71ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZ0ZjOFBOazhRSEhjVzdsVEZUZUlk@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:30.24ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOEs2c3MwQXZldVdsV3pXODBYNU5M@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+132.99ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJeklyTG9nQ1JiRFFtRU1rQVZ3ektw@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+133.25ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+133.83ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM3dCUzU5ckZmdFAyZWI3STVpVDNh@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+133.4ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+133.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:30.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:56.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:63.22ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-6339
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20@OutlineReleasedKey
+ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w%3D@86.106.84.196:13263#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:29ms
+ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w%3D@86.106.84.196:13263#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:32.82ms
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#%F0%9F%87%A8%F0%9F%87%ADCH-185.126.116.125-0120
 ss://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch:
 ss://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch:
@@ -114,7 +116,6 @@ ss://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?encryption=none&secu
 ss://faa47bdc-8581-4e47-a557-35caa72681bd@104.24.181.248:80?encryption=none&security=none&type=ws&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&path=/?ed=2560#⏸️Ch:
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-1701
 trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%ADCH-91.192.102.92-1275
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Hünenberg🅿️ping:1043ms
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch:
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch:
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:
@@ -122,7 +123,6 @@ vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&s
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56#Switzerland%2033%20dailyv2ry
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56#🇨🇭[openproxylist.com]vless-CH
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 vless://1b796671-eb73-4e18-b624-5b8c138b8c39@star-logic-epsilon-nova-zone.dlcnamatike7.com:7071?mode=gun&security=reality&encryption=none&pbk=4-1-sRlmXLbSDEMgWAaKmzGZEyclAGRoqvQke8cutmg&fp=firefox&spx=%2F&type=grpc&serviceName=%40V2rayHapp&sni=media.steampowered.com&sid=821047#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B14%5D
