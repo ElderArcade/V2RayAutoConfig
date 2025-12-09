@@ -156,6 +156,7 @@ ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperf
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 ss://5f9a4072-603e-4255-a45b-b0970e571de9@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?path=%2Fvless.hubp.de&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hemmat.iranmap.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hemmat.iranmap.workers.dev#[🇨🇦]t.me/ConfigsHub
+ss://60510065-6006-44df-a6e0-6c75968d739c@us-003.shopping-1688.com:443?path=%2Fdetailsws&security=tls&encryption=none&fp=chrome&type=ws&sni=us-003.shopping-1688.com#[🇨🇦]t.me/ConfigsHub
 ss://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉
 ss://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
@@ -780,6 +781,7 @@ vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fp
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#[🇨🇦]t.me/ConfigsHub
 vless://5f9a4072-603e-4255-a45b-b0970e571de9@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?path=%2Fvless.hubp.de&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hemmat.iranmap.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hemmat.iranmap.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://60510065-6006-44df-a6e0-6c75968d739c@us-003.shopping-1688.com:443?path=%2Fdetailsws&security=tls&encryption=none&fp=chrome&type=ws&sni=us-003.shopping-1688.com#[🇨🇦]t.me/ConfigsHub
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
