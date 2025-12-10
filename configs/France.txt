@@ -1,7 +1,9 @@
 hy2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#FR
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#France🇫🇷
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#FR
+hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷
 ss://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@France.phantompanel.shop:2024?mode=gun&security=reality&encryption=none&authority=&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&fp=chrome&type=grpc&serviceName=yourServiceName&sni=www.cloudflare.com&sid=650bbd4b5cae0713#REALITY|FR🇫🇷
 ss://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@France.phantompanel.shop:2024?mode=gun&security=reality&encryption=none&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&fp=chrome&type=grpc&serviceName=yourServiceName&sni=www.cloudflare.com&sid=650bbd4b5cae0713#REALITY|FR🇫🇷
 ss://0abae059-b759-4040-a928-f84a57b8fbd4@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
