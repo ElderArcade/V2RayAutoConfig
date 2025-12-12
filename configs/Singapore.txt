@@ -153,6 +153,7 @@ ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.037.nod
 ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.040.node-for-bigairport.win:11689#%F0%9F%87%B8%F0%9F%87%ACSG-54.179.145.99-3704
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.038.node-for-bigairport.win:11689#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.17.35-6979
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-7702
+ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG%20%F0%9F%A7%AD%202.2MB%2Fs#کانفیگ_پرسرعت
 ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#SG🇸🇬
 ss://aef43c17-8cf7-4ffc-800b-1dfb4e89ba83@sg001.421421.xyz:20230?mode=gun&security=reality&encryption=none&pbk=WEttTimK6Q9qB8cd2AQ8kyDJOVfKAlPIl5E1T7-q0Dw&fp=chrome&type=grpc&serviceName=tj&sni=www.nvidia.com&sid=1afbe06d#REALITY|SG🇸🇬
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
@@ -224,6 +225,7 @@ vless://4964de22-405c-533f-9c41-354c2395cd3c@207.148.77.62:443?encryption=none&f
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3&encryption=none&type=ws&sni=free-server.techsonic.cloud#SG🇸🇬
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@sg2.gzcloud.shop:11451/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇸🇬新加坡
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG%20%F0%9F%A7%AD%202.2MB%2Fs#کانفیگ_پرسرعت
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#SG🇸🇬
 vless://aef43c17-8cf7-4ffc-800b-1dfb4e89ba83@sg001.421421.xyz:20230?mode=gun&security=reality&encryption=none&pbk=WEttTimK6Q9qB8cd2AQ8kyDJOVfKAlPIl5E1T7-q0Dw&fp=chrome&type=grpc&serviceName=tj&sni=www.nvidia.com&sid=1afbe06d#REALITY|SG🇸🇬
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
