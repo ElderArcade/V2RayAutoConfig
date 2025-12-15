@@ -289,7 +289,6 @@ ss://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=&type=tcp
 ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.19.60.185:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-ss://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=e3e4740b584aeb#[🇩🇪]t.me/ConfigsHub
 ss://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=e3e4740b584aeb#[🇩🇪]t.me/ConfigsHub
 ss://8019c738-b3ed-440c-85e2-620b5b71064f@it.clubban.ir:2096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=it.vizitur.ir#[🇮🇹]t.me/ConfigsHub
 ss://81c5e9f6-daf6-4ce9-9fb7-4b0d4e53b85e@84.201.173.57:443?security=reality&encryption=none&pbk=M_1zEYq4wjbrRnpTOOsfzoFhAHZgyPR09ahuI2Fw7ko&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru&sid=71f81391c503c9a9#[🇷🇺]t.me/ConfigsHub
@@ -766,6 +765,7 @@ trojan://telegram-id-privatevpns@63.178.33.36:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.178.74.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@63.180.131.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.180.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.181.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.181.126.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -1063,7 +1063,6 @@ vless://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=&type=
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.19.60.185:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-vless://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=e3e4740b584aeb#[🇩🇪]t.me/ConfigsHub
 vless://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=e3e4740b584aeb#[🇩🇪]t.me/ConfigsHub
 vless://8019c738-b3ed-440c-85e2-620b5b71064f@it.clubban.ir:2096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=it.vizitur.ir#[🇮🇹]t.me/ConfigsHub
 vless://81c5e9f6-daf6-4ce9-9fb7-4b0d4e53b85e@84.201.173.57:443?security=reality&encryption=none&pbk=M_1zEYq4wjbrRnpTOOsfzoFhAHZgyPR09ahuI2Fw7ko&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru&sid=71f81391c503c9a9#[🇷🇺]t.me/ConfigsHub
