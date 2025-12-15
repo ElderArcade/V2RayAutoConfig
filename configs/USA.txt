@@ -9,6 +9,7 @@ hysteria2://5e19bac6-c238-4e78-8c83-7fb86d7cd99e@sg3.dnscloudcloud.top:36225?ins
 hysteria2://6340e9e8-a619-4c8b-89ad-3381f80b8411@jp1.dnscloudcloud.top:36846?insecure=1&sni=1231231.1234567890spcloud.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2002
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?insecure=1&sni=mg1.mangshe.xyz#%E7%BE%8E%E5%9B%BD%20%231
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#🇺🇸US%20%20ROSE—10
 hysteria2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704?insecure=1&sni=bing.com#US
 ss://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.23:2086/?type=httpupgrade&encryption=none&host=DarkShield.nl.wowshops.ir.#%40Hope_Net-join-us-on-Telegram
 ss://0110d1d5-12c2-4a80-bad9-8c33722e8699@141.193.213.20:80/?type=ws&encryption=none&host=lk.sahanwickramasinghe.shop#%40Hope_Net-join-us-on-Telegram
