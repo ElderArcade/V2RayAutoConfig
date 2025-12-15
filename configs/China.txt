@@ -221,6 +221,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-14.215.39.158-2951
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-2758
 trojan://BxceQaOe@219.78.209.224:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@219.78.209.224:443?sni=t.me/ripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
 trojan://BxceQaOe@219.78.209.224:443?sni=t.me/ripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 trojan://BxceQaOe@36.156.102.115:26876?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.115-0561
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.139.194-5654
@@ -279,6 +280,7 @@ trojan://fab16fff-d149-417c-bdef-4bfcf2333bbe@hkt.iamnotagoodman.com:443#%F0%9F%
 trojan://telegram-id-privatevpns@52.57.81.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
+trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 vmess://ewogICAgImFkZCI6ICIxMDYuNTUuMTg3LjEzOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNWE0NjQ3MDctMzE2Mi00YTA5LWU5ZTItZDcwYTZiODkyMjY3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDgsCiAgICAicHMiOiAi8J+HqPCfh7NDTi0xMDYuNTUuMTg3LjEzOS0xNjM2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMTcuMjguMjQyLjE1NiIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogInN4cXhqLmNuIiwKICAgICJpZCI6ICJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3MiLAogICAgInBvcnQiOiAyMTY0LAogICAgInBzIjogIvCfh6jwn4ezQ04tMTE3LjI4LjI0Mi4xNTYtNDI0MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMjQuMjIxLjEzMS4xNzYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImZhNGI2ZjhmLTEyNjQtNDVlYy05NjUxLTYxNjBjMTJjYWJjNSIsCiAgICAibmV0IjogImh0dHAiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogNTA3OTcsCiAgICAicHMiOiAi8J+HqPCfh7NDTi0xMjQuMjIxLjEzMS4xNzYtMTczMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
