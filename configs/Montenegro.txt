@@ -139,7 +139,6 @@ ss://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&sec
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#https://t.me/v2raynplus
 ss://44c3505a-980d-4d2d-8d58-f241c8d6799c@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=/54567/mvfkvk&security=none&encryption=none&type=ws#https://t.me/v2raynplus
-ss://464c6913-95b5-44e0-9bdb-5ae9b8f82735@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 ss://464c6913-95b5-44e0-9bdb-5ae9b8f82735@usaa.fastlynew.hosting-ip.com:80?path=/telegeam-@v2_city--?ed=2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@192.248.188.128:443?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://465f35d5-897c-4ce0-811c-24ac58711f45@45.76.82.61:443?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
@@ -165,6 +164,7 @@ ss://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443/?type=ws&encryption
 ss://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@brenna.ns.cloudflare.com:443?path=%2Fzmiuyqws&security=tls&encryption=none&host=639013098070217402.macan-amsjd.info&type=ws&sni=639013098070217402.macan-amsjd.info#[🇨🇦]t.me/ConfigsHub
 ss://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
 ss://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.23.141:1488?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#[🇷🇺]t.me/ConfigsHub
+ss://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
 ss://4a6de183-2ad3-456c-b420-feeac81f6257@84.201.178.99:1488?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#[🇷🇺]t.me/ConfigsHub
 ss://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?security=none&type=ws&path=%2F&host=201.58vtg99l.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
@@ -915,7 +915,6 @@ vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#https://t.me/v2raynplus
 vless://44c3505a-980d-4d2d-8d58-f241c8d6799c@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=/54567/mvfkvk&security=none&encryption=none&type=ws#https://t.me/v2raynplus
-vless://464c6913-95b5-44e0-9bdb-5ae9b8f82735@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://464c6913-95b5-44e0-9bdb-5ae9b8f82735@usaa.fastlynew.hosting-ip.com:80?path=/telegeam-@v2_city--?ed=2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@192.248.188.128:443?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@45.76.82.61:443?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
@@ -941,6 +940,7 @@ vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443/?type=ws&encrypt
 vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@brenna.ns.cloudflare.com:443?path=%2Fzmiuyqws&security=tls&encryption=none&host=639013098070217402.macan-amsjd.info&type=ws&sni=639013098070217402.macan-amsjd.info#[🇨🇦]t.me/ConfigsHub
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.23.141:1488?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#[🇷🇺]t.me/ConfigsHub
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@84.201.178.99:1488?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#[🇷🇺]t.me/ConfigsHub
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?security=none&type=ws&path=%2F&host=201.58vtg99l.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
