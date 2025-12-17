@@ -28,6 +28,7 @@ ss://0eb0019b66404203a7e07701f61bf766@91.220.8.177:443?type=tcp&encryption=none&
 ss://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@94.156.114.200:38395?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#REALITY|DE🇩🇪
 ss://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@de-2.shvurgceo.online:38395?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#REALITY|DE🇩🇪
 ss://17e9f875-ded1-4d30-946d-f17a8b98c8a3@104.17.147.22:443?encryption=none&type=ws&host=q.qdio010.workers.dev&path=/?ed=2560&security=tls&fp=chrome&sni=q.qdio010.workers.dev&alpn=h3#AKLISvpn🇩🇪DE
+ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fpanika#_%E5%BE%B7%E5%9B%BD
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -489,6 +490,7 @@ vless://0eb0019b66404203a7e07701f61bf766@91.220.8.177:443?type=tcp&encryption=no
 vless://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@94.156.114.200:38395?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#REALITY|DE🇩🇪
 vless://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@de-2.shvurgceo.online:38395?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#REALITY|DE🇩🇪
 vless://17e9f875-ded1-4d30-946d-f17a8b98c8a3@104.17.147.22:443?encryption=none&type=ws&host=q.qdio010.workers.dev&path=/?ed=2560&security=tls&fp=chrome&sni=q.qdio010.workers.dev&alpn=h3#AKLISvpn🇩🇪DE
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fpanika#_%E5%BE%B7%E5%9B%BD
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
