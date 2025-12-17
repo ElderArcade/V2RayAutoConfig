@@ -22,6 +22,7 @@ ss://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=a
 ss://d02efe87-40d6-40a6-a449-3cfd02ed5e54@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:53ms
 ss://ed3c782a-577b-4bd1-8c1d-894b29f0dc6c@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:21.93ms
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:21.93ms
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:69ms
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:21.93ms
