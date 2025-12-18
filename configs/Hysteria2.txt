@@ -216,7 +216,6 @@ hysteria2://3FyodfybrY@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://3b475934-cb2a-4d96-b260-5e50cca5d430@74.117.196.232:54293/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509?insecure=1&sni=bing.com#SG
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#SG%20%231
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#🌐سرور
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#FR
 hysteria2://4CQDwSnjr3@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%20%40freeOnlineVPN%20%231
 hysteria2://4CQDwSnjr3@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
