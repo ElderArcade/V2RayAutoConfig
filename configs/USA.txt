@@ -119,6 +119,7 @@ ss://11e0a4c8-6764-42f4-8723-6450804355e2@104.26.110.49:80?path=%2F&security=non
 ss://11e0a4c8-6764-42f4-8723-6450804355e2@188.114.96.2:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
 ss://11f0eadd-9a8d-4791-ada3-4789ac3ff7ca@104.17.16.171:8080/?type=ws&encryption=none&host=empty-tree-6008.jobaf49186.workers.dev&path=%2Fvless-ws%2F%40Azarbayjab1%20%40Azarbayjab1%20%40Azarbayjab1%20%40Azarbayjab1%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 ss://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80/?type=xhttp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B17%5D
+ss://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B16%5D
 ss://1215fcf7-f131-4d84-b750-47ea8c88a833@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#US🇺🇸
 ss://12345678-1234-1234-1234-123456789123@159.246.55.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 ss://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
@@ -5679,14 +5680,12 @@ trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2890?allowInsecure=0&sn
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2890?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2890?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2890?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2890?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian%203
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?allowInsecure=1&sni=www.nintendogames.net#12%2C13%7C%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-162.209.175.122-0583
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-162.209.175.122-0582
@@ -5710,7 +5709,6 @@ trojan://iwangjie@158.101.11.204:15805/?type=ws&path=%2F%3Fed%3D2560&security=tl
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=nodes.830901.xyz&type=ws&path=%2F%3Fed%3D2560&Host=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-0843
 trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
-trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-155.248.193.254-1376
 trojan://join-bede-daily-configs@104.21.69.44:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://join-bede-daily-configs@172.64.146.66:8443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
@@ -6031,6 +6029,7 @@ vless://11e0a4c8-6764-42f4-8723-6450804355e2@104.26.110.49:80?path=%2F&security=
 vless://11e0a4c8-6764-42f4-8723-6450804355e2@188.114.96.2:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
 vless://11f0eadd-9a8d-4791-ada3-4789ac3ff7ca@104.17.16.171:8080/?type=ws&encryption=none&host=empty-tree-6008.jobaf49186.workers.dev&path=%2Fvless-ws%2F%40Azarbayjab1%20%40Azarbayjab1%20%40Azarbayjab1%20%40Azarbayjab1%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80/?type=xhttp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B17%5D
+vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B16%5D
 vless://1215fcf7-f131-4d84-b750-47ea8c88a833@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#US🇺🇸
 vless://12345678-1234-1234-1234-123456789123@159.246.55.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
