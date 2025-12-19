@@ -4131,7 +4131,6 @@ trojan://FLpONjB2Lb@139.162.45.139:443?security=tls
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-2921
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#AU🇦🇺
-trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#All-%40V2rayAlpha--42
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#All-@V2rayAlpha--42
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&type=tcp&headerType=http&path=/#🔥Join+Telegram:@Farah_VPN🟣
