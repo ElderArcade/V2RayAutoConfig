@@ -3255,6 +3255,7 @@ ss://a1de8ce5-1a51-4dad-8993-1839447adef4@151.101.194.228:80/?type=ws&encryption
 ss://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=%2Fjkghvmws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
 ss://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?type=ws&encryption=none&flow=&path=%2Fjkghvmws&security=tls&sni=github.com&allowInsecure=1#US🇺🇸
 ss://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@104.16.58.162:80/?type=ws&encryption=none&host=worker-winter-meadow-e881.test55.workers.dev&path=%2F#%40Hope_Net-join-us-on-Telegram
+ss://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&alpn=h2#US🇺🇸
 ss://a21f2530-1e1c-4b74-8cdd-2de95a0560fe@104.21.31.185:443/?type=ws&encryption=none&host=d73d10d2-winter-union-3936.newpanel54.workers.dev&path=%2FSohkwn3kg2NdQOFi%2FODguMTk4LjE3Mi4yNQ%3D%3D%3Fed%3D2560&security=tls&sni=D73D10d2-WiNTEr-UnioN-3936.NeWPAnEl54.WorkeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 ss://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#US🇺🇸
 ss://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@198.41.208.219:8080/?type=ws&encryption=none&host=worker-wild-bread-baa9.test37.workers.dev&path=%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
@@ -4036,7 +4037,6 @@ ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLj
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv#%40Hope_Net-join-us-on-Telegram
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=0&sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=1&sni=shoppingmall.electricbanana.click#%5BTrojan%5D%20%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%206.9MB%2Fs
 trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
@@ -7932,6 +7932,7 @@ vless://a1de8ce5-1a51-4dad-8993-1839447adef4@151.101.194.228:80/?type=ws&encrypt
 vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=%2Fjkghvmws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
 vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?type=ws&encryption=none&flow=&path=%2Fjkghvmws&security=tls&sni=github.com&allowInsecure=1#US🇺🇸
 vless://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@104.16.58.162:80/?type=ws&encryption=none&host=worker-winter-meadow-e881.test55.workers.dev&path=%2F#%40Hope_Net-join-us-on-Telegram
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&alpn=h2#US🇺🇸
 vless://a21f2530-1e1c-4b74-8cdd-2de95a0560fe@104.21.31.185:443/?type=ws&encryption=none&host=d73d10d2-winter-union-3936.newpanel54.workers.dev&path=%2FSohkwn3kg2NdQOFi%2FODguMTk4LjE3Mi4yNQ%3D%3D%3Fed%3D2560&security=tls&sni=D73D10d2-WiNTEr-UnioN-3936.NeWPAnEl54.WorkeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@198.41.208.219:8080/?type=ws&encryption=none&host=worker-wild-bread-baa9.test37.workers.dev&path=%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
