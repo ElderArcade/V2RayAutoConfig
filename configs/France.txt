@@ -1,5 +1,6 @@
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#France🇫🇷
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=%2F&mode=auto#%3E%3E%40v2line%3A%3AFR
 ss://031884db-e31b-4909-b83c-1dfbb84e7931@62.60.248.14:28485?encryption=none&type=grpc&mode=gun&serviceName=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=%2F#REALITY|FR🇫🇷
 ss://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@France.phantompanel.shop:2024?mode=gun&security=reality&encryption=none&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&fp=chrome&type=grpc&serviceName=yourServiceName&sni=www.cloudflare.com&sid=650bbd4b5cae0713#REALITY|FR🇫🇷
