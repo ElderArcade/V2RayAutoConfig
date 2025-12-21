@@ -242,7 +242,6 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.61:443#%F0%9F%87%AC%F0%9F%8
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.39:6379#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-1471
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-8029
 ss://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&host=ams1.fromblancwithlove.com&path=%2F#_%E8%8B%B1%E5%9B%BD%2011
-ss://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?&security=reality&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&fp=chrome&sni=analytics.google.com&type=tcp&headerType=none&path=%2F#_GB_%E8%8B%B1%E5%9B%BD%208
 ss://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%3E%3E%40oneclickvpnkeys%3A%3AGB
 ss://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.latimes.com&sid=6ea3daaac3d6bede#REALITY|GB🇬🇧
 ss://c93c6014-d516-4a11-b204-a4a1bfa22dc4@dl5-uk4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&type=ws#GB🇬🇧
@@ -355,7 +354,6 @@ vless://7e281f58-63b0-4e9a-a3fe-537e33e374b9@node8.svoy.run:443?encryption=none&
 vless://826213f2-99e7-4b15-afe2-c1535c96af75@free.fast199.hosting-ip.com:80?type=xhttp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none#GB🇬🇧
 vless://92d12a33-19c1-487c-b7e0-122014793fce@212.134.174.249:48778?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=W8s0O7u6tZqZcYjy53w-_O2PZyO_HjUNIJTKFNMkyQM&sid=cc82826f#REALITY|GB🇬🇧
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&host=ams1.fromblancwithlove.com&path=%2F#_%E8%8B%B1%E5%9B%BD%2011
-vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?&security=reality&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&fp=chrome&sni=analytics.google.com&type=tcp&headerType=none&path=%2F#_GB_%E8%8B%B1%E5%9B%BD%208
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.latimes.com&sid=6ea3daaac3d6bede#REALITY|GB🇬🇧
 vless://c93c6014-d516-4a11-b204-a4a1bfa22dc4@dl5-uk4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&type=ws#GB🇬🇧
