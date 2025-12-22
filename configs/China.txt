@@ -150,7 +150,6 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls#%
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1305
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1388
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1387
-trojan://17d3bf89-d2f0-4827-bcd0-c199fe54cd2a@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%202
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.188:1546?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.188-1834
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1839
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1843
@@ -158,7 +157,6 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls#%F0%
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1835
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4801?security=tls&sni=36.156.102.116#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1840
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1854
-trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%203
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-4631
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10820?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-4647
@@ -218,6 +216,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-14.215.39.158-2951
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-2826
 trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%252Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%252Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD%207
 trojan://BxceQaOe@219.79.214.159:443?sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@36.156.102.115:26876?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.115-0590
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.139.194-5772
