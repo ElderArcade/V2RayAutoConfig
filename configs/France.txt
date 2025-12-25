@@ -1,4 +1,5 @@
 hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#France🇫🇷
 ss://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR%20%F0%9F%A7%AD%204.9MB%2Fs
 ss://02663a90-d01c-46f1-afba-466ed79c30f6@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=%2F&mode=auto#%3E%3E%40v2line%3A%3AFR
