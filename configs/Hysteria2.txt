@@ -83,6 +83,7 @@ hy2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880/?insecure=1&sni=🔒
 hy2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088/?insecure=1&sni=apple.com#%F0%9F%8E%842%40oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088/?insecure=1&sni=apple.com#🎄2@oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281818%29
+hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%A7%91%E2%80%8D%F0%9F%8E%841%40oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#🎲76@oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#🧑‍🎄1@oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=🔒
@@ -95,6 +96,7 @@ hy2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sni=🔒
 hy2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=&O#28YB5qK!5t#U#⛄43@oneclickvpnkeys
 hy2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=&O#28YB5qK!5t#U#🎲94@oneclickvpnkeys
 hy2://linux.do@[2a01:4f9:4b:f378::1]:13599/?insecure=1&sni=www.bing.com#🎲85@oneclickvpnkeys
+hy2://yhqy5AHofQq@channel3.saghetalaie.homes:46914/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%E2%9B%8411%40oneclickvpnkeys
 hy2://yhqy5AHofQq@channel3.saghetalaie.homes:46914/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=&O#28YB5qK!5t#U#⛄11@oneclickvpnkeys
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?insecure=1&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--%40V2rayAlpha--17
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--@V2rayAlpha--17
@@ -523,7 +525,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%40Hd
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#@Hddify
 hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&insecure=1&sni=apple.com#All_1--%40V2rayAlpha
-hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&insecure=1&sni=apple.com#All_1--%40V2rayAlphatrojan://9BbIGN.nF%3DgztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All_2--%40V2rayAlpha
 hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&insecure=1&sni=apple.com#All_1--@V2rayAlpha
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088/?insecure=1&sni=apple.com#%F0%9F%8E%842%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088?security=tls&insecure=1&sni=apple.com#%F0%9F%8E%842%40ConfigV2RayNG
