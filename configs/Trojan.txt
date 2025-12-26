@@ -29,7 +29,6 @@ trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.elec
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=%2F#CA🇨🇦
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=🔒
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=🔒
 trojan://0000000@18.238.109.41:443/?type=tcp&security=tls&sni=🔒
@@ -4521,7 +4520,6 @@ trojan://BxceQaOe@58.152.30.31:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedia
 trojan://BxceQaOe@58.152.30.31:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰TM
 trojan://BxceQaOe@58.152.30.31:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.30.31:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=🔒
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -9530,6 +9528,7 @@ trojan://telegram-id-privatevpns@15.188.237.53:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+trojan://telegram-id-privatevpns@15.188.244.223:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.188.244.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.188.255.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
 trojan://telegram-id-privatevpns@15.188.255.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -9780,7 +9779,6 @@ trojan://telegram-id-privatevpns@52.47.169.236:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.47.183.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@52.47.66.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.47.66.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.66.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.47.67.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
