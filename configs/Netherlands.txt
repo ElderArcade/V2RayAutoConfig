@@ -444,9 +444,9 @@ trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.62:12151?sni=ads.x5.ru&allowInse
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=0&sni=mfyousheng.nl.eu.org&ws=1&wspath=%2FtjwsLhx0SFASG4l9FERJ1g#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#NL🇳🇱
 trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@45.63.40.126:13345?sni=ads.x5.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.3MB%2Fs
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-1735
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-1752
 trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?sni=infiniteinjera.semanticstrainer.click&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.5MB%2Fs
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-1732
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-1753
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0724
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-81.22.132.183-1210
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8988
