@@ -241,7 +241,6 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169?allowInsecure=0&sn
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169?allowInsecure=0&sni=www.nintendogames.net#12%2C13%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%20380.9KB%2Fs
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.223.205:2760?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.82.24:2760?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4353
 trojan://juzi@140.83.57.183:22735/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.57.183-0578
