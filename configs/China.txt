@@ -160,16 +160,12 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=w
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4801?security=tls&sni=36.156.102.116#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1852
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1866
 trojan://2bc95c2a-1808-4d67-b06d-7a2ae33525e9@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%2012
-trojan://3d7d3041-275b-4238-a7ed-faa24700c204@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%206
-trojan://3d7d3041-275b-4238-a7ed-faa24700c204@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%204
 trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%207
 trojan://43026775-d84c-4519-b448-0516ae0ccd64@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%209
 trojan://47d4d405-6e33-4120-b8ec-ad2a545f8b6e@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%2013
 trojan://47d4d405-6e33-4120-b8ec-ad2a545f8b6e@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81
 trojan://47d4d405-6e33-4120-b8ec-ad2a545f8b6e@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%202
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
-trojan://5bcc47ca-9afa-4410-84d0-72ffec97f1e2@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%205
-trojan://6e2e01e6-5ffa-4624-90f2-af2836182086@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%2011
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-4643
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10820?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-4659
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-4672

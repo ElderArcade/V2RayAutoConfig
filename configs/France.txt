@@ -108,6 +108,7 @@ ss://ba935369-17f4-4e04-bd32-f1cf8b6b5110@51.68.198.51:8080?path=%2FYUYETrenyklx
 ss://c42e4667-ca09-4769-b544-89a8da730daf@fr2.tunnely.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr2.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#REALITY|FR🇫🇷
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|FR🇫🇷
 ss://db0af2b5-bc19-457f-9af5-4c22e294f9f0@staticfr.soreanapanel.com:443?security=reality&type=tcp&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&sid=43a007179df71231&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&encryption=none#REALITY|FR🇫🇷
+ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fhttp#_%E6%B3%95%E5%9B%BD%206
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B68%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
@@ -210,6 +211,7 @@ vless://ba935369-17f4-4e04-bd32-f1cf8b6b5110@51.68.198.51:8080?path=%2FYUYETreny
 vless://c42e4667-ca09-4769-b544-89a8da730daf@fr2.tunnely.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr2.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#REALITY|FR🇫🇷
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|FR🇫🇷
 vless://db0af2b5-bc19-457f-9af5-4c22e294f9f0@staticfr.soreanapanel.com:443?security=reality&type=tcp&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&sid=43a007179df71231&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&encryption=none#REALITY|FR🇫🇷
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fhttp#_%E6%B3%95%E5%9B%BD%206
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B68%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
