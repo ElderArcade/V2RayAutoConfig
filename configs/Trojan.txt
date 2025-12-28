@@ -25,7 +25,6 @@ trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&allowInsecure=1&type=t
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_2%20%F0%9F%A7%AD%204.3MB%2Fs
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#PL🇵🇱
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=🔒
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509/?type=tcp&security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0291
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=0&sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0330
@@ -2418,6 +2417,7 @@ trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443/?type=ws&host
 trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443/?type=ws&host=veraams2.uspn.io&path=/trojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443/?type=ws&host=veraams2.uspn.io&path=🔒
 trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?sni=veraams2.uspn.io&allowInsecure=1&type=ws&path=/trojan&fp=chrome#👉🆔
+trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?sni=🔒
 trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?type=ws&host=veraams2.uspn.io&path=%2Ftrojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#NL🇳🇱
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cdns.doon.eu.org:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&path=%2F&Host=_acme-challenge.2go.cloudns.be#%F0%9F%8F%81RELAY-104.18.38.47-0945
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cdns.doon.eu.org:443?sni=_acme-challenge.2go.cloudns.be#🔥Join+Telegram:@Farah_VPN🟣
@@ -4546,6 +4546,7 @@ trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.1
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%B2%F0%9F%87%B4MO-45.64.22.55-0645
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=🔒
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579/?type=tcp&security=tls&sni=goodmorning.dancingbrick.click&allowInsecure=1#⛄️55@oneclickvpnkeys
+trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579/?type=tcp&security=tls&sni=🔒
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443/?type=tcp&security=tls&sni=🔒
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#🔥Join+Telegram:@Farah_VPN🟣
@@ -6789,7 +6790,6 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tc
 trojan://bcb12795-9b04-4293-93e5-42f448481532@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.138-0955
 trojan://bcb12795-9b04-4293-93e5-42f448481532@green2.cdntencentmusic.com:35502?security=tls&sni=🔒
 trojan://bcb12795-9b04-4293-93e5-42f448481532@green2.cdntencentmusic.com:35502?sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://bcbcaaa-cbaa-abca-cadb-bcaacaaccbbb@127.0.0.1:1080?security=tls&type=tcp
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443/?type=ws&host=xxxxxxxxxc.666461.xyz&path=%2Fx9F83IcyjcEyBXZBROjL3Q5vTymr&security=tls&sni=XXXXxxXxXc.666461.xyZ&alpn=http%2F1.1&fp=chrome#30%F0%9F%92%A7%40oneclickvpnkeys
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443/?type=ws&host=xxxxxxxxxc.666461.xyz&path=🔒
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443?security=tls&sni=🔒
@@ -8890,6 +8890,7 @@ trojan://kSZddpnUKy@150.136.57.125:41106#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-5573
 trojan://kSzEKwHEGEaNGwauwq6oWw@tun.shadowcx.top:7223?security=none&type=tcp&headerType=&path=🔒
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#14%7CUS_speednode_0009
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#US_speednode_0009
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#🇺🇸[openproxylist.com]
@@ -9052,6 +9053,7 @@ trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443/?type=ws&host=fl9f9zcnhrfnvka1o
 trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443/?type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&security=tls&sni=🔒
 trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#@Hope_Net-join-us-on-Telegram
 trojan://sMed9E7gA1@verahk1.uspn.io:443/?type=ws&host=verahk1.uspn.io&path=/trojan&security=tls&sni=verahk1.uspn.io&allowInsecure=1#⛄️66@oneclickvpnkeys
+trojan://sMed9E7gA1@verahk1.uspn.io:443/?type=ws&host=verahk1.uspn.io&path=🔒
 trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒
 trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#%F0%9F%87%AC%F0%9F%87%A7GB-185.49.33.47-1652
 trojan://shenmegui@185.49.33.47:8461?security=tls&sni=🔒
@@ -9949,6 +9951,7 @@ trojan://tg-dns68@162.159.152.23:443/?type=ws&host=vip.putata.eu.org&security=tl
 trojan://tg-dns68@162.159.152.23:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=🔒
 trojan://tg-dns68@162.159.152.27:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
+trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=🔒
 trojan://tg-dns68@162.159.152.3:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us...
 trojan://tg-dns68@162.159.152.42:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=🔒
@@ -10620,7 +10623,6 @@ trojan://zPpJHO23ws2rYPh102xWv9D6SGGwv5GxlIklVORjbEtUvXJemqU8coZJqZfJ0b76n/p1nVB
 trojan://zWFjJENcljZm@usa.visa.com:443?path=/?ed=2560&security=tls&host=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=chrome&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#@Broz_time
 trojan://zWFjJENcljZm@usa.visa.com:443?path=/?ed=2560&security=tls&host=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=chrome&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://zWFjJENcljZm@usa.visa.com:443?path=🔒
-trojan://zWFjJENcljZm@usa.visa.com:443?sni=🔒
 trojan://zY0HGcoAcY2v@104.21.16.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@104.21.32.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@104.21.48.1:443?security=tls&sni=🔒
