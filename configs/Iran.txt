@@ -352,6 +352,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.206:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
+ss://dfb88783-5942-41fe-948e-04736d42f422@5.75.201.242:443?allowInsecure=0#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv137.momdping.com#Join%20To%20%40IRAN_V2RAY1
 ss://e1f6bc5b-cbc2-49bb-8f26-1bf8bb85d18a@172.66.156.81:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws#MCI--@IRAN_V2RAY1
 ss://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfastservice%20%5B6%5D
@@ -628,6 +629,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.206:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
+vless://dfb88783-5942-41fe-948e-04736d42f422@5.75.201.242:443?allowInsecure=0#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv137.momdping.com#Join%20To%20%40IRAN_V2RAY1
 vless://e1f6bc5b-cbc2-49bb-8f26-1bf8bb85d18a@172.66.156.81:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws#MCI--@IRAN_V2RAY1
 vless://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfastservice%20%5B6%5D
