@@ -1,8 +1,4 @@
-hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281815%29
-hy2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281816%29
-hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281786%29
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281817%29
-hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281818%29
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%281817%29
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&security=tls&sni=api.kermanshahi.org&allowInsecure=true#https://t.me/ShadowsocksM77
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&security=tls&sni=api.kermanshahi.org&allowInsecure=true#https://t.me/ShadowsocksM104
@@ -244,7 +240,6 @@ ss://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?security=reality&
 ss://TELEGRAM-CONFiGLiNE-115@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
 ss://TELEGRAM-CONFiGLiNE-118@speedtest.net:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D1024&security=none&encryption=none&host=wsnewi.global.ssl.fastly.net&type=ws#https%3A%2F%2Ft.me%2Fvip
 ss://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#https://t.me/ShadowsocksM67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg@144.31.84.76:2050?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWo0c2VpZjg1UVFIZkxtUjB6WWtR@209.74.82.196:48918#https://t.me/v2raynplus
@@ -288,7 +283,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREl6Tw@se1.opensocks.site:8388#https://t.me
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUElHSFNlSVpWQlM3aERY@series1.samanehha.co:443#t.me/V2ray_Custom😉
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTFhrRXE1OTdpM29HQUd6akU0cVM2NHVQR2hqeFdwUGlxd3dCQXJLYnNxWVBVTnBRQndkZ0hMNktvRFNSR0U5YmpTZG4zcDRVYURZTVZtNnMxd01vaWZhdm5pclI1Tjg@94.131.22.134:40565#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@208.67.105.196:42029#https://t.me/v2rayNplus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#https://t.me/ShadowsocksM73
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#https://t.me/v2rayNplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcEJ6UXdtcVlUdmdJTXRxRmM4QVhP@sg.outlinekeys.net:52252#https://t.me/v2raynplus
@@ -301,11 +295,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaVcyYkVJYzIxTjNFVGIxRG44amhE@h110vpnus.outl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTXhjWWNlZnFVakc5U2oxdUxvaFF6@92.118.112.101:9483#https://t.me/v2rayNplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTXhjWWNlZnFVakc5U2oxdUxvaFF6@h110vpnus.outlinekeys.net:9483#https://t.me/v2rayNplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcVczbnNmYlNybmhYcE9GbmZUTlhB@185.229.225.211:1975?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#https://t.me/ShadowsocksM70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.139.26.173:57456#https://t.me/v2raynplus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#https://t.me/ShadowsocksM54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#https://t.me/v2rayNplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#https://t.me/ShadowsocksM118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppelRaU2UwZFkyWHVYWUtSall2dVZV@194.87.216.218:52571#https://t.me/v2raynplus
@@ -317,12 +309,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#https://t.me/ShadowsocksM109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#https://t.me/ShadowsocksM66
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#https://t.me/ShadowsocksM62
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#https://t.me/ShadowsocksM87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#https://t.me/ShadowsocksM51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#https://t.me/ShadowsocksM88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
@@ -342,7 +331,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQWZuY0RCV3JTSE5teWw2RUw1ZElk@h110vpnus.outl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzanRNLWZ4S1Q4YTZ1b2VDNXZUMnpB@83.143.112.115:1080#https://t.me/v2rayNplus
 ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ@185.103.110.67:18282#https://t.me/v2raynplus
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#https://t.me/v2raynplus
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.70:9033#https://t.me/ShadowsocksM65
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.70:9033#https://t.me/ShadowsocksM78
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.14:38388#t.me/entryNET/config=1853007061106899
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.167:38388#t.me/entryNET/config=1852992655561747
@@ -356,8 +344,6 @@ ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng@167.17.179.197:10081#https://t.me/v2
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.5:7307#t.me/entryNET/config=1852959248408254
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.129.2.185:10081#https://t.me/v2raynplus
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#https://t.me/ShadowsocksM46
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#https://t.me/ShadowsocksM74
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#t.me/entryNET/config=1852963023360094
 ss://a028620e-f800-4416-b30a-3f46a2dd1bd5@rez1.generator-filmmaker.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=L0T9ktp1wL9UBQJZATIoia23FvNFQtkKNOBinisAwA8&sid=e05e&packetEncoding=xudp#https://t.me/ShadowsocksM75
 ss://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443?path=/mucowsws&security=tls&encryption=none&insecure=1&host=v2rayNplus.io&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus
