@@ -5016,6 +5016,7 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=non
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@Broz_time+>+کانفیگ+رایگان
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@V2rayNG3
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#All_10--@V2rayAlpha
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🇮🇹[openproxylist.com]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🔥Join+Telegram:@Farah_VPN🟣
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru#⚜️𝗝𝗼𝗶𝗻
@@ -7588,7 +7589,7 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169/?type=tcp&security
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.144.208-0404%20%7C%200.587MB
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-5056
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net#🏳[openproxylist.com]
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3ASG
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
@@ -8868,6 +8869,7 @@ trojan://telegram-id-privatevpns@52.48.207.242:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@52.57.81.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://telegram-id-privatevpns@52.57.81.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.58.149.106:22222?type=tcp&security=tls&sni=🔒
+trojan://telegram-id-privatevpns@52.58.152.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@52.58.179.46:22222?allowInsecure=0&sni=🔒
 trojan://telegram-id-privatevpns@54.154.239.54:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@54.155.203.115:22222?security=tls&headerType=&type=tcp&sni=🔒
