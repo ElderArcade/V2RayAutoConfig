@@ -649,6 +649,7 @@ hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.
 hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_...%20%232
 hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii&insecure=1&sni=ghasem.kotlet.org#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@102.219.85.236:20265?insecure=1&sni=www.cloudflare.com#%23165%20ZA1
+hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@102.219.85.236:20265?insecure=1&sni=www.cloudflare.com#🌐سرور
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@161.132.51.133:20045?insecure=1&sni=www.cloudflare.com#%23162%20PE1
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@212.127.78.119:20185?insecure=1&sni=www.cloudflare.com#%23143%20PL2
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-de1.2513142.xyz:443?insecure=1&sni=www.cloudflare.com#%23119%20DE9
