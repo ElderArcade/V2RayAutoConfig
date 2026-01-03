@@ -144,7 +144,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?secu
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.210.166-2735
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.47.114-2707
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443/?type=tcp&security=tls&sni=www.linemo.jp#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.104.143-0656
-trojan://BxceQaOe@18.181.195.198:1112?sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E9%83%BDAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://BxceQaOe@3.113.31.15:1221?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.31.15-0914
 trojan://BxceQaOe@52.194.193.12:11945/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.12-4956
 trojan://BxceQaOe@52.194.193.12:2762?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
