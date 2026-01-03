@@ -653,7 +653,6 @@ hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@161.132.51.133:20045?insecure=1&sni
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@212.127.78.119:20185?insecure=1&sni=www.cloudflare.com#%23143%20PL2
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-de1.2513142.xyz:443?insecure=1&sni=www.cloudflare.com#%23119%20DE9
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-de2.2513142.xyz:443?insecure=1&sni=www.cloudflare.com#%23120%20DE10
-hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-de2.2513142.xyz:443?insecure=1&sni=www.cloudflare.com#🌐سرور
 hysteria2://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-tor.2513142.xyz:443?insecure=1&sni=www.cloudflare.com#%23160%20CA2
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
 hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=&O#28YB5qK!5t#U#Join%20-%3E%20Telegram%3A%20%40V2Gatee%20%234
