@@ -1,5 +1,8 @@
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056/?insecure=1&sni=cc1.mangshe.xyz#KR
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056?insecure=1&sni=cc1.mangshe.xyz#KR
+ss://3afad5df-e056-4301-846d-665b4ef51968@193.122.100.41:8443?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F193.122.100.41%3A8443#_%E9%9F%A9%E5%9B%BD%204
+ss://3afad5df-e056-4301-846d-665b4ef51968@222.111.76.239:29090?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F222.111.76.239%3A29090#_%E9%9F%A9%E5%9B%BD%203
+ss://3afad5df-e056-4301-846d-665b4ef51968@59.3.254.241:10101?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F59.3.254.241%3A10101#_%E9%9F%A9%E5%9B%BD%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20SS%20%7C%20%40v2ray_free_conf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+115.161.136.145-10099+%7C+194.72ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+115.161.136.145-10099+%7C+199.31ms
@@ -56,6 +59,9 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-2847
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3188
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-3692
+vless://3afad5df-e056-4301-846d-665b4ef51968@193.122.100.41:8443?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F193.122.100.41%3A8443#_%E9%9F%A9%E5%9B%BD%204
+vless://3afad5df-e056-4301-846d-665b4ef51968@222.111.76.239:29090?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F222.111.76.239%3A29090#_%E9%9F%A9%E5%9B%BD%203
+vless://3afad5df-e056-4301-846d-665b4ef51968@59.3.254.241:10101?&security=tls&fp=chrome&sni=x.kkii.eu.org&type=ws&headerType=none&host=x.kkii.eu.org&path=%2F59.3.254.241%3A10101#_%E9%9F%A9%E5%9B%BD%202
 vmess://ewogICAgImFkZCI6ICI0NS4xNDEuMTM5LjEwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNjc1MmUyYzQtZmY3Yy00ZGE1LWE4MTUtYzMwN2JmODNhYjQ4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDEzMzExLAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDUuMTQxLjEzOS4xMDktNzM3NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI1Mi43OC4yMTMuMjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2ZjQ0MjgyMy02YjczLTRiMzEtZjFmNS1hYTFlOTA3YjA1MWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HsPCfh7dLUi01Mi43OC4yMTMuMjI0LTEzNDYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI1NC4xODAuMTE0Ljc3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDI1MTcsCiAgICAicHMiOiAi8J+HsPCfh7dLUi01NC4xODAuMTE0Ljc3LTU2ODUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
