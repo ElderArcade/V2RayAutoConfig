@@ -7682,6 +7682,7 @@ trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#RELAY🚩
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#WiFi-%40V2rayAlpha--6
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#%40Vpn_Sky
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#RELAY🚩
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#🔥Join+Telegram:@Farah_VPN🟣
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=1&host=blueivy.qzz.io&type=ws&allowInsecure=1&sni=blueivy.qzz.io#%40V2RAY_VMESS_free
@@ -8231,7 +8232,6 @@ trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40vpnz4%20%F0%9F%94%B4
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#⚡Telegram=@SOSkeyNET
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40Filter_breaker
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -8251,6 +8251,7 @@ trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1
 trojan://humanity@www.calmlunch.com:443?path=🔒
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#@meliproxyy
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A516
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=🔒
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#[🇨🇦]t.me/ConfigsHub
@@ -9369,6 +9370,7 @@ trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:2.24ms
+trojan://telegram-id-privatevpns@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.181.17.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.181.193.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.181.193.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
@@ -9482,7 +9484,6 @@ trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&%3Balpn=http%2
 trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&%3Balpn=http%2F1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&%3Balpn=http%2F1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=🔒
 trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.181.90.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.182.57.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.182.57.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.182.57.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1853367312891818
