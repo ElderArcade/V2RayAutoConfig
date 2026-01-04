@@ -4023,6 +4023,7 @@ trojan://BxceQaOe@58.152.46.60:443?sni=🔒
 trojan://BxceQaOe@58.152.53.174:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.174-0627
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#RELAY🚩
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=🔒
+trojan://CH1uIwV42k@5.175.249.117:443?security=reality&host=www.namasha.com%2C+s45.namasha.com&headerType=http&fp=chrome&type=tcp&sni=google.com#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://CH1uIwV42k@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com%2Cs45.namasha.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=9715efa856269398#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://CH1uIwV42k@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com%2Cs45.namasha.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=9715efa856269398#@meliproxyy
 trojan://CH1uIwV42k@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9715efa856269398#r♡ya@V2rayBaaz
@@ -7906,7 +7907,6 @@ trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#⚡Telegram
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#𝗝𝗼𝗶𝗻
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -7922,6 +7922,7 @@ trojan://humanity@www.calmlunch.com:443?path=🔒
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#@meliproxyy
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A516
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A55
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=🔒
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#[🇨🇦]t.me/ConfigsHub
@@ -8934,6 +8935,7 @@ trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-1501
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@3.64.206.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@3.65.213.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.67.115.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
 trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
