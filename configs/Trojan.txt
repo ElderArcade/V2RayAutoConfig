@@ -3952,6 +3952,7 @@ trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BB
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20#%23025%20HK11
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20#%23065%20HK21
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%2088%20#%23099%20HK49
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%2088%20#🇭🇰[openproxylist.com]
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20trojan-HK%20#%23040%20HK26
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20trojan-HK%20#%23126%20HK55
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%20#%23041%20HK27
@@ -3994,7 +3995,6 @@ trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20#%23021%20HK7
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20#%23061%20HK17
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20761%20#%23097%20HK47
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20761%20#🇭🇰[openproxylist.com]
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20885%20#%23096%20HK46
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20trojan-HK%20#%23039%20HK25
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20trojan-HK%20#%23128%20HK57
@@ -7142,6 +7142,8 @@ trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443?path=%2FptGwaGz
 trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443/?type=ws&host=4cbba020.fastpurnet3.pages.dev&security=tls&sni=4cbba020.fastpurnet3.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443/?type=ws&host=4cbba020.fastpurnet3.pages.dev&security=tls&sni=🔒
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&allowInsecure=true&fp=chrome#🇮🇸[openproxylist.com]
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=🔒
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@20.24.192.3:20712?security=tls&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-20.24.192.3-7196
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@20.24.192.3:20712?security=tls&sni=🔒
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790
@@ -7935,7 +7937,6 @@ trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#⚡Telegram
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#⚡Telegram=@SOSkeyNET
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#𝗝𝗼𝗶𝗻
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -7949,6 +7950,7 @@ trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=ch
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A5
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A516
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=🔒
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#[🇨🇦]t.me/ConfigsHub
